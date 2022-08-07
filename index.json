@@ -7,7 +7,7 @@
   "screens": [
     {
       "title": "Recientes",
-      "source": "./Recientes.json",
+      "source": "https://pruebasazteca.github.io/noticiasApp/recientesSection.json",
       "icon": "e90a",
       "color": "1f4e6e"
     },
