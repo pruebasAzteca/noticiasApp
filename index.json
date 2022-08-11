@@ -9,48 +9,6 @@
     "modules":
     [
         {
-            "view": "tabs",
-            "screens":
-            [
-                {
-                    "title": "Recientes",
-                    "source": "https://pruebasazteca.github.io/noticiasApp/recientesSection.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Secciones",
-                    "source": "./Secciones.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Video",
-                    "source": "./Video.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Galerías",
-                    "source": "./Galerías.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Opinión",
-                    "source": "./Opinion.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Especiales",
-                    "source": "./Especiales.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                }
-            ]
-        },
-        {
             "view": "carousel",
             "promos":
             [
@@ -153,6 +111,48 @@
                             "color": "#ff0000"
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "view": "tabs",
+            "screens":
+            [
+                {
+                    "title": "Recientes",
+                    "source": "https://pruebasazteca.github.io/noticiasApp/recientesSection.json",
+                    "icon": "e90a",
+                    "color": "1f4e6e"
+                },
+                {
+                    "title": "Secciones",
+                    "source": "./Secciones.json",
+                    "icon": "e90a",
+                    "color": "1f4e6e"
+                },
+                {
+                    "title": "Video",
+                    "source": "./Video.json",
+                    "icon": "e90a",
+                    "color": "1f4e6e"
+                },
+                {
+                    "title": "Galerías",
+                    "source": "./Galerías.json",
+                    "icon": "e90a",
+                    "color": "1f4e6e"
+                },
+                {
+                    "title": "Opinión",
+                    "source": "./Opinion.json",
+                    "icon": "e90a",
+                    "color": "1f4e6e"
+                },
+                {
+                    "title": "Especiales",
+                    "source": "./Especiales.json",
+                    "icon": "e90a",
+                    "color": "1f4e6e"
                 }
             ]
         }
