@@ -126,7 +126,7 @@
                 },
                 {
                     "title": "Secciones",
-                    "source": "./Secciones.json",
+                    "source": "https://pruebasazteca.github.io/noticiasApp/secciones.json",
                     "icon": "e90a",
                     "color": "1f4e6e"
                 },
