@@ -1,0 +1,1939 @@
+{
+  "title": "Reciente",
+  "modules":[
+    {
+      "title": "Lo más visto",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#163a5a",
+      "view": "regularTitle"
+    },
+    {
+      "view": "SimpleSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en lo más visto",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-1.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-2.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-3.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-4.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Política",
+      "backgroundColor": "#0d2938",
+      "fontColor": "#ffffff",
+      "view": "principalTitle"
+    },
+    {
+      "title": "Notas",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/30.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/1.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/2.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/3.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/4.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Videos",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/5.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/6.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/7.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/8.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/9.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Galerias",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/10.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/11.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/12.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/13.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/14.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Finanzas",
+      "backgroundColor": "#f2a241",
+      "fontColor": "#ffffff",
+      "view": "principalTitle"
+    },
+    {
+      "title": "Notas",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/30.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/1.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/2.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/3.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/4.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Videos",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/5.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/6.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/7.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/8.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/9.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Galerias",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/10.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/11.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/12.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/13.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/14.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Estados",
+      "backgroundColor": "#49a199",
+      "fontColor": "#ffffff",
+      "view": "principalTitle"
+    },
+    {
+      "title": "Notas",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/30.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/1.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/2.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/3.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/4.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Videos",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/5.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/6.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/7.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/8.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/9.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Galerias",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/10.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/11.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/12.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/13.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/14.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mundo",
+      "backgroundColor": "#3170c8",
+      "fontColor": "#ffffff",
+      "view": "principalTitle"
+    },
+    {
+      "title": "Notas",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/30.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/1.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/2.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/3.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/4.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Videos",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/5.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/6.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/7.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/8.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/9.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Galerias",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/10.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/11.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/12.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/13.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/14.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seguridad",
+      "backgroundColor": "#595476",
+      "fontColor": "#ffffff",
+      "view": "principalTitle"
+    },
+    {
+      "title": "Notas",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/30.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/1.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/2.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/3.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/4.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Videos",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/5.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/6.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/7.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/8.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/9.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Galerias",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#0d2938",
+      "view": "smallTitle"
+    },
+    {
+      "view": "DestacadaSlider",
+      "contentType": "nota",
+      "moreTitle": "Ver más en Política",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/10.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/11.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/12.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/13.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/14.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    }
+  ] 
+}
