@@ -132,7 +132,7 @@
                 },
                 {
                     "title": "Video",
-                    "source": "./Video.json",
+                    "source": "https://pruebasazteca.github.io/noticiasApp/video.json",
                     "icon": "e90a",
                     "color": "1f4e6e"
                 },
