@@ -9,13 +9,13 @@
     },
     {
       "view": "SimpleSlider",
-      "contentType": "video",
       "moreTitle": "Ver más en lo más visto",
       "content": "../url_mas_Contenido.json",
       "promos": [
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -37,6 +37,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-1.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -58,6 +59,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-2.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -79,6 +81,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-3.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -100,6 +103,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-4.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -128,13 +132,13 @@
     },
     {
       "view": "SimpleList",
-      "contentType": "video",
       "moreTitle": "Ver más en Galerías",
       "content": "../url_mas_Contenido.json",
       "promos": [
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/5.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -157,6 +161,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/6.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -179,6 +184,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/7.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -201,6 +207,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/8.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -223,6 +230,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/9.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -252,13 +260,13 @@
     },
     {
       "view": "SimpleList",
-      "contentType": "video",
       "moreTitle": "Ver más en Galerías",
       "content": "../url_mas_Contenido.json",
       "promos": [
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/5.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -281,6 +289,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/6.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -303,6 +312,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/7.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -325,6 +335,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/8.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
@@ -347,6 +358,7 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/9.png",
+          "contentType": "video",
           "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
