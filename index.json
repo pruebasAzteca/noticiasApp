@@ -15,7 +15,7 @@
                 {
                     "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
                     "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img1.JPG",
-                    "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+                    "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaGaleria.json",
                     "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
                     "publicationDate": "Publicado: Hace 1 hora",
                     "tags":
