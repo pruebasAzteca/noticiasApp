@@ -1,0 +1,159 @@
+{
+  "title": "Detalle de la nota",
+  "modules": [
+    {
+      "view": "Article",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img3.JPG",
+          "contentType": "nota",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "videoAssetId": "",
+          "video": "",
+          "vast": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "gallery":[],
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Notas relacionadas",
+      "backgroundColor": "#ffffff",
+      "fontColor": "#163a5a",
+      "view": "regularTitle"
+    },
+    {
+      "view": "SimpleSlider",
+      "moreTitle": "Ver más en lo más visto",
+      "content": "../url_mas_Contenido.json",
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043.png",
+          "contentType": "nota",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-1.png",
+          "contentType": "nota",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-2.png",
+          "contentType": "nota",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-3.png",
+          "contentType": "nota",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-4.png",
+          "contentType": "nota",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "tags": [
+            {
+              "name": "Nota",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
