@@ -7,16 +7,17 @@
         {
           "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
           "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-          "image": "",
           "contentType": "video",
           "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-          "durationTime": "4:50",
-          "videoAssetId": "6026098234c0b9088fdd4b75",
-          "video": "https://mdstrm.com/video/6026098234c0b9088fdd4b75.m3u8",
-          "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/novelas/mujer-comprada/capitulos&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D6026098234c0b9088fdd4b75&sz=640x480&vid=6026098234c0b9088fdd4b75&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
+          "mainMedia": {
+            "view": "Video",
+            "durationTime": "3:05",
+            "videoAssetId": "6025a949ece5cd0841316bd3",
+            "video": "https://mdstrm.com/video/6025a949ece5cd0841316bd3.m3u8",
+            "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/programas/al-extremo/Programas-Al-Extremo-Programas&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D626c7c4587a1ba5814da8f85&sz=640x480&vid=626c7c4587a1ba5814da8f85&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator="
+          },
           "publicationDate": "Publicado: Hace 1 hora",
           "author": "Publicado por: Nombre",
-          "gallery":[],
           "tags": [
             {
               "name": "Nota",
