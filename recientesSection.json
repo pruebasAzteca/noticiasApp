@@ -1,6 +1,6 @@
 {
   "title": "Reciente",
-  "modules":[
+  "modules": [
     {
       "title": "Lo más visto",
       "backgroundColor": "#ffffff",
@@ -123,6 +123,15 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Tráfico y vialidad",
+      "backgroundColor": "#1f4e6e",
+      "fontColor": "#ffffff",
+      "view": "subsectionTitle"
+    },
+    {
+      "view": "mapa"
     },
     {
       "title": "Política",
@@ -863,11 +872,11 @@
       ]
     },
     {
-        "title": "Video",
-        "backgroundColor": "#1f4e6e",
-        "fontColor": "#ffffff",
-        "view": "subsectionTitle"
-      },
+      "title": "Video",
+      "backgroundColor": "#1f4e6e",
+      "fontColor": "#ffffff",
+      "view": "subsectionTitle"
+    },
     {
       "view": "SimpleList",
       "moreTitle": "Ver más en Videos",
@@ -991,11 +1000,11 @@
       ]
     },
     {
-        "title": "Galerías",
-        "backgroundColor": "#1f4e6e",
-        "fontColor": "#ffffff",
-        "view": "subsectionTitle"
-      },
+      "title": "Galerías",
+      "backgroundColor": "#1f4e6e",
+      "fontColor": "#ffffff",
+      "view": "subsectionTitle"
+    },
     {
       "view": "SimpleList",
       "moreTitle": "Ver más en Galerías",
@@ -1119,11 +1128,11 @@
       ]
     },
     {
-        "title": "Coberturas especiales",
-        "backgroundColor": "#1f4e6e",
-        "fontColor": "#ffffff",
-        "view": "subsectionTitle"
-      },
+      "title": "Coberturas especiales",
+      "backgroundColor": "#1f4e6e",
+      "fontColor": "#ffffff",
+      "view": "subsectionTitle"
+    },
     {
       "view": "SimpleList",
       "moreTitle": "Ver más en Especiales",
@@ -1201,12 +1210,12 @@
       ]
     },
     {
-        "title": "Opinión",
-        "backgroundColor": "#1f4e6e",
-        "fontColor": "#ffffff",
-        "view": "subsectionTitle"
-      },
-      {
+      "title": "Opinión",
+      "backgroundColor": "#1f4e6e",
+      "fontColor": "#ffffff",
+      "view": "subsectionTitle"
+    },
+    {
       "view": "SimpleSlider",
       "moreTitle": "Ver más en Opinión",
       "content": "../url_mas_Contenido.json",
@@ -1323,5 +1332,5 @@
         }
       ]
     }
-  ] 
+  ]
 }
