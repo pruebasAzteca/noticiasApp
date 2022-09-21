@@ -1,0 +1,134 @@
+   {
+      "promos": [
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/5.png",
+          "contentType": "nota",
+          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "location": {
+            "lat": 19.30586,
+             "long": 99.20960
+          },
+          "tags": [
+            {
+              "name": "Galería",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Política",
+              "type": "Section",
+              "color": "#163a5a"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/6.png",
+          "contentType": "nota",
+          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "location": {
+             "lat": 19.29559,
+             "long": 99.21141
+          },
+          "tags": [
+            {
+              "name": "Galería",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Mundo",
+              "type": "Section",
+              "color": "#3170c8"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/7.png",
+          "contentType": "nota",
+          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "location": {
+             "lat": 19.30045,
+             "long": 99.18878
+          },
+          "tags": [
+            {
+              "name": "Galería",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Seguridad",
+              "type": "Section",
+              "color": "#4b4764"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/8.png",
+          "contentType": "nota",
+          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "location": {
+             "lat": 19.33162,
+             "long": 99.19277
+          },
+          "tags": [
+            {
+              "name": "Galería",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Bienestar",
+              "type": "Section",
+              "color": "#e14852"
+            }
+          ]
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/notas/9.png",
+          "contentType": "nota",
+          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
+          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
+          "durationTime": "",
+          "publicationDate": "Publicado: Hace 1 hora",
+          "author": "Publicado por: Nombre",
+          "location": {
+             "lat": 19.33599,
+             "long": 99.18862
+          },
+          "tags": [
+            {
+              "name": "Galería",
+              "type": "ContentType",
+              "color": "#ffffff"
+            },
+            {
+              "name": "Finanzas",
+              "type": "Section",
+              "color": "#f1a23e"
+            }
+          ]
+        }
+      ]
+    }
