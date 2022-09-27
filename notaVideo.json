@@ -12,9 +12,9 @@
           "mainMedia": {
             "view": "Video",
             "durationTime": "3:05",
-            "videoAssetId": "6025a949ece5cd0841316bd3",
-            "video": "https://mdstrm.com/video/6025a949ece5cd0841316bd3.m3u8",
-            "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/programas/al-extremo/Programas-Al-Extremo-Programas&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D626c7c4587a1ba5814da8f85&sz=640x480&vid=626c7c4587a1ba5814da8f85&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator="
+            "videoAssetId": "63323216bc02c6032999e6c1",
+            "video": "https://mdstrm.com/video/63323216bc02c6032999e6c1.m3u8",
+            "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/realities/Realities-Survivor/Realities-Survivor-Programas&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D63323216bc02c6032999e6c1&sz=640x480&vid=63323216bc02c6032999e6c1&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator="
           },
           "publicationDate": "Publicado: Hace 1 hora",
           "author": "Publicado por: Nombre",
