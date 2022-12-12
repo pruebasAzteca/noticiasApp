@@ -1,0 +1,775 @@
+{
+  "modules": [
+    {
+      "content": "https://uat.tv-azteca.psdops.com/aztecanoticias/videos/envivo?_app=true",
+      "detail": true,
+      "firebaseEvent": "live-button",
+      "label": "EN VIVO",
+      "moreTitle": "Ver en vivo",
+      "schedule": "Lun - Vier 7:59 a 9:29AM",
+      "thumbnail": "https://uat.tv-azteca.psdops.com/dims4/default/521db2e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F76%2Fb12710d44cf5bdf2c68fe1a9e487%2Faqui-entre-nos.jpg",
+      "title": "Hechos Aquí Entre Nos",
+      "view": "liveButton"
+    },
+    {
+      "backgroundColor": "#ffffff",
+      "fontColor": "#004f71",
+      "title": "Lo más visto",
+      "view": "regularTitle"
+    },
+    {
+      "promos": [
+        {
+          "author": "Publicado por: Raziel Cruz Salazar",
+          "contentType": "video",
+          "durationTime": "3:26",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-1",
+          "highlighted": false,
+          "id": "00000182-cdf8-dc10-a39e-fdf8da930000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/541054d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F94%2Ff6%2Ff06fa96f4dfb9f18583874258da3%2Fnicaragua-otoniel.jpeg",
+          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaVideo.json",
+          "publicationDate": "23 agosto 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Nicaragua es un país fachada: Otoniel Martínez expuso una dictadura"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "6:16",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-2",
+          "highlighted": false,
+          "id": "0000017f-1fbf-df6d-af7f-bfff69a90000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/2aab77a/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Faa%2F18%2Fbe70de1aa62d56f30cd89df7002b%2Fthumb-621469d611d62313e7427522-621469d611d62313e7427530-38s.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/hechos-noche-28-años-sh?_app=true",
+          "publicationDate": "21 febrero 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "¡28 años juntos! Hechos Noche siempre al frente de la información"
+        },
+        {
+          "author": "Publicado por: Carolina Rocha",
+          "contentType": "video",
+          "durationTime": "6:29",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-3",
+          "highlighted": false,
+          "id": "00000180-9598-d621-a5b3-9fdc22b80000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/47bbb04/2147483647/strip/true/crop/3712x2088+0+1740/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F40%2F61%2Fd7b414f0406db27478a1de97f63c%2Fplanta-de-tabaco.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/video/ni-patria-ni-vida-cuba-tabaco-ces?_app=true",
+          "publicationDate": "05 mayo 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "El desfalco puro con el tabaco en Cuba | Ni Patria Ni Vida"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "2:14",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-4",
+          "highlighted": false,
+          "id": "00000180-925b-d621-a5b3-9a5f953b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/bbdce6d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa7%2F65%2F542689a14510b42e3088393f6c6f%2Fplan-contra-la-inflacion.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/amlo-plan-contra-inflacion?_app=true",
+          "publicationDate": "04 mayo 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "AMLO presenta plan contra la inflación: fija precios de garantía"
+        },
+        {
+          "author": "Publicado por: Juan Pablo Delgado",
+          "contentType": "video",
+          "durationTime": "2:02",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-5",
+          "highlighted": false,
+          "id": "00000182-23fd-d8a8-a1d7-fffdd4fb0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8f1ef01/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2c%2F69%2F83b46b3b4283a7a3ad601faf2bdf%2Fpoliticos.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/video-date-cuenta-boris-johnson-potitico-improvisado?_app=true",
+          "publicationDate": "21 julio 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Date Cuenta | Boris Johnson es un político improvisado"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "2:02",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-6",
+          "highlighted": false,
+          "id": "00000180-8841-dcc4-a18e-f8e122490000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/add7beb/2147483647/strip/true/crop/1280x720+0+67/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F89%2F9d%2Fb0cad43146a99ceb6f875fb17d48%2Fzoe-robledo.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/imss-lanza-elssa?_app=true",
+          "publicationDate": "03 mayo 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "IMSS presenta ELSSA, programa a nivel nacional"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "1:37",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-7",
+          "highlighted": false,
+          "id": "00000183-ab8a-d392-a59b-afdb64a00000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/b07287c/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff0%2Fe6%2F0ed8df8d41ddb1c607547507cf0f%2Fguanajuato-industria.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/guanajuato-epicentro-industria-lpg?_app=true",
+          "publicationDate": "05 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Guanajuato se volvió nuevamente el epicentro de la industria"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "1:53",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-8",
+          "highlighted": false,
+          "id": "00000180-882e-dcc4-a18e-f8aed3250000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/ff9f908/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb3%2F31%2Fc42cb14a4cefb9962f5ba8f6ea35%2Fmichoacan-violencia.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/violencia-michoacan?_app=true",
+          "publicationDate": "03 mayo 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Violencia en Michoacán"
+        },
+        {
+          "author": "Publicado por: Federico Anaya",
+          "contentType": "video",
+          "durationTime": "5:02",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-9",
+          "highlighted": false,
+          "id": "0000016e-4173-da58-a76e-e37b87220000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/e14492c/2147483647/strip/true/crop/2560x1440+0+80/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff5%2Fd0%2F00a1b5bc4817ae9b97da418e7a0d%2Fcaptura-de-pantalla-2019-11-06-a-las-11.02.51.png",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/seguridad-y-justicia/videos/desaparecen-en-zumpango-ciudadanos-a-manos-de-la-policia-local?_app=true",
+          "publicationDate": "13 mayo 2021",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Desaparecen en Zumpango ciudadanos a manos de la policía local "
+        },
+        {
+          "author": "Publicado por: Daniel Sangeado",
+          "contentType": "video",
+          "durationTime": "4:59",
+          "firebaseEvent": "video-simpleslider-lo-mas-visto-pos-10",
+          "highlighted": false,
+          "id": "0000016f-db41-dae7-ab6f-ffc9cf0a0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/4659d59/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F68%2Fca%2F368b4eb34082b46dc5f0ae6c4e8d%2Fdesechos-de-la-semana-con-daniel-sangeado.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/politica/videos/los-deshechos-de-la-semana-con-daniel-sangeado?_app=true",
+          "publicationDate": "25 enero 2020",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Los DesHechos de la Semana con Daniel Sangeado"
+        }
+      ],
+      "view": "simpleSlider",
+      "content": "",
+      "moreTitle": ""
+    },
+    {
+      "backgroundColor": "#ffffff",
+      "fontColor": "#004f71",
+      "title": "Destacados",
+      "view": "regularTitle"
+    },
+    {
+      "promos": [
+        {
+          "author": "Publicado por: Raziel Cruz Salazar",
+          "contentType": "video",
+          "durationTime": "3:26",
+          "firebaseEvent": "video-simplelist-destacados-pos-1",
+          "highlighted": true,
+          "id": "00000182-cdf8-dc10-a39e-fdf8da930000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/541054d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F94%2Ff6%2Ff06fa96f4dfb9f18583874258da3%2Fnicaragua-otoniel.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/nicaragua-daniel-ortega-pais-fachada-dictadura-lpg?_app=true",
+          "publicationDate": "23 agosto 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Nicaragua es un país fachada: Otoniel Martínez expuso una dictadura"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "6:16",
+          "firebaseEvent": "video-simplelist-destacados-pos-2",
+          "highlighted": true,
+          "id": "0000017f-1fbf-df6d-af7f-bfff69a90000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/2aab77a/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Faa%2F18%2Fbe70de1aa62d56f30cd89df7002b%2Fthumb-621469d611d62313e7427522-621469d611d62313e7427530-38s.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/hechos-noche-28-años-sh?_app=true",
+          "publicationDate": "21 febrero 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "¡28 años juntos! Hechos Noche siempre al frente de la información"
+        },
+        {
+          "author": "Publicado por: Carolina Rocha",
+          "contentType": "video",
+          "durationTime": "6:29",
+          "firebaseEvent": "video-simplelist-destacados-pos-3",
+          "highlighted": true,
+          "id": "00000180-9598-d621-a5b3-9fdc22b80000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/47bbb04/2147483647/strip/true/crop/3712x2088+0+1740/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F40%2F61%2Fd7b414f0406db27478a1de97f63c%2Fplanta-de-tabaco.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/video/ni-patria-ni-vida-cuba-tabaco-ces?_app=true",
+          "publicationDate": "05 mayo 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "El desfalco puro con el tabaco en Cuba | Ni Patria Ni Vida"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "2:14",
+          "firebaseEvent": "video-simplelist-destacados-pos-4",
+          "highlighted": true,
+          "id": "00000180-925b-d621-a5b3-9a5f953b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/bbdce6d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa7%2F65%2F542689a14510b42e3088393f6c6f%2Fplan-contra-la-inflacion.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/amlo-plan-contra-inflacion?_app=true",
+          "publicationDate": "04 mayo 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "AMLO presenta plan contra la inflación: fija precios de garantía"
+        },
+        {
+          "author": "Publicado por: Juan Pablo Delgado",
+          "contentType": "video",
+          "durationTime": "2:02",
+          "firebaseEvent": "video-simplelist-destacados-pos-5",
+          "highlighted": true,
+          "id": "00000182-23fd-d8a8-a1d7-fffdd4fb0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8f1ef01/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2c%2F69%2F83b46b3b4283a7a3ad601faf2bdf%2Fpoliticos.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/video-date-cuenta-boris-johnson-potitico-improvisado?_app=true",
+          "publicationDate": "21 julio 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Date Cuenta | Boris Johnson es un político improvisado"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "2:02",
+          "firebaseEvent": "video-simplelist-destacados-pos-6",
+          "highlighted": true,
+          "id": "00000180-8841-dcc4-a18e-f8e122490000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/add7beb/2147483647/strip/true/crop/1280x720+0+67/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F89%2F9d%2Fb0cad43146a99ceb6f875fb17d48%2Fzoe-robledo.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/imss-lanza-elssa?_app=true",
+          "publicationDate": "03 mayo 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "IMSS presenta ELSSA, programa a nivel nacional"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "1:37",
+          "firebaseEvent": "video-simplelist-destacados-pos-7",
+          "highlighted": true,
+          "id": "00000183-ab8a-d392-a59b-afdb64a00000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/b07287c/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff0%2Fe6%2F0ed8df8d41ddb1c607547507cf0f%2Fguanajuato-industria.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/guanajuato-epicentro-industria-lpg?_app=true",
+          "publicationDate": "05 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Guanajuato se volvió nuevamente el epicentro de la industria"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "1:53",
+          "firebaseEvent": "video-simplelist-destacados-pos-8",
+          "highlighted": true,
+          "id": "00000180-882e-dcc4-a18e-f8aed3250000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/ff9f908/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb3%2F31%2Fc42cb14a4cefb9962f5ba8f6ea35%2Fmichoacan-violencia.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/violencia-michoacan?_app=true",
+          "publicationDate": "03 mayo 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Violencia en Michoacán"
+        },
+        {
+          "author": "Publicado por: Federico Anaya",
+          "contentType": "video",
+          "durationTime": "5:02",
+          "firebaseEvent": "video-simplelist-destacados-pos-9",
+          "highlighted": true,
+          "id": "0000016e-4173-da58-a76e-e37b87220000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/e14492c/2147483647/strip/true/crop/2560x1440+0+80/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff5%2Fd0%2F00a1b5bc4817ae9b97da418e7a0d%2Fcaptura-de-pantalla-2019-11-06-a-las-11.02.51.png",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/seguridad-y-justicia/videos/desaparecen-en-zumpango-ciudadanos-a-manos-de-la-policia-local?_app=true",
+          "publicationDate": "13 mayo 2021",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Desaparecen en Zumpango ciudadanos a manos de la policía local "
+        },
+        {
+          "author": "Publicado por: Daniel Sangeado",
+          "contentType": "video",
+          "durationTime": "4:59",
+          "firebaseEvent": "video-simplelist-destacados-pos-10",
+          "highlighted": true,
+          "id": "0000016f-db41-dae7-ab6f-ffc9cf0a0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/4659d59/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F68%2Fca%2F368b4eb34082b46dc5f0ae6c4e8d%2Fdesechos-de-la-semana-con-daniel-sangeado.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/politica/videos/los-deshechos-de-la-semana-con-daniel-sangeado?_app=true",
+          "publicationDate": "25 enero 2020",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Los DesHechos de la Semana con Daniel Sangeado"
+        }
+      ],
+      "view": "simpleList",
+      "content": "",
+      "moreTitle": ""
+    },
+    {
+      "backgroundColor": "#ffffff",
+      "fontColor": "#004f71",
+      "title": "Últimos",
+      "view": "regularTitle"
+    },
+    {
+      "promos": [
+        {
+          "author": "Publicado por: Agustín Rodríguez",
+          "contentType": "video",
+          "durationTime": "2:17",
+          "firebaseEvent": "video-simplelist-ultimos-pos-1",
+          "highlighted": false,
+          "id": "00000184-e5d2-d5f5-a3d4-eddef0160000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/1ba02ee/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F16%2Ff7%2F86e97cc0421eac74df93be065cb8%2Fsheinbaum-cuarto-infome-de-gobierno.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/sheinbaum-cuarto-informe-gobierno-cdmx?_app=true",
+          "publicationDate": "05 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Claudia Sheinbaum rinde su Cuarto Informe de Gobierno en CDMX"
+        },
+        {
+          "author": "Publicado por: Irving Pineda",
+          "contentType": "video",
+          "durationTime": "2:45",
+          "firebaseEvent": "video-simplelist-ultimos-pos-2",
+          "highlighted": false,
+          "id": "00000184-7ed8-d98c-af8f-7fde48bb0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c0753fe/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F41%2F8e%2F87b64322419597fa8577f14482b7%2Fimss-bienestar-unidades-medicas.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/imss-bienestar-zoe-robledo-informe-de-labores-lpg?_app=true",
+          "publicationDate": "15 noviembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "IMSS-Bienestar funciona como los programas de salud de Dinamarca"
+        },
+        {
+          "author": "Publicado por: Reynaldo Lara / Azteca Ciudad Juárez",
+          "contentType": "video",
+          "durationTime": "1:27",
+          "firebaseEvent": "video-simplelist-ultimos-pos-3",
+          "highlighted": false,
+          "id": "00000184-1794-dfe8-af8c-3fb771db0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/bea23e6/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd7%2Fc0%2F6cc05aa24353b01029d6680cde51%2Farriesgan-vida-frontera.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/mujeres-venezolanas-arriesgan-su-vida-cruce-eu-lpg?_app=true",
+          "publicationDate": "26 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Mujeres venezolanas pretenden llegar a Estados Unidos"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "2:23",
+          "firebaseEvent": "video-simplelist-ultimos-pos-4",
+          "highlighted": false,
+          "id": "00000183-ee7d-d6ad-a7ef-ef7d0ad20000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5963a31/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F92%2F1a%2Fc2845a4745959cb0fc46a03590f4%2Fadan-augusto.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/adan-augusto-plan-apoyo-tamaulipas-lpg?_app=true",
+          "publicationDate": "18 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Adán Augusto llegó a Ciudad Victoria, Tamaulipas para acompañar a AMLO"
+        },
+        {
+          "author": "Publicado por: Ilse Lorena Trejo",
+          "contentType": "video",
+          "durationTime": "3:09",
+          "firebaseEvent": "video-simplelist-ultimos-pos-5",
+          "highlighted": false,
+          "id": "00000183-ee7d-d6ad-a7ef-ef7d0d670000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/19b438d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F70%2Fb3%2Fd99c278a48409b2f312546e4bb64%2Fvenezuela.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/venezuela-migracion-masiva-lpg?_app=true",
+          "publicationDate": "18 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "La dictadura asfixia al pueblo venezolano y los obliga a huir"
+        },
+        {
+          "author": "Publicado por: Uriel Bello",
+          "contentType": "video",
+          "durationTime": "1:47",
+          "firebaseEvent": "video-simplelist-ultimos-pos-6",
+          "highlighted": false,
+          "id": "00000183-e948-dfc8-abbb-f96aefdc0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/09c499b/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F25%2F41%2Fcced686745e3aa5f436699c13673%2Fevelyn-salgado-guerrero.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/evelyn-salgado-primer-informe-de-gobierno-lpg?_app=true",
+          "publicationDate": "17 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Evelyn Salgado rindió su primer informe de Gobierno en Guerrero"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "1:37",
+          "firebaseEvent": "video-simplelist-ultimos-pos-7",
+          "highlighted": false,
+          "id": "00000183-ab8a-d392-a59b-afdb64a00000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/b07287c/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff0%2Fe6%2F0ed8df8d41ddb1c607547507cf0f%2Fguanajuato-industria.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/guanajuato-epicentro-industria-lpg?_app=true",
+          "publicationDate": "05 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Guanajuato se volvió nuevamente el epicentro de la industria"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "2:17",
+          "firebaseEvent": "video-simplelist-ultimos-pos-8",
+          "highlighted": false,
+          "id": "00000183-448f-d6b1-a58b-5cdfc1c30000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/d6a7ae9/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F08%2Fda%2F6a2511a24af799fba39acd6509d6%2Famlo-viva-mexico.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/amlo-grito-viva-mexico-2022-lpg?_app=true",
+          "publicationDate": "15 septiembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Viva México! AMLO da Grito de Independencia en Zócalo de México"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "1:44",
+          "firebaseEvent": "video-simplelist-ultimos-pos-9",
+          "highlighted": false,
+          "id": "00000183-3f69-da57-a7bf-3f7f5f850000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8d1b77d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F81%2F79%2Fa2eed3d943b3b36e906728f2faf1%2Fsat.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/fallas-sat-contribuyentes-lpg?_app=true",
+          "publicationDate": "15 septiembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Fallas en el SAT provocan estrés en los contribuyentes"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "0:28",
+          "firebaseEvent": "video-simplelist-ultimos-pos-10",
+          "highlighted": false,
+          "id": "00000183-38fe-da57-a7bf-3aff04570000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/d98cb71/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd3%2Fab%2F72dfb2434650950ef1951f80539a%2Faccidente-en-santa-fe.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/accidente-santa-fe-cdmx-lpg?_app=true",
+          "publicationDate": "13 septiembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Fuerte accidente deja autos encimados cerca de Patio Santa Fe"
+        }
+      ],
+      "view": "simpleList",
+      "content": "",
+      "moreTitle": ""
+    }
+  ],
+  "title": "Video"
+}
