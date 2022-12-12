@@ -1,160 +1,289 @@
 {
-  "title": "Detalle de la nota",
   "modules": [
     {
-      "view": "Article",
       "promos": [
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "author": "Publicado por: Raziel Cruz Salazar",
+          "body": "",
           "contentType": "video",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "mainMedia": {
-            "view": "Video",
-            "durationTime": "3:05",
-            "videoAssetId": "8FUmvMX3ShuQTgE3tEqxNg",
+            "durationTime": "3:26",
+            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
             "video": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
-            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator="
+            "videoAssetId": "8FUmvMX3ShuQTgE3tEqxNg",
+            "view": "video"
           },
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "publicationDate": "23 agosto 2022",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
             },
             {
-              "name": "Política",
-              "type": "Section",
-              "color": "#163a5a"
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "Nicaragua es un país fachada: Otoniel Martínez expuso una dictadura"
         }
-      ]
+      ],
+      "view": "article"
     },
     {
-      "title": "Notas relacionadas",
       "backgroundColor": "#ffffff",
-      "fontColor": "#163a5a",
+      "fontColor": "#004f71",
+      "title": "Te interesa",
       "view": "regularTitle"
     },
     {
-      "view": "SimpleSlider",
-      "moreTitle": "Ver más en lo más visto",
-      "content": "../url_mas_Contenido.json",
       "promos": [
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043.png",
-          "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-          "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "author": "Publicado por: Agustín Rodríguez",
+          "contentType": "video",
+          "durationTime": "2:17",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-1",
+          "highlighted": false,
+          "id": "00000184-e5d2-d5f5-a3d4-eddef0160000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/1ba02ee/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F16%2Ff7%2F86e97cc0421eac74df93be065cb8%2Fsheinbaum-cuarto-infome-de-gobierno.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/sheinbaum-cuarto-informe-gobierno-cdmx?_app=true",
+          "publicationDate": "05 diciembre 2022",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
             },
             {
+              "color": "#00364f",
               "name": "Política",
-              "type": "Section",
-              "color": "#163a5a"
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "Claudia Sheinbaum rinde su Cuarto Informe de Gobierno en CDMX"
         },
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-1.png",
-          "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-          "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "author": "Publicado por: Irving Pineda",
+          "contentType": "video",
+          "durationTime": "2:45",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-2",
+          "highlighted": false,
+          "id": "00000184-7ed8-d98c-af8f-7fde48bb0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c0753fe/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F41%2F8e%2F87b64322419597fa8577f14482b7%2Fimss-bienestar-unidades-medicas.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/imss-bienestar-zoe-robledo-informe-de-labores-lpg?_app=true",
+          "publicationDate": "15 noviembre 2022",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
             },
             {
-              "name": "Mundo",
-              "type": "Section",
-              "color": "#3170c8"
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "IMSS-Bienestar funciona como los programas de salud de Dinamarca"
         },
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-2.png",
+          "author": "Publicado por: Fuerza Informativa Azteca",
           "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-3",
+          "highlighted": false,
+          "id": "00000184-71e8-d02b-abb4-f5e811820000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/bd9de0e/2147483647/strip/true/crop/1280x720+0+120/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F28%2F07%2F6c75380845dfb086e5060dab1935%2Ffhfawhnvqai7zep.jfif",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/metro-cdmx-que-pasa-hoy-domingo-13-noviembre-2022-al?_app=true",
+          "publicationDate": "13 noviembre 2022",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
             },
             {
+              "color": "#7e3caa",
               "name": "Seguridad",
-              "type": "Section",
-              "color": "#4b4764"
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "¿Qué pasa en el Metro CDMX hoy domingo 13 de noviembre?"
         },
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-3.png",
+          "author": "Publicado por: Pilar Espinoza",
           "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-4",
+          "highlighted": false,
+          "id": "00000184-4553-dfe0-adee-d75382d50000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/66fd548/2147483647/strip/true/crop/1035x582+93+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F66%2Fe2%2F8dcd5d9846268645f5510a4bd8a4%2F1.jfif",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/encuesta-ine-reforma-electoral-amlo-puntos-clave-pde?_app=true",
+          "publicationDate": "04 noviembre 2022",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
             },
             {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Encuesta del INE sobre Reforma Electoral: AMLO revela 10 puntos clave"
+        },
+        {
+          "author": "Publicado por: Reynaldo Lara / Azteca Ciudad Juárez",
+          "contentType": "video",
+          "durationTime": "1:27",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-5",
+          "highlighted": false,
+          "id": "00000184-1794-dfe8-af8c-3fb771db0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/bea23e6/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd7%2Fc0%2F6cc05aa24353b01029d6680cde51%2Farriesgan-vida-frontera.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/mujeres-venezolanas-arriesgan-su-vida-cruce-eu-lpg?_app=true",
+          "publicationDate": "26 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Mujeres venezolanas pretenden llegar a Estados Unidos"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-6",
+          "highlighted": false,
+          "id": "0000017f-e2a1-d624-adff-f6f5f45a0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/82f403b/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fba%2Fbd%2Fa18bcdda4a37a87e4210568f7145%2F1.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/horario-de-verano-2022-paises-tambien-jca?_app=true",
+          "publicationDate": "26 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Horario de Verano 2022: ¿Qué países también cambian la hora?"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "2:23",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-7",
+          "highlighted": false,
+          "id": "00000183-ee7d-d6ad-a7ef-ef7d0ad20000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5963a31/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F92%2F1a%2Fc2845a4745959cb0fc46a03590f4%2Fadan-augusto.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/adan-augusto-plan-apoyo-tamaulipas-lpg?_app=true",
+          "publicationDate": "18 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Adán Augusto llegó a Ciudad Victoria, Tamaulipas para acompañar a AMLO"
+        },
+        {
+          "author": "Publicado por: Ilse Lorena Trejo",
+          "contentType": "video",
+          "durationTime": "3:09",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-8",
+          "highlighted": false,
+          "id": "00000183-ee7d-d6ad-a7ef-ef7d0d670000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/19b438d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F70%2Fb3%2Fd99c278a48409b2f312546e4bb64%2Fvenezuela.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/venezuela-migracion-masiva-lpg?_app=true",
+          "publicationDate": "18 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "La dictadura asfixia al pueblo venezolano y los obliga a huir"
+        },
+        {
+          "author": "Publicado por: Uriel Bello",
+          "contentType": "video",
+          "durationTime": "1:47",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-9",
+          "highlighted": false,
+          "id": "00000183-e948-dfc8-abbb-f96aefdc0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/09c499b/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F25%2F41%2Fcced686745e3aa5f436699c13673%2Fevelyn-salgado-guerrero.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/evelyn-salgado-primer-informe-de-gobierno-lpg?_app=true",
+          "publicationDate": "17 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Evelyn Salgado rindió su primer informe de Gobierno en Guerrero"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "video-simpleslider-te-interesa-pos-10",
+          "highlighted": false,
+          "id": "00000183-d468-d54b-a59b-f4fc61120000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/cc2ba81/2147483647/strip/true/crop/1280x720+0+120/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F74%2Ff0%2F2b476738498e8fd4f6123627f1e9%2Fday-of-the-dead-gbe75c76ac-1280.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/megaofrenda-unam-2022-fecha-horarios-todo-festival-universitario-pde?_app=true",
+          "publicationDate": "13 octubre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
               "name": "Bienestar",
-              "type": "Section",
-              "color": "#e14852"
+              "type": "Section"
             }
-          ]
-        },
-        {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-4.png",
-          "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-          "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
-          "tags": [
-            {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
-            },
-            {
-              "name": "Finanzas",
-              "type": "Section",
-              "color": "#f1a23e"
-            }
-          ]
+          ],
+          "title": "Megaofrenda UNAM 2022: Fecha, horarios y todo sobre el Festival Universitario"
         }
-      ]
+      ],
+      "view": "simpleSlider",
+      "content": "",
+      "moreTitle": ""
     }
-  ]
+  ],
+  "title": "Detalle de la nota"
 }
