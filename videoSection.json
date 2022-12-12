@@ -1,7 +1,7 @@
 {
   "modules": [
     {
-      "content": "https://uat.tv-azteca.psdops.com/aztecanoticias/videos/envivo?_app=true",
+      "content": "https://pruebasazteca.github.io/noticiasApp/live.json",
       "detail": true,
       "firebaseEvent": "live-button",
       "label": "EN VIVO",
