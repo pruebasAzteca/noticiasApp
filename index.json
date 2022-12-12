@@ -1,160 +1,201 @@
 {
-    "config":
+  "config": {
+    "login": {
+      "enabled": false
+    }
+  },
+  "modules": [
     {
-        "login":
-        {
-            "enabled": true
-        }
+      "backgroundColor": "#ffffff",
+      "fontColor": "#004f71",
+      "title": "AGENDA",
+      "view": "regularTitle"
     },
-    "modules":
-    [
+    {
+      "promos": [
         {
-            "view": "carousel",
-            "promos":
-            [
-                {
-                    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                    "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img1.JPG",
-                    "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaGaleria.json",
-                    "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-                    "publicationDate": "Publicado: Hace 1 hora",
-                    "tags":
-                    [
-                        {
-                            "name": "Nota",
-                            "type": "ContentType",
-                            "color": "#ffffff"
-                        },
-                        {
-                            "name": "Política",
-                            "type": "Section",
-                            "color": "#ff0000"
-                        }
-                    ]
-                },
-                {
-                    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                    "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img2.JPG",
-                    "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaVideo.json",
-                    "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-                    "publicationDate": "Publicado: Hace 1 hora",
-                    "tags":
-                    [
-                        {
-                            "name": "Nota",
-                            "type": "ContentType",
-                            "color": "#ffffff"
-                        },
-                        {
-                            "name": "Política",
-                            "type": "Section",
-                            "color": "#ff0000"
-                        }
-                    ]
-                },
-                {
-                    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                    "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img3.JPG",
-                    "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
-                    "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-                    "publicationDate": "Publicado: Hace 1 hora",
-                    "tags":
-                    [
-                        {
-                            "name": "Nota",
-                            "type": "ContentType",
-                            "color": "#ffffff"
-                        },
-                        {
-                            "name": "Política",
-                            "type": "Section",
-                            "color": "#ff0000"
-                        }
-                    ]
-                },
-                {
-                    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                    "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img4.JPG",
-                    "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-                    "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-                    "publicationDate": "Publicado: Hace 1 hora",
-                    "tags":
-                    [
-                        {
-                            "name": "Nota",
-                            "type": "ContentType",
-                            "color": "#ffffff"
-                        },
-                        {
-                            "name": "Política",
-                            "type": "Section",
-                            "color": "#ff0000"
-                        }
-                    ]
-                },
-                {
-                    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                    "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img5.JPG",
-                    "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-                    "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-                    "publicationDate": "Publicado: Hace 1 hora",
-                    "tags":
-                    [
-                        {
-                            "name": "Nota",
-                            "type": "ContentType",
-                            "color": "#ffffff"
-                        },
-                        {
-                            "name": "Política",
-                            "type": "Section",
-                            "color": "#ff0000"
-                        }
-                    ]
-                }
-            ]
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-1",
+          "highlighted": true,
+          "id": "00000184-ee1d-dc69-a387-ee3f35ed0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c091002/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbc%2F1b%2Ffb2a499e4872806c802c71b94d39%2Falianza-del-pacifico-pedro-castillo-destitucion.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/posponen-alianza-pacifico-destitucion-pedro-castillo-jca?_app=true",
+          "publicationDate": "07 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Posponen Alianza del Pacífico tras destitución de Pedro Castillo"
         },
         {
-            "view": "tabs",
-            "screens":
-            [
-                {
-                    "title": "Recientes",
-                    "source": "https://pruebasazteca.github.io/noticiasApp/recientesSection.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Secciones",
-                    "source": "https://pruebasazteca.github.io/noticiasApp/secciones.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Video",
-                    "source": "https://pruebasazteca.github.io/noticiasApp/video.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Galerías",
-                    "source": "./Galerías.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Opinión",
-                    "source": "./Opinion.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                },
-                {
-                    "title": "Especiales",
-                    "source": "./Especiales.json",
-                    "icon": "e90a",
-                    "color": "1f4e6e"
-                }
-            ]
+          "author": "Publicado por: Antonio Huitzil",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-2",
+          "highlighted": true,
+          "id": "00000184-ef0a-d87d-a197-ff3b8ca70000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c1e6af0/2147483647/strip/true/crop/1028x578+169+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F03%2F72%2F9427b68f6a15c2006924368c4c35%2Frbsamen-2167951.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/colegio-rebsamen-proceso-director-de-obra-jvgl?_app=true",
+          "publicationDate": "07 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Vinculan a proceso al director de obra del colegio Rébsamen"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-3",
+          "highlighted": true,
+          "id": "00000184-ee44-d0b9-a1dd-efc53f700000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/ecdafce/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe3%2Ff6%2F869ca165452baec9e7c86a81380b%2Fdina-boluarte-presidenta-de-peru-1.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/dina-boluarte-presidenta-peru-jca?_app=true",
+          "publicationDate": "07 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Dina Boluarte se convierte en la primera mujer presidenta de Perú"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-4",
+          "highlighted": true,
+          "id": "00000184-ee57-d4a8-a9cd-ef5f1fd00000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/23463d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F57%2F59%2Fd8d507f945aebd426df2bf0dddee%2Frafael-marin-toma-protesta-como-titular-de-la-agencia-nacional-de-aduanas.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/rafael-marin-titular-agencia-nacional-aduanas-anam-emsb?_app=true",
+          "publicationDate": "07 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Designan a Rafael Marín como titular de la Agencia Nacional de Aduanas"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-5",
+          "highlighted": true,
+          "id": "00000184-edbd-d92d-abb6-edbf55b20000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8e87f9d/2147483647/strip/true/crop/1920x1080+0+101/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2Fc9%2F06eff7c04482a4b4d383608a71a5%2Ftijuana-motin-rehenes-custodios.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/motin-penal-tijuana-rehenes-custodios-mej?_app=true",
+          "publicationDate": "07 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Intento de motín en penal de Tijuana; toman como rehenes a 3 custodios"
+        },
+        {
+          "author": "Publicado por: Juan Pablo Reyes",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-6",
+          "highlighted": true,
+          "id": "00000184-ee33-d82c-ab9d-eeb32e250000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/645c7e7/2147483647/strip/true/crop/1600x900+0+25/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5e%2Fdc%2Fe5edac8aa5a96a5416b82700e97f%2Fsecuestro-1842299.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/integrante-banda-de-la-flor-mg?_app=true",
+          "publicationDate": "07 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Sentencian a 446 años de cárcel a integrante de la “Banda de la Flor”"
         }
-    ]
+      ],
+      "view": "carousel",
+      "content": "",
+      "moreTitle": ""
+    },
+    {
+      "screens": [
+        {
+          "color": "#004f71",
+          "icon": "f017",
+          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/reciente",
+          "title": "Reciente"
+        },
+        {
+          "color": "#004f71",
+          "icon": "f1ea",
+          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/secciones",
+          "title": "Secciones"
+        },
+        {
+          "color": "#004f71",
+          "icon": "f03d",
+          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/video",
+          "title": "Videos"
+        },
+        {
+          "color": "#004f71",
+          "icon": "f03e",
+          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/galeria",
+          "title": "Galerías"
+        },
+        {
+          "color": "#004f71",
+          "icon": "f075",
+          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/opinion",
+          "title": "Opinión"
+        }
+      ],
+      "view": "tabs"
+    }
+  ]
 }
