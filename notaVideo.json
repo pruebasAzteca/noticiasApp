@@ -7,10 +7,10 @@
           "body": "",
           "contentType": "video",
           "mainMedia": {
-            "durationTime": "3:26",
-            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-            "video": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
-            "videoAssetId": "8FUmvMX3ShuQTgE3tEqxNg",
+            "durationTime": "2:04:47",
+            "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/realities/masterchef/el-menu&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D639fc1c385f3fa08639aad63&sz=640x480&vid=639fc1c385f3fa08639aad63&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
+            "video": "https://mdstrm.com/video/639fc1c385f3fa08639aad63.m3u8",
+            "videoAssetId": "639fc1c385f3fa08639aad63",
             "view": "video"
           },
           "publicationDate": "23 agosto 2022",
