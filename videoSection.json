@@ -1,5 +1,9 @@
 {
   "modules": [
+     {
+      "adUnit": "/29782907/Apps-Azteca/App-Envivo-2020/Home",
+      "view": "adBanner"
+    },
     {
       "content": "https://pruebasazteca.github.io/noticiasApp/live.json",
       "detail": true,
