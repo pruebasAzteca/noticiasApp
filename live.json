@@ -28,6 +28,139 @@
         }
       ],
       "view": "enVivoContent"
+    },
+     {
+      "backgroundColor": "#ffffff",
+      "fontColor": "#004f71",
+      "title": "NUESTROS PROGRAMAS",
+      "view": "regularTitle"
+    },
+    {
+      "promos": [
+        {
+          "author": "Publicado por: Fernando Roldán",
+          "contentType": "video",
+          "durationTime": "2:07",
+          "firebaseEvent": "video-simplelist-ultimos-pos-1",
+          "highlighted": false,
+          "id": "00000185-30da-df4a-a5ad-3cfeb1740000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/9da6906/2147483647/strip/true/crop/866x487+0+8/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fcb%2Fd8%2Fb9f312b34b91a86f6a5a33327e5a%2Festan-desesperados-buscando-a-angel-en-jalisco.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/angel-desaparecido-jalisco-vcp?_app=true",
+          "publicationDate": "20 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Están desesperados buscando a Ángel Escobedo en Jalisco"
+        },
+        {
+          "author": "Publicado por: Edgar Galicia",
+          "contentType": "video",
+          "durationTime": "7:53",
+          "firebaseEvent": "video-simplelist-ultimos-pos-2",
+          "highlighted": false,
+          "id": "00000185-2dfe-df4a-a5ad-3dfe44750000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d36e2c9/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F2f%2F7c%2Fc5193f2c49b9bfd8d0ee25bb3ea0%2Faurelia-garcia-padres-libertad.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/padres-aurelia-garcia-libertad-csz?_app=true",
+          "publicationDate": "20 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "“Quiero abrazarla”: Padres de Aurelia García piden su libertad"
+        },
+        {
+          "author": "Publicado por: Reynaldo Lara",
+          "contentType": "video",
+          "durationTime": "2:32",
+          "firebaseEvent": "video-simplelist-ultimos-pos-3",
+          "highlighted": false,
+          "id": "00000185-2c54-df4a-a5ad-3cf68a6e0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/5ad4261/2147483647/strip/true/crop/838x471+0+1/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F04%2Fbf%2Fc7a77b3b429b9f00eaf532bc758e%2Fmiles-de-migrantes-saturan-el-paso-declaran-emergencia.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/emergencia-migrantes-texas-vcp?_app=true",
+          "publicationDate": "19 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Miles de migrantes saturan El Paso, declaran emergencia"
+        },
+        {
+          "author": "Publicado por: Gustavo Cárdenas",
+          "contentType": "video",
+          "durationTime": "2:00",
+          "firebaseEvent": "video-simplelist-ultimos-pos-4",
+          "highlighted": false,
+          "id": "00000185-2c0f-df4a-a5ad-3cbfdd850000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/400b26b/2147483647/strip/true/crop/832x468+0+3/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F83%2F6e%2Ffd3a16da4255a2d1db7687f38d4c%2Fincendio-en-el-centinela-causa-alerta-consume-7-hectareas.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/incendio-centinela-jalisco-vcp?_app=true",
+          "publicationDate": "19 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Incendio en El Centinela causa alerta, consume 7 hectáreas"
+        },
+        {
+          "author": "Publicado por: Roberto Ruiz",
+          "contentType": "video",
+          "durationTime": "5:27",
+          "firebaseEvent": "video-simplelist-ultimos-pos-5",
+          "highlighted": false,
+          "id": "00000185-2c02-df4a-a5ad-3cb6233c0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/37693ea/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F3e%2F01%2Faaa04634455a9b9e8071f5dda169%2Faurelia-garcia-indigenas-detenidos-traductor.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/indigenas-aurelia-garcia-traductor-csz?_app=true",
+          "publicationDate": "19 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Indígenas como Aurelia García son detenidos por falta de un traductor"
+        }
+      ],
+      "view": "simpleList",
+      "content": "",
+      "moreTitle": ""
     }
   ],
   "title": "Hechos En Vivo"
