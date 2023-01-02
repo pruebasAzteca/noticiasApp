@@ -19,106 +19,10 @@
           "durationTime": "",
           "firebaseEvent": "homepage-carousel-agenda-pos-1",
           "highlighted": true,
-          "id": "00000184-ee1d-dc69-a387-ee3f35ed0000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c091002/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbc%2F1b%2Ffb2a499e4872806c802c71b94d39%2Falianza-del-pacifico-pedro-castillo-destitucion.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/posponen-alianza-pacifico-destitucion-pedro-castillo-jca?_app=true",
-          "publicationDate": "07 diciembre 2022",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Posponen Alianza del Pacífico tras destitución de Pedro Castillo"
-        },
-        {
-          "author": "Publicado por: Antonio Huitzil",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-carousel-agenda-pos-2",
-          "highlighted": true,
-          "id": "00000184-ef0a-d87d-a197-ff3b8ca70000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c1e6af0/2147483647/strip/true/crop/1028x578+169+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F03%2F72%2F9427b68f6a15c2006924368c4c35%2Frbsamen-2167951.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/colegio-rebsamen-proceso-director-de-obra-jvgl?_app=true",
-          "publicationDate": "07 diciembre 2022",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#7e3caa",
-              "name": "Seguridad",
-              "type": "Section"
-            }
-          ],
-          "title": "Vinculan a proceso al director de obra del colegio Rébsamen"
-        },
-        {
-          "author": "Publicado por: Fuerza Informativa Azteca",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-carousel-agenda-pos-3",
-          "highlighted": true,
-          "id": "00000184-ee44-d0b9-a1dd-efc53f700000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/ecdafce/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe3%2Ff6%2F869ca165452baec9e7c86a81380b%2Fdina-boluarte-presidenta-de-peru-1.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/dina-boluarte-presidenta-peru-jca?_app=true",
-          "publicationDate": "07 diciembre 2022",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Dina Boluarte se convierte en la primera mujer presidenta de Perú"
-        },
-        {
-          "author": "Publicado por: Fuerza Informativa Azteca",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-carousel-agenda-pos-4",
-          "highlighted": true,
-          "id": "00000184-ee57-d4a8-a9cd-ef5f1fd00000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/23463d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F57%2F59%2Fd8d507f945aebd426df2bf0dddee%2Frafael-marin-toma-protesta-como-titular-de-la-agencia-nacional-de-aduanas.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/rafael-marin-titular-agencia-nacional-aduanas-anam-emsb?_app=true",
-          "publicationDate": "07 diciembre 2022",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#00364f",
-              "name": "Política",
-              "type": "Section"
-            }
-          ],
-          "title": "Designan a Rafael Marín como titular de la Agencia Nacional de Aduanas"
-        },
-        {
-          "author": "Publicado por: Fuerza Informativa Azteca",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-carousel-agenda-pos-5",
-          "highlighted": true,
-          "id": "00000184-edbd-d92d-abb6-edbf55b20000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8e87f9d/2147483647/strip/true/crop/1920x1080+0+101/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2Fc9%2F06eff7c04482a4b4d383608a71a5%2Ftijuana-motin-rehenes-custodios.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/motin-penal-tijuana-rehenes-custodios-mej?_app=true",
-          "publicationDate": "07 diciembre 2022",
+          "id": "00000185-6eb7-db1e-a187-7fb789f20000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/b9a8800/2147483647/strip/true/crop/1260x709+10+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fd6%2F50%2F0cb739e14b88953e6ec3d31c0d72%2Fmotin-en-penal-de-ciudad-juarez-muertos-y-al-menos-20-reos-fugados.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/motin-penal-ciudad-juarez-un-muerto-20-reos-fugados-anl?_app=true",
+          "publicationDate": "01 enero 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -131,18 +35,18 @@
               "type": "Section"
             }
           ],
-          "title": "Intento de motín en penal de Tijuana; toman como rehenes a 3 custodios"
+          "title": "Motín en penal de Ciudad Juárez: 14 Muertos y al menos 24 reos fugados"
         },
         {
-          "author": "Publicado por: Juan Pablo Reyes",
+          "author": "Publicado por: Fuerza Informativa Azteca",
           "contentType": "nota",
           "durationTime": "",
-          "firebaseEvent": "homepage-carousel-agenda-pos-6",
+          "firebaseEvent": "homepage-carousel-agenda-pos-2",
           "highlighted": true,
-          "id": "00000184-ee33-d82c-ab9d-eeb32e250000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/645c7e7/2147483647/strip/true/crop/1600x900+0+25/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5e%2Fdc%2Fe5edac8aa5a96a5416b82700e97f%2Fsecuestro-1842299.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/integrante-banda-de-la-flor-mg?_app=true",
-          "publicationDate": "07 diciembre 2022",
+          "id": "00000185-6f7a-d4d5-a78f-6fffd7d90000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/9ae2601/2147483647/strip/true/crop/1080x608+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F9f%2F71%2Fff413def40ea83617eb69d6faa28%2Fexplosion-gaser-nuevo-leon.jfif",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/explota-gasera-san-nicolas-garza-nuevo-leon-capg?_app=true",
+          "publicationDate": "01 enero 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -150,12 +54,84 @@
               "type": "ContentType"
             },
             {
-              "color": "#7e3caa",
-              "name": "Seguridad",
+              "color": "#008557",
+              "name": "Estados",
               "type": "Section"
             }
           ],
-          "title": "Sentencian a 446 años de cárcel a integrante de la “Banda de la Flor”"
+          "title": "Explota gasera en San Nicolás de los Garza, Nuevo León"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-3",
+          "highlighted": true,
+          "id": "00000185-6f3e-d745-adcd-6f7f14140000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d5cce76/2147483647/strip/true/crop/1600x900+0+36/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fbb%2F25%2Fec0668484b85a965bc3ce917d6a8%2Fpoliticos-mexicanos-celebraron-toma-de-posesion-de-lula-da-silvak0-4.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/politicos-mexicanos-celebraron-toma-posesion-lula-da-silva-anl?_app=true",
+          "publicationDate": "01 enero 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Políticos mexicanos celebraron toma de posesión de Lula Da Silva"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-4",
+          "highlighted": true,
+          "id": "00000185-703f-d4d5-a78f-7cffd4940000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/5fec445/2147483647/strip/true/crop/1001x563+84+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F6a%2Ffd%2F7a1320bb445e808a5008b45b0287%2Fmejores-cantantes-de-la-historia.JPG",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/selena-juan-gabriel-vicente-fernandez-mejores-cantantes-capg?_app=true",
+          "publicationDate": "01 enero 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Selena, Juan Gabriel y Vicente Fernández, en los 200 mejores cantantes históricos"
+        },
+        {
+          "author": "Publicado por: Javier Alatorre",
+          "contentType": "video",
+          "durationTime": "59:30",
+          "firebaseEvent": "homepage-carousel-agenda-pos-5",
+          "highlighted": true,
+          "id": "00000185-6a1c-dd06-a187-6a1e45b50000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/027cbce/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F6d%2Ffc%2F937c86ed4fcb8bc74f5e51b720a9%2Fhechos-365-con-javier-alatorre.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/hechos-365-2022-javier-alatorre-lpg?_app=true",
+          "publicationDate": "01 enero 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "name": "Azteca Noticias",
+              "color": "#ffffff",
+              "type": "Section"
+            }
+          ],
+          "title": "Hechos 365 con Javier Alatorre | Acontecimientos que marcaron el 2022"
         }
       ],
       "view": "carousel",
@@ -167,31 +143,31 @@
         {
           "color": "#004f71",
           "icon": "f017",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/reciente",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/reciente",
           "title": "Reciente"
         },
         {
           "color": "#004f71",
           "icon": "f1ea",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/secciones",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/secciones",
           "title": "Secciones"
         },
         {
           "color": "#004f71",
           "icon": "f03d",
-          "source": "https://pruebasazteca.github.io/noticiasApp/videoSection.json",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/video",
           "title": "Videos"
         },
         {
           "color": "#004f71",
           "icon": "f03e",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/galeria",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/galeria",
           "title": "Galerías"
         },
         {
           "color": "#004f71",
           "icon": "f075",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/opinion",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/opinion",
           "title": "Opinión"
         }
       ],
