@@ -1,7 +1,8 @@
 {
   "config": {
     "login": {
-      "enabled": false
+      "private": "2",
+      "privateCfg": "https://uat.tv-azteca.psdops.com/aztecanoticias/login_noticias"
     }
   },
   "modules": [
