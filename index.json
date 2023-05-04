@@ -17,11 +17,12 @@
           "author": "Publicado por: Fuerza Informativa Azteca",
           "contentType": "nota",
           "durationTime": "",
+          "private": "2",
           "firebaseEvent": "homepage-carousel-agenda-pos-1",
           "highlighted": true,
           "id": "00000184-ee1d-dc69-a387-ee3f35ed0000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c091002/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbc%2F1b%2Ffb2a499e4872806c802c71b94d39%2Falianza-del-pacifico-pedro-castillo-destitucion.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/posponen-alianza-pacifico-destitucion-pedro-castillo-jca?_app=true",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img3.JPG",
+          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
           "publicationDate": "07 diciembre 2022",
           "tags": [
             {
@@ -41,11 +42,12 @@
           "author": "Publicado por: Antonio Huitzil",
           "contentType": "nota",
           "durationTime": "",
+          "private": "1",
           "firebaseEvent": "homepage-carousel-agenda-pos-2",
           "highlighted": true,
           "id": "00000184-ef0a-d87d-a197-ff3b8ca70000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c1e6af0/2147483647/strip/true/crop/1028x578+169+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F03%2F72%2F9427b68f6a15c2006924368c4c35%2Frbsamen-2167951.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/colegio-rebsamen-proceso-director-de-obra-jvgl?_app=true",
+          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img3.JPG",
+          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
           "publicationDate": "07 diciembre 2022",
           "tags": [
             {
