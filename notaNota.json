@@ -1,157 +1,286 @@
 {
-  "title": "Detalle de la nota",
   "modules": [
     {
-      "view": "Article",
       "promos": [
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "body": "https://uat.tv-azteca.psdops.com/aztecanoticias/posponen-alianza-pacifico-destitucion-pedro-castillo-jca?appView=true",
           "contentType": "nota",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "mainMedia": {
-            "view": "Image",
-            "url": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img3.JPG"
+            "url": "https://uat.tv-azteca.psdops.com/dims4/default/c091002/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbc%2F1b%2Ffb2a499e4872806c802c71b94d39%2Falianza-del-pacifico-pedro-castillo-destitucion.jpg",
+            "view": "image"
           },
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "publicationDate": "07 diciembre 2022",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
             },
             {
-              "name": "Política",
-              "type": "Section",
-              "color": "#163a5a"
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "Posponen Alianza del Pacífico tras destitución de Pedro Castillo"
         }
-      ]
+      ],
+      "view": "article"
     },
     {
-      "title": "Notas relacionadas",
       "backgroundColor": "#ffffff",
-      "fontColor": "#163a5a",
+      "fontColor": "#004f71",
+      "title": "Te interesa",
       "view": "regularTitle"
     },
     {
-      "view": "SimpleSlider",
-      "moreTitle": "Ver más en lo más visto",
-      "content": "../url_mas_Contenido.json",
+      "content": "",
+      "moreTitle": "",
       "promos": [
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043.png",
+          "author": "Publicado por: Pruebas QA",
           "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-1",
+          "highlighted": false,
+          "id": "00000187-ddb6-d237-a9e7-dff6d9250000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/d307516/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F65%2F1f%2Fb62fbfa64c27ad9bc4909b6735d0%2F557005d1192844659a336ac698c203ab",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/estudiante-se-come-platano-el-comediante-iconica-obra-maurizio-cattelan?_app=true",
+          "publicationDate": "02 mayo 2023",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
             },
             {
-              "name": "Política",
-              "type": "Section",
-              "color": "#163a5a"
-            }
-          ]
-        },
-        {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-1.png",
-          "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
-          "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
-          "tags": [
-            {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
-            },
-            {
+              "color": "#0066a0",
               "name": "Mundo",
-              "type": "Section",
-              "color": "#3170c8"
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "Estudiante se come plátano de “El comediante”, icónica obra de Maurizio Cattelan en museo de Seúl"
         },
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-2.png",
+          "author": "Publicado por: Fuerza Informativa Azteca",
           "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-2",
+          "highlighted": false,
+          "id": "00000187-81f7-dfc3-a387-cdff8bc10000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/3964378/2147483647/strip/true/crop/533x300+118+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F06%2F29%2Fa03316b8422aad883f4c9da2a50a%2Fdiadelnino.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/dia-del-nino?_app=true",
+          "publicationDate": "01 mayo 2023",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
             },
             {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Día del Niño"
+        },
+        {
+          "author": "Publicado por: Jorge Faibre",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-3",
+          "highlighted": false,
+          "id": "00000187-c876-de4a-a397-cc77613e0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/6b84940/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F92%2F6b%2Fa7b7a4404578bb49137f613662d8%2Fotan-requisitos-que-necesita-un-pais-para-ingresar-a-la-alianza.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/formulario-elecciones-coahuila?_app=true",
+          "publicationDate": "28 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Articulo formulario elecciones Coahuila"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-4",
+          "highlighted": false,
+          "id": "00000187-c3aa-d674-a7d7-e3ee090b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/6b2a425/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F84%2F9f%2F5af776ec4570a5da21d32f2a60ee%2Fd743efef80854262908a148c598e056f",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/explosion-acumulacion-gas-casa-iztapalapa-provoca-incendio?_app=true",
+          "publicationDate": "27 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
               "name": "Seguridad",
-              "type": "Section",
-              "color": "#4b4764"
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "Explosión por acumulación de gas en casa de Iztapalapa provoca incendio"
         },
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-3.png",
+          "author": "Publicado por: Pruebas QA",
           "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-5",
+          "highlighted": false,
+          "id": "00000187-b964-d6a1-abff-fbf78f210000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/7d295c0/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fe2%2Fd9%2F1ec3749b4f83809b2fcbf585e76f%2F42ef883c01b84567b12e2332cba99bbc",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/esto-se-sabe-el-tragico-accidente-lady-di-la-princesa-diana-gales?_app=true",
+          "publicationDate": "25 abril 2023",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
             },
             {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Esto se sabe sobre el trágico accidente de Lady Di, la princesa Diana de Gales"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-6",
+          "highlighted": false,
+          "id": "00000187-b439-de11-af87-fcbf0b8c0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/3c77447/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0b%2F2a%2Fc05815da43cfaa896099ff3b2281%2Fhay-foto-dua-lipa-se-convierte-en-sirena-para-la-nueva-pelicula-de-barbie.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/migrantes-formulario?_app=true",
+          "publicationDate": "24 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#904e50",
               "name": "Bienestar",
-              "type": "Section",
-              "color": "#e14852"
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "Migrantes formulario"
         },
         {
-          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-4.png",
+          "author": "Publicado por: Chilly Willy",
           "contentType": "nota",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-internacional-caso-abuso-policiaco-eu-jayland-walker-lpg",
-          "firebaseEvent": "string_de_lo_que_el_usuario_quiera_identifical_como_evento_al_tocal_la_celda",
           "durationTime": "",
-          "publicationDate": "Publicado: Hace 1 hora",
-          "author": "Publicado por: Nombre",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-7",
+          "highlighted": false,
+          "id": "00000187-a5df-d610-a3cf-a5dfd6f80000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/f13acf5/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F97%2Fa5%2Fa364a3d745ceb8173b28f9b94d12%2Fdiseno-sin-titulo-2020-11-12t140332.351.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/formulario-jotform?_app=true",
+          "publicationDate": "21 abril 2023",
           "tags": [
             {
-              "name": "Nota",
-              "type": "ContentType",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
             },
             {
-              "name": "Finanzas",
-              "type": "Section",
-              "color": "#f1a23e"
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
             }
-          ]
+          ],
+          "title": "Formulario jotform"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-8",
+          "highlighted": false,
+          "id": "00000187-9584-dfcd-a1d7-9d9f13e20000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/9031ed3/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fca%2F73%2F3724b5014ad1b05bd2be1cf0bdd2%2F418143e52af34d1e99fe1162a309e3c1",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/hombre-asfixia-perrito-zapopan-jalisco-y-vecinos-lo-graban?_app=true",
+          "publicationDate": "18 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Hombre asfixia a perrito en Zapopan, Jalisco y vecinos lo graban"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-9",
+          "highlighted": false,
+          "id": "00000187-7d44-d79e-a7f7-ff7c42ef0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/4352f55/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F84%2Fd3%2F8154c47e47ea820fca59a83b8c5a%2Fe8fda324d91f4252804a3b9b2d13c7e1",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/el-fin-notimex-gobierno-federal-busca-desaparecer-la-agencia-ricardo?_app=true",
+          "publicationDate": "13 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "¿El fin de Notimex? Gobierno Federal busca desaparecer a la agencia, según Ricardo Monreal"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "content-simpleslider-te-interesa-pos-10",
+          "highlighted": false,
+          "id": "00000187-7654-ddd8-a9af-767e5f580000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/3964378/2147483647/strip/true/crop/533x300+118+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F06%2F29%2Fa03316b8422aad883f4c9da2a50a%2Fdiadelnino.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/prueba-formulario-dianino?_app=true",
+          "publicationDate": "12 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#904e50",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Registra a tu hijo para que aparezca en un noticiero"
         }
-      ]
+      ],
+      "view": "simpleSlider"
     }
-  ]
+  ],
+  "title": "Detalle de la nota"
 }
