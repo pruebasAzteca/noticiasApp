@@ -1,8 +1,7 @@
 {
   "config": {
     "login": {
-      "private": "2",
-      "privateCfg": "https://uat.tv-azteca.psdops.com/aztecanoticias/login_noticias"
+      "enabled": false
     }
   },
   "modules": [
@@ -13,43 +12,19 @@
       "view": "regularTitle"
     },
     {
+      "content": "",
+      "moreTitle": "",
       "promos": [
         {
-          "author": "Publicado por: Fuerza Informativa Azteca",
+          "author": "Publicado por: Jennifer García, Saúl Díaz y Ricardo Torres",
           "contentType": "nota",
           "durationTime": "",
-          "private": "2",
           "firebaseEvent": "homepage-carousel-agenda-pos-1",
           "highlighted": true,
-          "id": "00000184-ee1d-dc69-a387-ee3f35ed0000",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img3.JPG",
-          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
-          "publicationDate": "07 diciembre 2022",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Posponen Alianza del Pacífico tras destitución de Pedro Castillo"
-        },
-        {
-          "author": "Publicado por: Antonio Huitzil",
-          "contentType": "nota",
-          "durationTime": "",
-          "private": "1",
-          "firebaseEvent": "homepage-carousel-agenda-pos-2",
-          "highlighted": true,
-          "id": "00000184-ef0a-d87d-a197-ff3b8ca70000",
-          "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/Destacados/img2.JPG",
-          "linkPermanente": "https://pruebasazteca.github.io/noticiasApp/notaNota.json",
-          "publicationDate": "07 diciembre 2022",
+          "id": "00000187-e97a-d08d-a387-fdff54670000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/15de1a1/2147483647/strip/true/crop/1109x624+45+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2b%2F98%2F66e17a804cd597bd767ae5b2895f%2Fasesinan-a-kevin-kaletry-influencer-y-actor-durante-conferencia-de-las-perdidas-en-cdmx.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/kevin-kaletry-fue-asesinado-cdmx-conferencia-las-perdidas?_app=true",
+          "publicationDate": "04 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -62,18 +37,42 @@
               "type": "Section"
             }
           ],
-          "title": "Vinculan a proceso al director de obra del colegio Rébsamen"
+          "title": "Asesinan al actor Kevin Kaletry durante conferencia de “Las Perdidas” en CDMX"
         },
         {
-          "author": "Publicado por: Fuerza Informativa Azteca",
+          "author": "Publicado por: Arturo Engels",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-carousel-agenda-pos-2",
+          "highlighted": true,
+          "id": "00000187-e94e-d597-af87-e96fb2c60000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/e4821ff/2147483647/strip/true/crop/680x383+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff9%2F6a%2Ff14a2d654b858100a29269721416%2Fpasajeros-evacuados-vuelo-los-angeles-maleta-bomba.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/pasajeros-evacuados-vuelo-bomba-maleta-aeropuerto-los-angeles?_app=true",
+          "publicationDate": "04 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Pasajeros evacuados de un vuelo por supuesta bomba en una maleta en aeropuerto de Los Ángeles"
+        },
+        {
+          "author": "Publicado por: Salma Domínguez",
           "contentType": "nota",
           "durationTime": "",
           "firebaseEvent": "homepage-carousel-agenda-pos-3",
           "highlighted": true,
-          "id": "00000184-ee44-d0b9-a1dd-efc53f700000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/ecdafce/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe3%2Ff6%2F869ca165452baec9e7c86a81380b%2Fdina-boluarte-presidenta-de-peru-1.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/dina-boluarte-presidenta-peru-jca?_app=true",
-          "publicationDate": "07 diciembre 2022",
+          "id": "00000187-e928-d215-af9f-ed6f55ce0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/07f651d/2147483647/strip/true/crop/800x450+0+77/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F91%2F04%2F0fe3ee4400eabd84d94bea9e8c7a%2Ftrump-2187339.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/donald-trump-mujer-violacion-exesposa?_app=true",
+          "publicationDate": "04 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -86,18 +85,18 @@
               "type": "Section"
             }
           ],
-          "title": "Dina Boluarte se convierte en la primera mujer presidenta de Perú"
+          "title": "Donald Trump confunde a la mujer que lo acusa de violación con su exesposa"
         },
         {
-          "author": "Publicado por: Fuerza Informativa Azteca",
+          "author": "Publicado por: Carlos Alberto Pérez",
           "contentType": "nota",
           "durationTime": "",
           "firebaseEvent": "homepage-carousel-agenda-pos-4",
           "highlighted": true,
-          "id": "00000184-ee57-d4a8-a9cd-ef5f1fd00000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/23463d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F57%2F59%2Fd8d507f945aebd426df2bf0dddee%2Frafael-marin-toma-protesta-como-titular-de-la-agencia-nacional-de-aduanas.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/rafael-marin-titular-agencia-nacional-aduanas-anam-emsb?_app=true",
-          "publicationDate": "07 diciembre 2022",
+          "id": "00000187-e8b5-d08d-a387-fdb5a2de0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/e48cfab/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1d%2F09%2F57c5f65a40e8adde9bed27fa50bc%2Fcomo-identificar-un-refresco-pirata-y-como-se-elabora.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/identificar-un-refresco-pirata-y-se-elabora?_app=true",
+          "publicationDate": "04 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -105,23 +104,23 @@
               "type": "ContentType"
             },
             {
-              "color": "#00364f",
-              "name": "Política",
+              "color": "#cf0c10",
+              "name": "Bienestar",
               "type": "Section"
             }
           ],
-          "title": "Designan a Rafael Marín como titular de la Agencia Nacional de Aduanas"
+          "title": "Descubren fábrica de refresco "pirata": ¿Cómo identificar la clonación de una bebida y cómo se elabora?"
         },
         {
-          "author": "Publicado por: Fuerza Informativa Azteca",
+          "author": "Publicado por: Jesica Constantino Aguilar",
           "contentType": "nota",
           "durationTime": "",
           "firebaseEvent": "homepage-carousel-agenda-pos-5",
           "highlighted": true,
-          "id": "00000184-edbd-d92d-abb6-edbf55b20000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8e87f9d/2147483647/strip/true/crop/1920x1080+0+101/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2Fc9%2F06eff7c04482a4b4d383608a71a5%2Ftijuana-motin-rehenes-custodios.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/motin-penal-tijuana-rehenes-custodios-mej?_app=true",
-          "publicationDate": "07 diciembre 2022",
+          "id": "00000187-e8e1-d08d-a387-fde559250000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/eadc17e/2147483647/strip/true/crop/1280x720+0+1/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8a%2F58%2Fcb2d218540b4a61e65de3faa6a33%2Fnovios-graban-ataque-oso.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/oso-devora-pareja-novios-todo-queda-grabado-un-aterrados-video?_app=true",
+          "publicationDate": "04 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -129,23 +128,23 @@
               "type": "ContentType"
             },
             {
-              "color": "#008557",
-              "name": "Estados",
+              "color": "#0066a0",
+              "name": "Mundo",
               "type": "Section"
             }
           ],
-          "title": "Intento de motín en penal de Tijuana; toman como rehenes a 3 custodios"
+          "title": "Novios graban cómo un oso los devoró cuando acampaban"
         },
         {
-          "author": "Publicado por: Juan Pablo Reyes",
+          "author": "Publicado por: Yamid Rojas Romero",
           "contentType": "nota",
           "durationTime": "",
           "firebaseEvent": "homepage-carousel-agenda-pos-6",
           "highlighted": true,
-          "id": "00000184-ee33-d82c-ab9d-eeb32e250000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/645c7e7/2147483647/strip/true/crop/1600x900+0+25/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5e%2Fdc%2Fe5edac8aa5a96a5416b82700e97f%2Fsecuestro-1842299.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/integrante-banda-de-la-flor-mg?_app=true",
-          "publicationDate": "07 diciembre 2022",
+          "id": "00000187-e9aa-d597-af87-e9afe0660000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/66a66a6/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F82%2Ffb%2F5e1d72da4e59a86712c4682606e1%2Fculto-pastor-dejado-en-libertad.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/pastor-implicado-en-culto-liberado?_app=true",
+          "publicationDate": "04 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -153,48 +152,46 @@
               "type": "ContentType"
             },
             {
-              "color": "#7e3caa",
-              "name": "Seguridad",
+              "color": "#0066a0",
+              "name": "Mundo",
               "type": "Section"
             }
           ],
-          "title": "Sentencian a 446 años de cárcel a integrante de la “Banda de la Flor”"
+          "title": "Pastor implicado en culto que pedía a fieles morir de hambre quedó libre en Kenia"
         }
       ],
-      "view": "carousel",
-      "content": "",
-      "moreTitle": ""
+      "view": "carousel"
     },
     {
       "screens": [
         {
           "color": "#004f71",
           "icon": "f017",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/reciente",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/reciente",
           "title": "Reciente"
         },
         {
           "color": "#004f71",
           "icon": "f1ea",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/secciones",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/secciones",
           "title": "Secciones"
         },
         {
           "color": "#004f71",
           "icon": "f03d",
-          "source": "https://pruebasazteca.github.io/noticiasApp/videoSection.json",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/video",
           "title": "Videos"
         },
         {
           "color": "#004f71",
           "icon": "f03e",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/galeria",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/galeria",
           "title": "Galerías"
         },
         {
           "color": "#004f71",
           "icon": "f075",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/opinion",
+          "source": "https://www.tvazteca.com/aztecanoticias/app/screen/opinion",
           "title": "Opinión"
         }
       ],
