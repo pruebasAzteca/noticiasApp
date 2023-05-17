@@ -170,7 +170,7 @@
         {
           "color": "#004f71",
           "icon": "f017",
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/reciente",
+          "source": "https://pruebasazteca.github.io/noticiasApp/recienteSeccion.json",
           "title": "Reciente"
         },
         {
