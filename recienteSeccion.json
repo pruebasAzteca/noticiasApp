@@ -119,7 +119,7 @@
               "type": "Section"
             }
           ],
-          "title": ""Me dan sentimientos": AMLO trabaja en su último libro sobre Cuarta Transformación"
+          "title": "\"Me dan sentimientos\": AMLO trabaja en su último libro sobre Cuarta Transformación"
         },
         {
           "author": "Publicado por: César Contreras",
@@ -323,7 +323,9 @@
       "view": "subsectionTitle"
     },
     {
-      "data": {},
+      "data": {
+        
+      },
       "view": "mapa"
     },
     {
@@ -358,7 +360,7 @@
               "type": "Section"
             }
           ],
-          "title": ""Me dan sentimientos": AMLO trabaja en su último libro sobre Cuarta Transformación"
+          "title": "\"Me dan sentimientos\": AMLO trabaja en su último libro sobre Cuarta Transformación"
         },
         {
           "author": "Publicado por: Laura Casillas",
@@ -960,7 +962,7 @@
               "type": "Section"
             }
           ],
-          "title": ""Quisiera salvarlas a todas"; Sandra Paola habla tras la brutal golpiza sufrida"
+          "title": "\"Quisiera salvarlas a todas\"; Sandra Paola habla tras la brutal golpiza sufrida"
         },
         {
           "author": "Publicado por: Felipe Vera",
@@ -1514,7 +1516,7 @@
               "type": "Section"
             }
           ],
-          "title": "Ordenan dictar nueva sentencia a "Miss Mónica" por caso Rébsamen"
+          "title": "Ordenan dictar nueva sentencia a \"Miss Mónica\" por caso Rébsamen"
         },
         {
           "author": "Publicado por: Juan Pablo Reyes ",
@@ -1538,7 +1540,7 @@
               "type": "Section"
             }
           ],
-          "title": "Situación jurídica de Héctor "El Güero" Palma, se definirá el 18 de mayo"
+          "title": "Situación jurídica de Héctor \"El Güero\" Palma, se definirá el 18 de mayo"
         },
         {
           "author": "Publicado por: Juan Pablo Reyes ",
@@ -1839,7 +1841,7 @@
               "type": "Section"
             }
           ],
-          "title": "Ingeniero en sistemas deja su trabajo en México para ir a Canada, ahora gana más como "pollero""
+          "title": "Ingeniero en sistemas deja su trabajo en México para ir a Canada, ahora gana más como \"pollero\""
         }
       ],
       "view": "destacadaSlider"
@@ -2598,7 +2600,7 @@
               "type": "Section"
             }
           ],
-          "title": "El árbol de moras | Un mundo "Made in China" ¡Muerte al imperialismo yanqui!"
+          "title": "El árbol de moras | Un mundo \"Made in China\" ¡Muerte al imperialismo yanqui!"
         }
       ],
       "view": "simpleSlider"
