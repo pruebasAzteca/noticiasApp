@@ -1,0 +1,2608 @@
+{
+  "modules": [
+    {
+      "adUnit": "/29782907/Apps-Azteca/App-Envivo-2020/Home",
+      "view": "adBanner"
+    },
+    {
+      "content": "https://pruebasazteca.github.io/noticiasApp/live.json",
+      "detail": true,
+      "firebaseEvent": "live-button",
+      "label": "EN VIVO",
+      "moreTitle": "Ver en vivo",
+      "schedule": "Lun - Vier 7:59 a 9:29AM",
+      "thumbnail": "https://uat.tv-azteca.psdops.com/dims4/default/521db2e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F76%2Fb12710d44cf5bdf2c68fe1a9e487%2Faqui-entre-nos.jpg",
+      "title": "Hechos Aquí Entre Nos. Para que Alex pruebe este texto bien grandotote.",
+      "view": "liveButton"
+    },
+    {
+      "backgroundColor": "#ffffff",
+      "fontColor": "#004f71",
+      "title": "Lo más reciente",
+      "view": "regularTitle"
+    },
+    {
+      "content": "",
+      "moreTitle": "",
+      "promos": [
+        {
+          "author": "Publicado por: Jesica Constantino Aguilar",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-1",
+          "highlighted": false,
+          "id": "00000188-2abb-d0f3-a7dd-6bbb09510000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d81c11a/2147483647/strip/true/crop/1280x720+0+1/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4e%2Fcb%2Fcdc88b0d489fb3a5c810090b16f7%2Fharry-meghan-persecucion-nueva-york.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-harry-y-meghan-estuvieron-involucrados-una-persecucion-casi-catrastrofica?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "VIDEO: Harry y Meghan casi chocan en persecución de paparazzis en Nueva York"
+        },
+        {
+          "author": "Publicado por: Antonio Herrera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-2",
+          "highlighted": false,
+          "id": "00000188-2a94-dec1-a78d-2af693360000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d9cc80f/2147483647/strip/true/crop/1280x720+0+28/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2f%2Faa%2Fdcebd02c4b078d2dc1d8459ac7fb%2Fsaltillo-coahuila-granizada-menor-victima-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/saltillo-coahuila-granizada-lluvia-menor-muere?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "VIDEO: Granizada en Saltillo, Coahuila cobra la vida de una menor"
+        },
+        {
+          "author": "Publicado por: Ollinka Méndez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-3",
+          "highlighted": false,
+          "id": "00000188-2a65-d4ae-a3cd-6b7fdfac0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/75ef117/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb0%2Fb1%2F99b64f1c40fd916875311b64980c%2Fdelito-ser-gay-mexico.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-internacional-contra-homofobia-transfobia-biofobia-ser-gay-mexico-era-delito?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Día Internacional contra la Homofobia: En México ser gay era un delito y una enfermedad"
+        },
+        {
+          "author": "Publicado por: América López",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-4",
+          "highlighted": false,
+          "id": "00000188-2a95-d0f3-a7dd-6b95283e0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/aab9219/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F31%2F4a%2F59440b4340baa983a4716b02eb79%2Fportada-cms-10.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/amlo-anuncia-su-ultimo-libro-de-que-tratara?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": ""Me dan sentimientos": AMLO trabaja en su último libro sobre Cuarta Transformación"
+        },
+        {
+          "author": "Publicado por: César Contreras",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-5",
+          "highlighted": false,
+          "id": "00000188-2a8f-d4ae-a3cd-6b9fac690000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c4b1729/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd2%2F08%2F9dde5e4949dea32f8b68ce189dd5%2Fecuador-guillermo-lasso-que-pasa-muerte-cruzada.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/ecuador-que-significa-disolucion-asamblea-nacional?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Disolución de la Asamblea Nacional en Ecuador; esto es lo que sabemos"
+        },
+        {
+          "author": "Publicado por: Armando Martínez y Paco Guízar ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-6",
+          "highlighted": false,
+          "id": "00000188-2a99-d246-affc-2aff92b60000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2d40afe/2147483647/strip/true/crop/1152x648+0+108/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fee%2Fa7%2F5b69a7e645b785eafa68c00f43db%2Fconbaten-incendio.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/incendio-edificio-oficinas-colonia-anzures-moviliza-bomberos-que-combaten-el-fuego?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Bomberos combaten incendio en edificio de oficinas de la colonia Anzures "
+        },
+        {
+          "author": "Publicado por: Alexis Pérez Cerino",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-7",
+          "highlighted": false,
+          "id": "00000188-2a70-d246-affc-2a764a690000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/71097a4/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F09%2Fde%2F0ec3fea2453e96a5240c47352dbe%2Freportan-en-texas-a-cinco-pacientes-con-meningitis-tras-viaje-a-mexico-uno-de-ellos-murio.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/meningitis-contagios-texas-pacientes-viajaron-mexico-matamoros-tamaulipas?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Reportan en Texas a cinco pacientes con meningitis tras viaje a México; uno de ellos murió"
+        },
+        {
+          "author": "Publicado por: Fernanda Benítez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-8",
+          "highlighted": false,
+          "id": "00000188-2a73-d246-affc-2a77520f0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/7e31bcb/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F34%2Fef%2F5b55a16048c8955060b4ac312fc5%2Findicadores-financieros-hoy-miercoles-17-de-mayo-2023-mexico-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/indicadores-financieros-precio-del-dolar-hoy-17-mayo-2023-mexico?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Indicadores financieros abren con aumentos tras datos económicos de EU"
+        },
+        {
+          "author": "Publicado por: Óscar Mendoza y Fernando Ramírez ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-9",
+          "highlighted": false,
+          "id": "00000188-2a66-d246-affc-2a7668040000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8cd8080/2147483647/strip/true/crop/361x203+3+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F10%2F0b%2F05bf1979405b826812d846f24747%2Ftoma-clandestina-iztacalco.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/otra-toma-clandestina-hidrocarburo-se-localiza-iztacalco?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Localizan en Iztacalco otra toma clandestina de hidrocarburo "
+        },
+        {
+          "author": "Publicado por: Laura Casillas",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-10",
+          "highlighted": false,
+          "id": "00000188-2a2a-d4ae-a3cd-6b3b8fc40000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8fac65e/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbe%2F40%2F82b1d65049dfa7d5305d54851006%2Fsre-contrata-a-mujer-transexual-como-directora-de-igualdad-de-genero-e-inclusion.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/mujer-transexual-sre-contrata-gloria-davenport-directora-igualdad-genero?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "SRE contrata a mujer transexual como directora de Igualdad de Género e Inclusión"
+        },
+        {
+          "author": "Publicado por: América López",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-11",
+          "highlighted": false,
+          "id": "00000188-2a53-d246-affc-2a7783300000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/b7f2112/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F87%2F47%2Ff80399e947f382fde06a6a6cd2d3%2Fportada-cms-8.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/secuestro-migrantes-san-luis-potosi-amlo-afirma-que-el-gobierno-esta-trabajando-el?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "AMLO afirma que se está trabajando en el caso de secuestro de 50 migrantes en San Luis Potosí"
+        },
+        {
+          "author": "Publicado por: Julián Molina Rivera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-lo-mas-reciente-pos-12",
+          "highlighted": false,
+          "id": "00000188-2a47-d4ae-a3cd-6b5fa5e80000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/517c8fc/2147483647/strip/true/crop/1200x675+0+22/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F08%2Fb6%2F36acaf2d486e9a37ddb2c12952c8%2Fautobus-escolar-australia-estudiantes.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/autobus-escolar-impactado-australia-estudiantes-heridos?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Autobús escolar impactado por camión de carga en Australia, transportaba 45 estudiantes"
+        }
+      ],
+      "view": "simpleSlider"
+    },
+    {
+      "backgroundColor": "#004f71",
+      "fontColor": "#ffffff",
+      "title": "CERCA DE TI",
+      "view": "subsectionTitle"
+    },
+    {
+      "data": {},
+      "view": "mapa"
+    },
+    {
+      "backgroundColor": "#00364f",
+      "fontColor": "#ffffff",
+      "title": "POLÍTICA",
+      "view": "principalTitle"
+    },
+    {
+      "content": "https://www.tvazteca.com/aztecanoticias/app/screen/politica",
+      "moreTitle": "Ver más en Política",
+      "promos": [
+        {
+          "author": "Publicado por: América López",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-1",
+          "highlighted": true,
+          "id": "00000188-2a95-d0f3-a7dd-6b95283e0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/aab9219/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F31%2F4a%2F59440b4340baa983a4716b02eb79%2Fportada-cms-10.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/amlo-anuncia-su-ultimo-libro-de-que-tratara?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": ""Me dan sentimientos": AMLO trabaja en su último libro sobre Cuarta Transformación"
+        },
+        {
+          "author": "Publicado por: Laura Casillas",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-2",
+          "highlighted": false,
+          "id": "00000188-2a2a-d4ae-a3cd-6b3b8fc40000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8fac65e/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbe%2F40%2F82b1d65049dfa7d5305d54851006%2Fsre-contrata-a-mujer-transexual-como-directora-de-igualdad-de-genero-e-inclusion.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/mujer-transexual-sre-contrata-gloria-davenport-directora-igualdad-genero?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "SRE contrata a mujer transexual como directora de Igualdad de Género e Inclusión"
+        },
+        {
+          "author": "Publicado por: América López",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-3",
+          "highlighted": false,
+          "id": "00000188-2a53-d246-affc-2a7783300000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/b7f2112/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F87%2F47%2Ff80399e947f382fde06a6a6cd2d3%2Fportada-cms-8.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/secuestro-migrantes-san-luis-potosi-amlo-afirma-que-el-gobierno-esta-trabajando-el?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "AMLO afirma que se está trabajando en el caso de secuestro de 50 migrantes en San Luis Potosí"
+        },
+        {
+          "author": "Publicado por: América López",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-4",
+          "highlighted": false,
+          "id": "00000188-29d3-de96-ab8e-fdf7ce280000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/fef56d8/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4f%2F4b%2F1291501a4f0889040833561f9f33%2Fportada-cms-2.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/elecciones-2023-como-marcar-la-boleta-para-que-no-se-anule-mi-voto?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Conoce cómo debes marcar la boleta para que no se anule tu voto en elecciones 2023"
+        },
+        {
+          "author": "Publicado por: Nallely Reyes",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-5",
+          "highlighted": false,
+          "id": "00000188-29e8-d246-affc-29fe93c50000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/929dd48/2147483647/strip/true/crop/734x413+316+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd3%2F0d%2F400f50a6cf2b11291f2438bb64a6%2Fcasilla-para-votar-2139828.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/ubicar-tu-casilla-las-elecciones-coahuila-y-edomex?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Ya disponible “Ubica tu casilla Elecciones 2023” en Coahuila y Edomex"
+        },
+        {
+          "author": "Publicado por: América López",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-6",
+          "highlighted": false,
+          "id": "00000188-29cb-d246-affc-29ff1fee0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/40daca2/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5a%2F69%2F5cff71da4b7586d5ab890bcc74ea%2Fportada-cms-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/mananera-amlo-que-dijo-este-miercoles-17-mayo-2023-resumen-vivo?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "¿De qué trató la mañanera de AMLO? Resumen del miércoles 17 de mayo"
+        },
+        {
+          "author": "Publicado por: María Fernanda Valverde",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-7",
+          "highlighted": false,
+          "id": "00000188-2710-de56-a9cf-ff5a45550000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/50e525b/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff4%2F8a%2F5b10e4784b0c93c01be35ec6915b%2Fsegundo-debate-edomex-moderacion-activa-elecciones-2023.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/que-consiste-la-moderacion-activa-del-segundo-debate-del-edomex-elecciones-2023?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "¿En qué consiste la moderación activa del segundo debate del Edomex?"
+        },
+        {
+          "author": "Publicado por: María Fernanda Valverde",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-8",
+          "highlighted": false,
+          "id": "00000188-25c7-da22-a1aa-7fd7632c0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/903a49d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F45%2F38%2Fbf5aa92040df97c98171a0fc03b9%2Fboletas-electorales-edomex-elecciones-2023.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/alejandra-del-moral-aparece-4-veces-que-delfina-gomez-las-boletas-electorales-elecciones-2023?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Edomex: ¿Por qué Alejandra del Moral aparece más veces que Delfina Gómez en las boletas electorales de las elecciones 2023?"
+        },
+        {
+          "author": "Publicado por: Maxi Peláez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-9",
+          "highlighted": false,
+          "id": "00000188-2705-de56-a9cf-ff5ff1840000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/43f50d5/2147483647/strip/true/crop/1308x736+146+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa9%2Ffa%2Fbcbf743d47b0b4e9ad2e2c8025ea%2Fdiputados-morena.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/morena-foro-consulta-eleccion-ministros-scjn?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Morena anuncia foro previo a consulta para elección de ministros en SCJN"
+        },
+        {
+          "author": "Publicado por: Felipe Vera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-politica-pos-10",
+          "highlighted": false,
+          "id": "00000188-2743-d246-affc-2f77031d0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/9661c77/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa9%2Fb3%2F8c17c400474584ec9c37282b9442%2Fque-carros-descansan-el-miercoles-17-de-mayo-por-el-hoy-no-circula-en-cdmx-y-edomex.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/hoy-no-circula-miercoles-17-mayo-que-carros-descansan-cdmx-y-edomex?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Qué carros descansan el miércoles 17 de mayo por el Hoy No Circula en CDMX y Edomex?"
+        }
+      ],
+      "view": "destacadaSlider"
+    },
+    {
+      "backgroundColor": "#b04a00",
+      "fontColor": "#ffffff",
+      "title": "FINANZAS",
+      "view": "principalTitle"
+    },
+    {
+      "content": "https://www.tvazteca.com/aztecanoticias/app/screen/finanzas",
+      "moreTitle": "Ver más en Finanzas",
+      "promos": [
+        {
+          "author": "Publicado por: Fernanda Benítez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-1",
+          "highlighted": true,
+          "id": "00000188-2a73-d246-affc-2a77520f0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/7e31bcb/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F34%2Fef%2F5b55a16048c8955060b4ac312fc5%2Findicadores-financieros-hoy-miercoles-17-de-mayo-2023-mexico-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/indicadores-financieros-precio-del-dolar-hoy-17-mayo-2023-mexico?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Indicadores financieros abren con aumentos tras datos económicos de EU"
+        },
+        {
+          "author": "Publicado por: Fernanda Benítez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-2",
+          "highlighted": false,
+          "id": "00000188-29e3-de96-ab8e-fdf73f9d0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/af31985/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2Fe5%2Fa6ac99fb44e98f25c52277ee2c2d%2Fprecio-de-gasolina-hoy-mayo-2023-mexico-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/precio-gasolina-hoy-17-mayo-2023-mexico?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Cuál es el precio de gasolina hoy 17 de mayo 2023 en México?"
+        },
+        {
+          "author": "Publicado por: Mitzi Pulido Tzompa",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-3",
+          "highlighted": false,
+          "id": "00000188-27a0-d246-affc-2ff626b00000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/ce42ea1/2147483647/strip/true/crop/1200x675+0+63/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Faf%2Fba%2F54dae5fb442e92c851aa8ce4db86%2Fdia-mundial-reciclaje-2023-por-que-celebra-17-mayo.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-mundial-reciclaje-2023-que-es-por-que-celebra-17-mayo?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Día Mundial del Reciclaje 2023: ¿Por qué se celebra el 17 de mayo?"
+        },
+        {
+          "author": "Publicado por: Ricardo Osornio ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-4",
+          "highlighted": false,
+          "id": "00000188-26fb-d246-affc-2eff92760000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d5a3801/2147483647/strip/true/crop/813x457+0+13/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ffa%2F3d%2F2bd62c564fc9a08babfecbc5f00c%2Ffv6iz-lxsaeu7wg.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/criptomoneda-pepe-meme-digital-2023?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Criptomoneda Pepe sube 7000% en dos semanas"
+        },
+        {
+          "author": "Publicado por: Ricardo Osornio ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-5",
+          "highlighted": false,
+          "id": "00000188-26b3-d962-afbc-a6bf9fc40000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/413bb13/2147483647/strip/true/crop/1200x675+0+63/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ffd%2F23%2Fe6a56d7d44ff8b925dff2c586064%2F2023-05-16t193017z-1871284212-rc2uz0ari5b1-rtrmadp-3-usa-debt.JPG",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/gobierno-eu-republicanos-acuerdo-techo-deuda?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Gobierno de EU y republicanos podrían alcanzar acuerdo de techo de deuda"
+        },
+        {
+          "author": "Publicado por: Mitzi Pulido Tzompa",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-6",
+          "highlighted": false,
+          "id": "00000188-26af-de96-ab8e-ffff3a6c0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/1426146/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcf%2Fd2%2Fce4143ba49d5b29cfeacd88af91d%2Fwhatsapp-image-2023-05-15-at-20-11-00.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/cierre-bolsas-hoy-16-mayo-2023-mexico?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Conoce el cierre de bolsas hoy 16 de mayo 2023 en México"
+        },
+        {
+          "author": "Publicado por: Itzel Díaz",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-7",
+          "highlighted": false,
+          "id": "00000188-2638-d908-a7cb-f67edf480000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/780978f/2147483647/strip/true/crop/1824x1026+48+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff7%2F75%2F79ef1d7a464da4fb968bbdb652e0%2Falza-de-tasas-de-interes-causa-quiebra-silicon-valley-bank-exceo.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/alza-tasas-de-interes-causa-quiebra-silicon-valley-bank-exceo?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "El alza de tasas fue una causa clave para la quiebra de Silicon Valley Bank: ExCEO"
+        },
+        {
+          "author": "Publicado por: Fernanda Benítez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-8",
+          "highlighted": false,
+          "id": "00000188-261e-df75-a5e9-ee5f58810000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/a11d655/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff6%2F8b%2F24a5c5d64ffab0f9b1329f5f6c21%2Fdia-del-internet-2023-17-de-mayo-mexico-usuarios-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-del-internet-cuantas-personas-lo-utilizan-mexico?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Día del internet, más de 88 millones de personas lo utilizan en México"
+        },
+        {
+          "author": "Publicado por: Itzel Díaz",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-9",
+          "highlighted": false,
+          "id": "00000188-2527-d01c-ad99-edaf035e0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/83b5aa9/2147483647/strip/true/crop/4503x2533+204+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F41%2F3c%2Fc8cf63ea466b893df65a620250f7%2F2023-04-21t133717z-220905543-rc20j0akpewa-rtrmadp-3-tech-antitrust-google-utah.JPG",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/google-eliminar-cuentas-inactivas-diciembre-2023?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Google pretende eliminar las cuentas inactivas a partir de diciembre 2023"
+        },
+        {
+          "author": "Publicado por: Alexis Pérez Cerino",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-finanzas-pos-10",
+          "highlighted": false,
+          "id": "00000188-25e4-df75-a5e9-efe54ce20000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/bd8d1b4/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa2%2Fde%2Faf9d84944a4db6fc9036ad18e968%2Fpor-bloqueo-de-maestros-de-la-cnte-cierran-aeropuerto-de-oaxaca.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/bloqueo-maestros-integrantes-la-cnte-cierran-aeropuerto-internacional-oaxaca?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Por bloqueo de maestros de la CNTE, cierran Aeropuerto Internacional de Oaxaca"
+        }
+      ],
+      "view": "destacadaSlider"
+    },
+    {
+      "backgroundColor": "#008557",
+      "fontColor": "#ffffff",
+      "title": "ESTADOS",
+      "view": "principalTitle"
+    },
+    {
+      "content": "https://www.tvazteca.com/aztecanoticias/app/screen/estados",
+      "moreTitle": "Ver más en Estados",
+      "promos": [
+        {
+          "author": "Publicado por: Antonio Herrera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-1",
+          "highlighted": true,
+          "id": "00000188-2a94-dec1-a78d-2af693360000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d9cc80f/2147483647/strip/true/crop/1280x720+0+28/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2f%2Faa%2Fdcebd02c4b078d2dc1d8459ac7fb%2Fsaltillo-coahuila-granizada-menor-victima-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/saltillo-coahuila-granizada-lluvia-menor-muere?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "VIDEO: Granizada en Saltillo, Coahuila cobra la vida de una menor"
+        },
+        {
+          "author": "Publicado por: Marcial Pasarón ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-2",
+          "highlighted": false,
+          "id": "00000188-29d8-de96-ab8e-fdfd61e80000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/12a213b/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F83%2Fe5%2F2d14e0904cedb5535d9fc0030776%2Ftamaulipas-cuerpos-victimas-accidente-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/tamaulipas-victimas-familias-reclaman-cuerpos?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Saúl perdió a la mitad de su familia en accidente de Tamaulipas; reclama los cuerpos"
+        },
+        {
+          "author": "Publicado por: Estela Juárez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-3",
+          "highlighted": false,
+          "id": "00000188-29b4-d4ae-a3cd-69bf70d20000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2aa33c9/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F57%2Fb9%2Fec457fde45adb75508f26166ce37%2Falerta-amber-vanessa-yurem-olan-yucatan.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/alerta-amber-vanessa-yurem-olan-yucatan?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "ALERTA AMBER: Vanessa y Yurem desaparecieron hace un mes en Yucatán"
+        },
+        {
+          "author": "Publicado por: René Hernández",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-4",
+          "highlighted": false,
+          "id": "00000188-2991-de96-ab8e-fdf5a31c0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/ea86710/2147483647/strip/true/crop/1280x720+0+39/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2e%2Fc7%2F7c243667400083f8e490c77f3f8e%2Fzmg-de-noche-ladrones-hacen-boquete-para-robar-banco.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/zmg-de-noche-ladrones-abren-boquete-roban-banco?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "ZMG DE NOCHE: Ladrones abren boquete para robar banco"
+        },
+        {
+          "author": "Publicado por: Gustavo Cárdenas",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-5",
+          "highlighted": false,
+          "id": "00000188-27a6-d4ae-a3cd-6fbf3ddd0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/05077d6/2147483647/strip/true/crop/1277x718+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbf%2F4f%2Fa9ae1ed845fd9c738451686260ca%2Fsandra-paola.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/sandra-paola-testimonio-jalisco?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": ""Quisiera salvarlas a todas"; Sandra Paola habla tras la brutal golpiza sufrida"
+        },
+        {
+          "author": "Publicado por: Felipe Vera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-6",
+          "highlighted": false,
+          "id": "00000188-275f-de96-ab8e-ff7f2b760000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/de6e0cd/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff6%2F27%2Fa41e3b4145aa94d7498b1342fd14%2Fsecuestran-a-50-migrantes-en-san-luis-potosi-piden-mil-500-dolares.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/migrantes-secuestrados-en-san-luis-potosi?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Desaparecen 50 migrantes en San Luis Potosí; se dirigían a Nuevo León"
+        },
+        {
+          "author": "Publicado por: Javier Garzón",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-7",
+          "highlighted": false,
+          "id": "00000188-26e4-d246-affc-2ef64d190000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/1557d7e/2147483647/strip/true/crop/856x482+0+10/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0a%2F19%2F19b84b6040f4959e0713fac407fd%2Fhabitantes-de-chalchicomula-puebla-narran-como-vivieron-el-tornado.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/vivieron-el-tornado-chalchicomula-puebla?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Habitantes de Chalchicomula, Puebla narran cómo vivieron el tornado"
+        },
+        {
+          "author": "Publicado por: Daniel de Rosas",
+          "contentType": "video",
+          "durationTime": "2:06",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-8",
+          "highlighted": false,
+          "id": "00000188-26c6-d73d-adff-b6ef2cc00000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/10b54a5/2147483647/strip/true/crop/857x482+0+9/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb5%2Fde%2F02ba4c194fb2b258ae86127f6f02%2Fdetienen-a-narciso-n-ladron-de-adultos-mayores-en-mercados-de-neza.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/cae-narciso-n-ladron-adultos-mayores-neza?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Detienen a ladrón de adultos mayores en mercados de Neza"
+        },
+        {
+          "author": "Publicado por: Abigail Montoya",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-9",
+          "highlighted": false,
+          "id": "00000188-269b-d8b6-a1aa-67fb9a8d0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/9db30a2/2147483647/strip/true/crop/865x487+0+7/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F12%2F5e%2F9be7a6c44518865de3c047176b6f%2Fencuentran-cuerpo-de-lizbeth-vargas-en-veracruz-investigan-feminicidio.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/investigan-feminicidio-lizbeth-vargas-veracruz?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Encuentran cuerpo de Lizbeth Vargas en Veracruz, investigan feminicidio"
+        },
+        {
+          "author": "Publicado por: Kevin Lara Martínez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-estados-pos-10",
+          "highlighted": false,
+          "id": "00000188-25b5-d908-a7cb-f7ff623f0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/9f32a0b/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc0%2Fdd%2Fdc52a2364a328d734bd8b450877c%2Fexplosion-tijuana.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/explosion-tijuana-lesionados-personas-atrapadas?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Explosión en edificio de Tijuana deja más de 20 heridos "
+        }
+      ],
+      "view": "destacadaSlider"
+    },
+    {
+      "backgroundColor": "#cf0c10",
+      "fontColor": "#ffffff",
+      "title": "BIENESTAR",
+      "view": "principalTitle"
+    },
+    {
+      "content": "https://www.tvazteca.com/aztecanoticias/app/screen/bienestar",
+      "moreTitle": "Ver más en Bienestar",
+      "promos": [
+        {
+          "author": "Publicado por: Ollinka Méndez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-1",
+          "highlighted": true,
+          "id": "00000188-2a65-d4ae-a3cd-6b7fdfac0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/75ef117/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb0%2Fb1%2F99b64f1c40fd916875311b64980c%2Fdelito-ser-gay-mexico.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-internacional-contra-homofobia-transfobia-biofobia-ser-gay-mexico-era-delito?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Día Internacional contra la Homofobia: En México ser gay era un delito y una enfermedad"
+        },
+        {
+          "author": "Publicado por: Felipe Vera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-2",
+          "highlighted": false,
+          "id": "00000188-27e7-de56-a9cf-ffff885e0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/6a81c2c/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2a%2F66%2F3964ea40404ab83ac08f7a2e093f%2Fdevastador-asi-seria-un-sismo-con-epicentro-en-cdmx.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/sismo-epicentro-cdmx-magnitud-temblor?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Devastador! Así sería un sismo de gran magnitud con epicentro en CDMX"
+        },
+        {
+          "author": "Publicado por: Pilar Espinoza",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-3",
+          "highlighted": false,
+          "id": "00000188-2768-de96-ab8e-ff7ddff10000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2b445a8/2147483647/strip/true/crop/1156x650+72+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F70%2Fc2%2F8fac06ed4ad4b9fd5323f0dca39d%2F1.jfif",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/clima-mexico-hoy-17-mayo-habra-lluvias-caida-granizo-calor-y-vientos?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Ni las lluvias detienen el calor! Clima en México hoy 17 de mayo: habrá caída de granizo y vientos"
+        },
+        {
+          "author": "Publicado por: Pilar Espinoza",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-4",
+          "highlighted": false,
+          "id": "00000188-2703-de56-a9cf-ff5b85a90000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/000aa23/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc7%2Fc5%2Faf0efc11465984d30eebef88570c%2Fpexels-brett-sayles-3910141.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/luna-negra-cual-es-su-significado-y-sera?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Qué es la Luna Negra 2023 y cuál es su significado?"
+        },
+        {
+          "author": "Publicado por: Ollinka Méndez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-5",
+          "highlighted": false,
+          "id": "00000188-26af-de46-afea-bfaf02260000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8ef81b7/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F23%2F16%2F05ab3c554bf1924dff0408fab25e%2Fvolcan-popocatepetl-ia-asi-se-veria-erupcion.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/volcan-popocatepetl-se-veria-una-erupcion-la-inteligencia-artificial?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Así se vería una erupción del volcán Popocatépetl, según la Inteligencia Artificial"
+        },
+        {
+          "author": "Publicado por: Felipe Vera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-6",
+          "highlighted": false,
+          "id": "00000188-26f4-d246-affc-2ef644e40000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/7438d7c/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcb%2Ffa%2Fc5c7c0f24fc0979b949fbfd43416%2Fpasta-dental-estos-son-los-usos-que-se-le-puede-dar-a-la-ceniza-volcanica.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/ceniza-volcanica-que-usos-tiene?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Pasta dental? Estos son los usos que se le puede dar a la ceniza volcánica"
+        },
+        {
+          "author": "Publicado por: Ollinka Méndez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-7",
+          "highlighted": false,
+          "id": "00000188-26dc-d246-affc-2efeb3170000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/f572250/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0a%2Fef%2Fd1fe66ff4fea8bca7d864a80f2a3%2Fmonstruo-gila-animales-peligrosos-mexico.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/animales-venenosos-mexico-algunos-pueden-causar-la-muerte?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "7 animales más venenosos de México; algunos pueden causar la muerte"
+        },
+        {
+          "author": "Publicado por: Felipe Vera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-8",
+          "highlighted": false,
+          "id": "00000188-2699-de46-afea-bfbb5bb90000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/17d80aa/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbd%2F05%2F63c222344c9a96b14f4c0333074f%2Fse-rifo-ariadna-montiel-entrega-la-tarjeta-del-banco-del-bienestar-a-domicilio-en-cdmx.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/banco-del-bienestar-ariadna-montiel-entrega-la-tarjeta-para-adultos-mayores?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Se rifó! Ariadna Montiel entrega la tarjeta del Banco del Bienestar a domicilio en CDMX"
+        },
+        {
+          "author": "Publicado por: Edgar Galicia y Ollinka Méndez",
+          "contentType": "video",
+          "durationTime": "2:43",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-9",
+          "highlighted": false,
+          "id": "00000188-262f-dd48-adda-efff1f440000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2e42d06/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F00%2F7ebead364a459eb5ab8d362bda99%2Fadulto-mayor-paga-por-platiquen-con-el.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/adulto-mayor-paga-500-pesos-platiquen-sufre-soledad-depresion?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Adulto mayor paga 500 pesos para que platiquen con él; se siente solo"
+        },
+        {
+          "author": "Publicado por: Fabiola Rojas ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-bienestar-pos-10",
+          "highlighted": false,
+          "id": "00000188-2636-da22-a1aa-7f7654bc0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/1cd2559/2147483647/strip/true/crop/1200x675+0+63/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4c%2Fea%2F2b36ad6149059f00bd05ce0eb55f%2Fheavy-metal-unam.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-mundial-del-heavy-metal-se-celebra-hoy-16-mayo?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Día Mundial del Heavy Metal ¿Por qué se celebra hoy 16 de mayo? "
+        }
+      ],
+      "view": "destacadaSlider"
+    },
+    {
+      "backgroundColor": "#7e3caa",
+      "fontColor": "#ffffff",
+      "title": "SEGURIDAD",
+      "view": "principalTitle"
+    },
+    {
+      "content": "https://www.tvazteca.com/aztecanoticias/app/screen/seguridad",
+      "moreTitle": "Ver más en Seguridad",
+      "promos": [
+        {
+          "author": "Publicado por: Armando Martínez y Paco Guízar ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-1",
+          "highlighted": true,
+          "id": "00000188-2a99-d246-affc-2aff92b60000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2d40afe/2147483647/strip/true/crop/1152x648+0+108/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fee%2Fa7%2F5b69a7e645b785eafa68c00f43db%2Fconbaten-incendio.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/incendio-edificio-oficinas-colonia-anzures-moviliza-bomberos-que-combaten-el-fuego?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Bomberos combaten incendio en edificio de oficinas de la colonia Anzures "
+        },
+        {
+          "author": "Publicado por: Óscar Mendoza y Fernando Ramírez ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-2",
+          "highlighted": false,
+          "id": "00000188-2a66-d246-affc-2a7668040000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8cd8080/2147483647/strip/true/crop/361x203+3+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F10%2F0b%2F05bf1979405b826812d846f24747%2Ftoma-clandestina-iztacalco.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/otra-toma-clandestina-hidrocarburo-se-localiza-iztacalco?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Localizan en Iztacalco otra toma clandestina de hidrocarburo "
+        },
+        {
+          "author": "Publicado por: Alexis Pérez Cerino",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-3",
+          "highlighted": false,
+          "id": "00000188-29db-de96-ab8e-fdff8c720000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2a786ac/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F36%2F24%2Fd05e03b84fcf82e2cd161f44f6c1%2Fmanifestaciones-hoy-17-de-mayo-en-cdmx-habra-rodadas-en-cuatro-alcaldias.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/marchas-manifestaciones-hoy-17-mayo-cdmx-rodadas?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Manifestaciones hoy 17 de mayo en CDMX: Habrá protestas y rodadas en cuatro alcaldías"
+        },
+        {
+          "author": "Publicado por: Carlos Alberto Pérez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-4",
+          "highlighted": false,
+          "id": "00000188-29e2-d4ae-a3cd-69fb81af0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/38e7201/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F38%2Fd8%2F9a886d804334accc78b39edf0f93%2Fque-pasa-en-el-metro-cdmx-hoy-miercoles-17-de-mayo-de-2023.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/metro-cdmx-vivo-que-pasa-hoy-miercoles-17-mayo-2023?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Qué pasa en el Metro CDMX hoy miércoles 17 de mayo de 2023?"
+        },
+        {
+          "author": "Publicado por: Ricardo Torres",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-5",
+          "highlighted": false,
+          "id": "00000188-2757-d246-affc-2f772f5b0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/45867e4/2147483647/strip/true/crop/871x490+0+31/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F87%2Fa7%2F1bddc1e044aba58ccef33f58179f%2Fbusqueda-de-lesly-martinez-colin-llego-a-iguala-guerrero.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/localizan-guerrero-presunto-cuerpo-lesly-martinez-colin-quien-desaparecio-30-abril-cdmx?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Localizan en Guerrero el presunto cuerpo de Lesly Martínez Colín"
+        },
+        {
+          "author": "Publicado por: Saúl Díaz ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-6",
+          "highlighted": false,
+          "id": "00000188-26eb-de56-a9cf-fefb4af70000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c00efd9/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcf%2F85%2F6f72b12147528364e729ef7ab448%2Fmujer-atropellada-metrobus-frente-hospital-centro-medico-siglo-xxi.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/mujer-murio-atropellada-metrobus-frente-centro-medico-siglo-xxi?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Mujer murió atropellada por el Metrobús frente a Centro Médico Siglo XXI "
+        },
+        {
+          "author": "Publicado por: Juan Pablo Reyes",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-7",
+          "highlighted": false,
+          "id": "00000188-26bb-d962-afbc-a6bf0e520000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/08fe176/2147483647/strip/true/crop/1488x837+0+1/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F54%2Fe4%2F24c8180548bc93ab6c8cf0f4ede4%2Fmiss-monica-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/un-tribunal-ordeno-dictar-nueva-sentencia-miss-monica-caso-del-colegio-rebsamen?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Ordenan dictar nueva sentencia a "Miss Mónica" por caso Rébsamen"
+        },
+        {
+          "author": "Publicado por: Juan Pablo Reyes ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-8",
+          "highlighted": false,
+          "id": "00000188-266f-dc08-a9d8-36ff4f4c0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/fdf2df9/2147483647/strip/true/crop/660x371+0+14/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1a%2F01%2Fd11d73b543e98288245ebdaf6707%2Fel-guero-palma2.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/el-18-mayo-juez-definira-situacion-juridica-hector-el-guero-palma-acusado-9?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Situación jurídica de Héctor "El Güero" Palma, se definirá el 18 de mayo"
+        },
+        {
+          "author": "Publicado por: Juan Pablo Reyes ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-9",
+          "highlighted": false,
+          "id": "00000188-264d-d01c-ad99-eeedef150000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/fff26fe/2147483647/strip/true/crop/314x177+0+44/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F75%2F69%2F6569cfa849506837cfbd78c29d4d%2F560993.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/organizacion-abogados-internacionales-pide-frenar-dichos-lopez-obrador-la-corte?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Abogados internacionales piden frenar dichos de López Obrador contra la Corte"
+        },
+        {
+          "author": "Publicado por: Carlos Alberto Pérez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-seguridad-pos-10",
+          "highlighted": false,
+          "id": "00000188-262a-da22-a1aa-7f7a41720000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/1549d9a/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F04%2Fba%2F4cf1f6b54a5b88d658c479f33c41%2Ffalsa-amenaza-de-bomba-cdmx.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/metro-cdmx-amenaza-bomba-falsa-provoca-desalojo-la-estacion-mixcoac?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Una amenaza de bomba provoca desalojo de la estación Mixcoac; Metro CDMX descarta riesgo"
+        }
+      ],
+      "view": "destacadaSlider"
+    },
+    {
+      "backgroundColor": "#0066a0",
+      "fontColor": "#ffffff",
+      "title": "MUNDO",
+      "view": "principalTitle"
+    },
+    {
+      "content": "https://www.tvazteca.com/aztecanoticias/app/screen/mundo",
+      "moreTitle": "Ver más en Mundo",
+      "promos": [
+        {
+          "author": "Publicado por: Jesica Constantino Aguilar",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-1",
+          "highlighted": true,
+          "id": "00000188-2abb-d0f3-a7dd-6bbb09510000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d81c11a/2147483647/strip/true/crop/1280x720+0+1/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4e%2Fcb%2Fcdc88b0d489fb3a5c810090b16f7%2Fharry-meghan-persecucion-nueva-york.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/video-harry-y-meghan-estuvieron-involucrados-una-persecucion-casi-catrastrofica?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "VIDEO: Harry y Meghan casi chocan en persecución de paparazzis en Nueva York"
+        },
+        {
+          "author": "Publicado por: César Contreras",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-2",
+          "highlighted": false,
+          "id": "00000188-2a8f-d4ae-a3cd-6b9fac690000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c4b1729/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd2%2F08%2F9dde5e4949dea32f8b68ce189dd5%2Fecuador-guillermo-lasso-que-pasa-muerte-cruzada.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/ecuador-que-significa-disolucion-asamblea-nacional?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Disolución de la Asamblea Nacional en Ecuador; esto es lo que sabemos"
+        },
+        {
+          "author": "Publicado por: Alexis Pérez Cerino",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-3",
+          "highlighted": false,
+          "id": "00000188-2a70-d246-affc-2a764a690000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/71097a4/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F09%2Fde%2F0ec3fea2453e96a5240c47352dbe%2Freportan-en-texas-a-cinco-pacientes-con-meningitis-tras-viaje-a-mexico-uno-de-ellos-murio.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/meningitis-contagios-texas-pacientes-viajaron-mexico-matamoros-tamaulipas?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Reportan en Texas a cinco pacientes con meningitis tras viaje a México; uno de ellos murió"
+        },
+        {
+          "author": "Publicado por: Julián Molina Rivera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-4",
+          "highlighted": false,
+          "id": "00000188-2a47-d4ae-a3cd-6b5fa5e80000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/517c8fc/2147483647/strip/true/crop/1200x675+0+22/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F08%2Fb6%2F36acaf2d486e9a37ddb2c12952c8%2Fautobus-escolar-australia-estudiantes.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/autobus-escolar-impactado-australia-estudiantes-heridos?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Autobús escolar impactado por camión de carga en Australia, transportaba 45 estudiantes"
+        },
+        {
+          "author": "Publicado por: César Contreras",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-5",
+          "highlighted": false,
+          "id": "00000188-2a47-de96-ab8e-ff7771e50000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/3250d1a/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F50%2F08%2Fa03b93a64e2893f6523ab0d9e50c%2Fultimas-noticias-17-mayo-2023-mexico-mundo.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/ultimas-noticias-hoy-17-mayo-2023-mexico-mundo?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Últimas noticias de hoy: Presidente de Ecuador disuelve Asamblea Nacional"
+        },
+        {
+          "author": "Publicado por: Julián Molina Rivera",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-6",
+          "highlighted": false,
+          "id": "00000188-2984-de56-a9cf-fbde41680000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/60f5f9d/2147483647/strip/true/crop/1200x675+0+20/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F56%2F04%2F64da4a884f0a8b975020e53b5cbb%2Fnicolas-sarkozy-expresidente-de-francia-sentenciado.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/nicolas-sarkozy-expresidente-francia-sentenciado?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Nicolas Sarkozy expresidente de Francia sentenciado a 3 años por corrupción y tráfico de influencias"
+        },
+        {
+          "author": "Publicado por: Alexis Pérez Cerino",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-7",
+          "highlighted": false,
+          "id": "00000188-29ae-d4ae-a3cd-69bf48df0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/4801359/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc8%2Fe0%2F1eeb26694ed786a2fe48f97cac05%2Fguillermo-lasso-congreso-elecciones-anticipadas-ecuador.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/guillermo-lasso-presidente-disuelve-el-congreso-ecuador?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Guillermo Lasso disuelve el Congreso de Ecuador y convoca a elecciones anticipadas"
+        },
+        {
+          "author": "Publicado por: Arturo Engels",
+          "contentType": "video",
+          "durationTime": "1:52",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-8",
+          "highlighted": false,
+          "id": "00000188-2781-d73d-adff-b7afdc880000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/3af1695/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff3%2Fa7%2F1d4633c24801b29a3bb59aaf4194%2Fmigrantes-maltrato-refugios-texas-brownsville.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/migrantes-denuncian-maltratos-refugios-brownsville-texas?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Migrantes denuncian maltratos en refugios de Brownsville en Texas"
+        },
+        {
+          "author": "Publicado por: Yamid Rojas Romero",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-9",
+          "highlighted": false,
+          "id": "00000188-27a3-de96-ab8e-fff72f1d0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/b17d41c/2147483647/strip/true/crop/1200x675+0+62/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F66%2Fef%2F70e5d4cc4f488f6ae9d94f639c9c%2Fjair-bolsonaro-rechaza-acusaciones-fraude.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/jair-bolsonaro-rechaza-acusaciones-fraude?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Jair Bolsonaro rechazó acusaciones por fraude y manipulación de cartillas de vacunación COVID-19"
+        },
+        {
+          "author": "Publicado por: Arturo Engels",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-destacadaslider-mundo-pos-10",
+          "highlighted": false,
+          "id": "00000188-2797-de56-a9cf-ffdffdcd0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/686a690/2147483647/strip/true/crop/821x462+39+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F9b%2Faf%2F750b674542fd9d9956ad282bce24%2Fjoven-ingeniero-trabajo-canada-pollero.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/joven-deja-trabajo-ingeniero-mexico-pollero-canada-gana-mas?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Ingeniero en sistemas deja su trabajo en México para ir a Canada, ahora gana más como "pollero""
+        }
+      ],
+      "view": "destacadaSlider"
+    },
+    {
+      "backgroundColor": "#004f71",
+      "fontColor": "#ffffff",
+      "title": "VIDEO",
+      "view": "subsectionTitle"
+    },
+    {
+      "content": "https://www.tvazteca.com/aztecanoticias/app/screen/video",
+      "moreTitle": "Ver más en Video",
+      "promos": [
+        {
+          "author": "Publicado por: Arturo Engels",
+          "contentType": "video",
+          "durationTime": "1:52",
+          "firebaseEvent": "reciente-simplelist-video-pos-1",
+          "highlighted": true,
+          "id": "00000188-2781-d73d-adff-b7afdc880000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/3af1695/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff3%2Fa7%2F1d4633c24801b29a3bb59aaf4194%2Fmigrantes-maltrato-refugios-texas-brownsville.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/migrantes-denuncian-maltratos-refugios-brownsville-texas?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Migrantes denuncian maltratos en refugios de Brownsville en Texas"
+        },
+        {
+          "author": "Publicado por: Daniel de Rosas",
+          "contentType": "video",
+          "durationTime": "2:06",
+          "firebaseEvent": "reciente-simplelist-video-pos-2",
+          "highlighted": false,
+          "id": "00000188-26c6-d73d-adff-b6ef2cc00000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/10b54a5/2147483647/strip/true/crop/857x482+0+9/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb5%2Fde%2F02ba4c194fb2b258ae86127f6f02%2Fdetienen-a-narciso-n-ladron-de-adultos-mayores-en-mercados-de-neza.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/cae-narciso-n-ladron-adultos-mayores-neza?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Detienen a ladrón de adultos mayores en mercados de Neza"
+        },
+        {
+          "author": "Publicado por: Edgar Galicia y Ollinka Méndez",
+          "contentType": "video",
+          "durationTime": "2:43",
+          "firebaseEvent": "reciente-simplelist-video-pos-3",
+          "highlighted": false,
+          "id": "00000188-262f-dd48-adda-efff1f440000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2e42d06/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F00%2F7ebead364a459eb5ab8d362bda99%2Fadulto-mayor-paga-por-platiquen-con-el.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/adulto-mayor-paga-500-pesos-platiquen-sufre-soledad-depresion?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Adulto mayor paga 500 pesos para que platiquen con él; se siente solo"
+        },
+        {
+          "author": "Publicado por: Alexis Balbuena",
+          "contentType": "video",
+          "durationTime": "1:56",
+          "firebaseEvent": "reciente-simplelist-video-pos-4",
+          "highlighted": false,
+          "id": "00000188-2593-dd48-adda-edd37a5d0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c0dbf8a/2147483647/strip/true/crop/865x487+0+11/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F16%2Ff1%2Fae44fcfb43a282f4cc6c8087e644%2Fse-roban-al-santisimo-de-iglesia-en-jiutepec-morelos.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/jiutepec-morelos-se-roban-al-santisimo?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Se roban al Santísimo de iglesia en Jiutepec, Morelos"
+        },
+        {
+          "author": "Publicado por: Verónica Carrera Pérez",
+          "contentType": "video",
+          "durationTime": "8:43",
+          "firebaseEvent": "reciente-simplelist-video-pos-5",
+          "highlighted": false,
+          "id": "00000188-0d46-d34a-abbc-fff67bae0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/75f7d4f/2147483647/strip/true/crop/863x485+0+18/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fad%2F06%2Fb886445d43dfa3ba44e05d481c95%2Faquiestoyama-migrantes-en-tabasco-deciden-quedarse-en-mexico.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/migrantes-tabasco-deciden-quedarse-mexico?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "#AquíEstoyAmá: Migrantes en Tabasco deciden quedarse en México"
+        },
+        {
+          "author": "Publicado por: Ricardo Jonás Soto Contreras",
+          "contentType": "video",
+          "durationTime": "2:05",
+          "firebaseEvent": "reciente-simplelist-video-pos-6",
+          "highlighted": false,
+          "id": "00000188-20c4-d34a-abbc-f3f419cb0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/1c467dc/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F80%2F28%2F16d108ba482b97c3352cd833fe23%2Fmango-cosecha-veracruz-produccion.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/mango-veracruz-cosecha-productores?_app=true",
+          "publicationDate": "15 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "¡A comer mango! Productores reportan sobreproducción en Veracruz"
+        },
+        {
+          "author": "Publicado por: Erandi Torres",
+          "contentType": "video",
+          "durationTime": "1:48",
+          "firebaseEvent": "reciente-simplelist-video-pos-7",
+          "highlighted": false,
+          "id": "00000188-20ba-d34a-abbc-f3bef3290000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8ee4e57/2147483647/strip/true/crop/910x512+3+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fed%2F8f%2Febe6158a4524b15eb477eef944f3%2Funiversidad-en-morelia-adopta-a-tres-perritos-rescatados-de-maltrato.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/universidad-morelia-adopta-tres-perritos-rescatados-maltrato?_app=true",
+          "publicationDate": "15 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Universidad en Morelia adopta a tres perritos rescatados de maltrato"
+        },
+        {
+          "author": "Publicado por: Federico Anaya",
+          "contentType": "video",
+          "durationTime": "3:06",
+          "firebaseEvent": "reciente-simplelist-video-pos-8",
+          "highlighted": false,
+          "id": "00000188-1b34-d34a-abbc-fbb476360000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/3236179/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F7b%2F26%2F0398a6902b5b14de91393a28f185%2Fthumb-64611336cb00f17b79d91a8d-64611336cb00f17b79d91a98-19s.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/policia-cdmx-refuerza-seguridad-jardines-del-pedregal-incremento-robo-casa-habitacion?_app=true",
+          "publicationDate": "14 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Refuerzan seguridad en Jardines del Pedregal por incremento de robos a casa habitación"
+        },
+        {
+          "author": "Publicado por: Raziel Cruz Salazar",
+          "contentType": "video",
+          "durationTime": "3:22",
+          "firebaseEvent": "reciente-simplelist-video-pos-9",
+          "highlighted": false,
+          "id": "00000188-15e0-d34a-abbc-f7f451d50000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/9d5a32c/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd8%2F54%2F3b882560437597cc8a08eb9bfaf2%2Ftitulo-8-dificulta-vida-migrantes-frontera-mexico-estados-unidos.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/titulo-8-migrantes-frontera-mexico-estados-unidos?_app=true",
+          "publicationDate": "13 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Título 8 dificulta aún más la vida para los migrantes en la frontera entre México y Estados Unidos "
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "video",
+          "durationTime": "8:22",
+          "firebaseEvent": "reciente-simplelist-video-pos-10",
+          "highlighted": false,
+          "id": "00000188-1115-d34a-abbc-f3b5805a0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/99828a8/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8c%2Fd8%2Fd4273d7a440e884424937375dd76%2Fwhatsapp-image-2023-05-12-at-3-43-47-pm.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/luce-la-frontera-estados-unidos-y-mexico-finalizar-el-titulo-42?_app=true",
+          "publicationDate": "12 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Así luce la frontera de Estados Unidos y México tras finalizar el Título 42"
+        }
+      ],
+      "view": "simpleList"
+    },
+    {
+      "backgroundColor": "#004f71",
+      "fontColor": "#ffffff",
+      "title": "GALERÍA",
+      "view": "subsectionTitle"
+    },
+    {
+      "content": "https://www.tvazteca.com/aztecanoticias/app/screen/galeria",
+      "moreTitle": "Ver más en Galería",
+      "promos": [
+        {
+          "author": "Publicado por: Ulises Grajales y Ollinka Méndez",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-1",
+          "highlighted": true,
+          "id": "00000188-2625-df75-a5e9-ee657d2e0001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/4636046/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa5%2Fd4%2F68bf6b7947ef9ccd96705b0a2710%2Fjaguar-principal.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/revision-rutina-jaguar-mexico-como-cuanto-tiempo-dura?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Así es la revisión de rutina de un jaguar; ¡especialistas solo tienen 45 minutos!"
+        },
+        {
+          "author": "Publicado por: Carlos Alberto Pérez",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-2",
+          "highlighted": false,
+          "id": "00000187-da45-dd53-a5a7-fadd25390001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c234393/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F6c%2Ffe%2F8e07dc484a08946325e5e7b0a5e7%2Fdiseno-sin-titulo-14.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/met-gala-2023-mejores-vestidos-nueva-york-jared-leto-salma-hayek-bad-bunny?_app=true",
+          "publicationDate": "01 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Met Gala 2023: Jared Leto, Salma Hayek y Bad Bunny entre los mejores looks de Nueva York"
+        },
+        {
+          "author": "Publicado por: Jesica Constantino Aguilar",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-3",
+          "highlighted": false,
+          "id": "00000187-c991-df9a-a5e7-cb9df1160001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/6d12283/2147483647/strip/true/crop/1278x719+1+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F59%2F88%2F019d37594f60b1a1b11160628717%2Fcoronacion-rey-carlos-iii-joyas.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/son-las-joyas-que-se-utilizaran-la-coronacion-del-rey-carlos-iii?_app=true",
+          "publicationDate": "28 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Cómo son las joyas que se utilizarán en la coronación del rey Carlos III?"
+        },
+        {
+          "author": "Publicado por: Marissa Espinosa",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-4",
+          "highlighted": false,
+          "id": "00000187-c08f-d759-a997-fe8f403f0001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/93e675d/2147483647/strip/true/crop/5500x3094+0+287/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F22%2Fe6%2F80a7a06f4119b622315091bae52e%2F2023-04-14t065929z-1422813755-rc2xlx99ozoq-rtrmadp-3-ukraine-crisis-china-copper-exclusive.JPG",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/xi-jinping-presidente-china-lideres-mundiales?_app=true",
+          "publicationDate": "26 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Los encuentros de Xi Jinping con líderes mundiales"
+        },
+        {
+          "author": "Publicado por: Jesica Constantino Aguilar",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-5",
+          "highlighted": false,
+          "id": "00000187-ba4d-d4c8-abef-bb6fda550001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/4665b56/2147483647/strip/true/crop/1280x720+0+1/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fdd%2F61%2Fde0a5da44b19bc94ba24a07afebe%2Fpalacio-buckingham-casas-familia-real.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/son-las-lujosas-casas-y-carruajes-que-tiene-la-familia-real-reino-unido?_app=true",
+          "publicationDate": "25 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Cómo son las casas y carruajes de la realeza de Reino Unido?"
+        },
+        {
+          "author": "Publicado por: Jesica Constantino Aguilar ",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-6",
+          "highlighted": false,
+          "id": "00000187-5d27-d8cc-a7a7-fd6f261f0001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/217b568/2147483647/strip/true/crop/1280x720+0+67/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd1%2F20%2F5193e7a44df39ffc47f871aa8423%2Fcrucifixion-viernes-santo-semana-santa-2023-mundo.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/semana-santa-2023-se-vivio-el-viernes-santo-y-la-crucifixion-el-mundo?_app=true",
+          "publicationDate": "07 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Así se vivió el Viernes Santo y la crucifixión en Semana Santa 2023 en el mundo"
+        },
+        {
+          "author": "Publicado por: Pilar Espinoza",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-7",
+          "highlighted": false,
+          "id": "00000187-599d-dee4-a9d7-d9fdd6f80001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/7650d84/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F66%2F46%2F285cf409455cb9a384b938afcdea%2Fescasez-de-agua-2.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/fotos-incendio-central-abastos-cdmx?_app=true",
+          "publicationDate": "06 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "FOTOS: Así inició el incendio en la Central de Abastos de CDMX"
+        },
+        {
+          "author": "Publicado por: Marcos Morales",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-8",
+          "highlighted": false,
+          "id": "00000187-53cc-def0-a1af-77feba1c0001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/1159aa0/2147483647/strip/true/crop/1600x900+0+83/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff8%2F1e%2Ff4bff1ec41f8bd652a20d9f27ec8%2Fhomenaje-agentes-morelia-11.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/homenaje-agentes-morelia?_app=true",
+          "publicationDate": "05 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Rinden homenaje en memoria de agentes asesinados en Morelia, Michoacán"
+        },
+        {
+          "author": "Publicado por: Zeiza Pérez Murillo",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-9",
+          "highlighted": false,
+          "id": "00000187-3446-dc98-a38f-fcf73a1f0001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c42a4b4/2147483647/strip/true/crop/1200x675+0+66/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F71%2Fb9%2F5f3db03e4ac39c32ac6548c9c0cd%2Fjesus-hiperrealista-sabana-ok.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/semana-santa-2023-cristo-hiperrealista-la-sabana-santa?_app=true",
+          "publicationDate": "31 marzo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Semana Santa 2023: Así era Cristo, figura hiperrealista basada en la Sábana Santa de Turín"
+        },
+        {
+          "author": "Publicado por: Jesica Constantino Aguilar",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simplelist-galeria-pos-10",
+          "highlighted": false,
+          "id": "00000187-1ad2-da44-a3df-fefbbce10001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/b60e7de/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa4%2F52%2F8996ae3d4da39ecd389aa840b766%2Fcolise-roma-hora-del-planeta.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/hora-del-planeta-lucieron-varios-monumentos-el-mundo-oscuras?_app=true",
+          "publicationDate": "25 marzo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Monumentos en todo el mundo apagaron sus luces por la Hora del Planeta"
+        }
+      ],
+      "view": "simpleList"
+    },
+    {
+      "backgroundColor": "#004f71",
+      "fontColor": "#ffffff",
+      "title": "OPINIÓN",
+      "view": "subsectionTitle"
+    },
+    {
+      "content": "",
+      "moreTitle": "",
+      "promos": [
+        {
+          "author": "Publicado por: Fernanda Ortega",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-1",
+          "highlighted": true,
+          "id": "00000188-27d9-de56-a9cf-ffdb46400000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/db364f3/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F89%2F99%2F6a2137224f57a0abf1ff454e61f1%2Fmaestros-educacion-alumnos-padres-mexico-unicos.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/maestros-educar-alumnos-no-unicos-responsables?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "Maestros: ¿los únicos responsables de la educación?, padres y profesores deben formar a los alumnos"
+        },
+        {
+          "author": "Publicado por: Andreina Andrade",
+          "contentType": "video",
+          "durationTime": "1:13",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-2",
+          "highlighted": false,
+          "id": "00000188-2557-dd48-adda-edd7f60d0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/1aca9d3/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F95%2F8e%2Fa5a4ae3a49a0b909a9c2a48f10a4%2Fla-justicia-en-america-latina-lleva-al-hartazgo-por-robo-y-violencia.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/robo-justicia-america-latina-hartazgo-violencia?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "La falta justicia en América Latina lleva al hartazgo por robo y violencia"
+        },
+        {
+          "author": "Publicado por: Andreina Andrade",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-3",
+          "highlighted": false,
+          "id": "00000188-2558-d01c-ad99-edf842760000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/0c8698f/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F01%2F39%2F1f138ceb4f539fe156923d4a6562%2Fquien-pierde-realmente-cuando-se-silencia-un-medio-de-comunicacion.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/silencian-prensa-cierre-periodico-guatemala?_app=true",
+          "publicationDate": "16 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "Silencian a la prensa: ¿Quién pierde realmente con el cierre de El Periódico de Guatemala?"
+        },
+        {
+          "author": "Publicado por: Armando Guzmán",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-4",
+          "highlighted": false,
+          "id": "00000188-2131-d01c-ad99-edb907c00000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/a03a46a/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F11%2F9d%2F13e4ce8d49299fd9211b84b3d4d1%2Fsenador-kennedy-armando-guzman-editorial.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/senador-kennedy-conocido-washington-idiota-util?_app=true",
+          "publicationDate": "15 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "El senador Kennedy conocido en Washington, por ser un “idiota útil”"
+        },
+        {
+          "author": "Publicado por: Marco Morales Ferrero",
+          "contentType": "video",
+          "durationTime": "5:47",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-5",
+          "highlighted": false,
+          "id": "00000188-0e90-d34a-abbc-ffb40c1f0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/72b9e51/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F94%2Fff%2F8ad715ac4089941e464ca4d58b00%2Fel-fin-del-titulo-42.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/fin-titulo-42-migrantes-covid-19?_app=true",
+          "publicationDate": "12 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Adiós al Título 42! Esta medida restringía la entrada de migrantes a EU por COVID-19"
+        },
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "2:40",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-6",
+          "highlighted": false,
+          "id": "00000188-0e19-d34a-abbc-ffbd08e30000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8cdf9b4/2147483647/strip/true/crop/1600x900+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F15%2Fb8%2F5fc437ad49feb7324fb935aeef71%2Fdate-cuenta-cuentas-claras.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/impuestos-mexico-date-cuenta?_app=true",
+          "publicationDate": "11 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "Date Cuenta | La opaca transparencia en el cobro de impuestos en México"
+        },
+        {
+          "author": "Publicado por: Otoniel Martínez",
+          "contentType": "video",
+          "durationTime": "1:13",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-7",
+          "highlighted": false,
+          "id": "00000188-0c8f-d34a-abbc-ffbf5f130000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/14e490d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd7%2F73%2F118df08f4f149c70da3dfda90f3d%2Fmigrantes-frontera-mexico-eu-titulo-42.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/migrantes-que-no-los-enganen-frontera-mexico-eu-no-esta-abierta?_app=true",
+          "publicationDate": "11 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Migrantes, que no los engañen! La frontera entre México y EU no está abierta"
+        },
+        {
+          "author": "Publicado por: María Elena García Villalobos",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-8",
+          "highlighted": false,
+          "id": "00000188-06ec-d856-a39e-2fffe9530000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/f0e0ae2/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2F9d%2F45a6c6ec45a6a2facf54824a00f4%2Fmaria-elena-villalobos-huelga-escritores-estados-unidos.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/huelga-escritores-estados-unidos-va-alla-las-letras?_app=true",
+          "publicationDate": "10 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "Huelga de escritores en Estados Unidos va más allá de las letras"
+        },
+        {
+          "author": "Publicado por: Christian Lara",
+          "contentType": "video",
+          "durationTime": "1:49",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-9",
+          "highlighted": false,
+          "id": "00000188-06db-d9e4-a398-87df1a5a0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/252f354/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F63%2Faf%2Fa50151064e01a3380420ecd86e09%2Fdia-de-las-madres-amor-multiplica-christian-lara.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-de-las-madres-gracias-ensenarnos-amor-se-multiplica-christian-lara?_app=true",
+          "publicationDate": "10 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "Día de las Madres: Gracias por enseñarnos que el amor se multiplica"
+        },
+        {
+          "author": "Publicado por: Juan Pablo Delgado",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-opinion-pos-10",
+          "highlighted": false,
+          "id": "00000188-031d-dcc3-a99a-e33d05410000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c1d784d/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4e%2Fff%2F115765754c928e0362d2c053bc37%2Fel-arbol-de-moras-un-mundo-made-in-china.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/muerte-imperialismo-yanqui-un-mundo-made-in-china-opinion-delgado?_app=true",
+          "publicationDate": "09 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#215220",
+              "name": "Opinión FIA",
+              "type": "Section"
+            }
+          ],
+          "title": "El árbol de moras | Un mundo "Made in China" ¡Muerte al imperialismo yanqui!"
+        }
+      ],
+      "view": "simpleSlider"
+    }
+  ],
+  "title": "Reciente"
+}
