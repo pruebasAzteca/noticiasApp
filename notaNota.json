@@ -1,16 +1,27 @@
 {
   "modules": [
     {
+      "content": "https://pruebasazteca.github.io/noticiasApp/live.json",
+      "detail": false,
+      "firebaseEvent": "live-button",
+      "label": "EN VIVO",
+      "moreTitle": "Ver en vivo",
+      "schedule": "Lun - Vier 7:59 a 9:29AM",
+      "thumbnail": "https://uat.tv-azteca.psdops.com/dims4/default/521db2e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F76%2Fb12710d44cf5bdf2c68fe1a9e487%2Faqui-entre-nos.jpg",
+      "title": "Hechos Aquí Entre Nos. Para que Alex pruebe este texto bien grandotote.",
+      "view": "liveButton"
+    },
+    {
       "promos": [
         {
-          "author": "Publicado por: Fuerza Informativa Azteca",
-          "body": "https://form.jotform.com/231037593020042?im={[IM]}",
+          "author": "Publicado por: Jesica Constantino Aguilar",
+          "body": "https://www.tvazteca.com/aztecanoticias/video-harry-y-meghan-estuvieron-involucrados-una-persecucion-casi-catrastrofica?appView=true",
           "contentType": "nota",
           "mainMedia": {
-            "url": "https://uat.tv-azteca.psdops.com/dims4/default/c091002/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbc%2F1b%2Ffb2a499e4872806c802c71b94d39%2Falianza-del-pacifico-pedro-castillo-destitucion.jpg",
+            "url": "https://tvazteca.brightspotcdn.com/dims4/default/d81c11a/2147483647/strip/true/crop/1280x720+0+1/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4e%2Fcb%2Fcdc88b0d489fb3a5c810090b16f7%2Fharry-meghan-persecucion-nueva-york.jpg",
             "view": "image"
           },
-          "publicationDate": "07 diciembre 2022",
+          "publicationDate": "17 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -23,7 +34,7 @@
               "type": "Section"
             }
           ],
-          "title": "Posponen Alianza del Pacífico tras destitución de Pedro Castillo"
+          "title": "VIDEO: Harry y Meghan casi chocan en persecución de paparazzis en Nueva York"
         }
       ],
       "view": "article"
@@ -35,187 +46,17 @@
       "view": "regularTitle"
     },
     {
-      "content": "",
-      "moreTitle": "",
       "promos": [
         {
-          "author": "Publicado por: Pruebas QA",
+          "author": "Publicado por: Antonio Herrera",
           "contentType": "nota",
           "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-1",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-1",
           "highlighted": false,
-          "id": "00000187-ddb6-d237-a9e7-dff6d9250000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/d307516/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F65%2F1f%2Fb62fbfa64c27ad9bc4909b6735d0%2F557005d1192844659a336ac698c203ab",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/estudiante-se-come-platano-el-comediante-iconica-obra-maurizio-cattelan?_app=true",
-          "publicationDate": "02 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Estudiante se come plátano de “El comediante”, icónica obra de Maurizio Cattelan en museo de Seúl"
-        },
-        {
-          "author": "Publicado por: Fuerza Informativa Azteca",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-2",
-          "highlighted": false,
-          "id": "00000187-81f7-dfc3-a387-cdff8bc10000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/3964378/2147483647/strip/true/crop/533x300+118+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F06%2F29%2Fa03316b8422aad883f4c9da2a50a%2Fdiadelnino.jpeg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/dia-del-nino?_app=true",
-          "publicationDate": "01 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Día del Niño"
-        },
-        {
-          "author": "Publicado por: Jorge Faibre",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-3",
-          "highlighted": false,
-          "id": "00000187-c876-de4a-a397-cc77613e0000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/6b84940/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F92%2F6b%2Fa7b7a4404578bb49137f613662d8%2Fotan-requisitos-que-necesita-un-pais-para-ingresar-a-la-alianza.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/formulario-elecciones-coahuila?_app=true",
-          "publicationDate": "28 abril 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Articulo formulario elecciones Coahuila"
-        },
-        {
-          "author": "Publicado por: Pruebas QA",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-4",
-          "highlighted": false,
-          "id": "00000187-c3aa-d674-a7d7-e3ee090b0000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/6b2a425/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F84%2F9f%2F5af776ec4570a5da21d32f2a60ee%2Fd743efef80854262908a148c598e056f",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/explosion-acumulacion-gas-casa-iztapalapa-provoca-incendio?_app=true",
-          "publicationDate": "27 abril 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#7e3caa",
-              "name": "Seguridad",
-              "type": "Section"
-            }
-          ],
-          "title": "Explosión por acumulación de gas en casa de Iztapalapa provoca incendio"
-        },
-        {
-          "author": "Publicado por: Pruebas QA",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-5",
-          "highlighted": false,
-          "id": "00000187-b964-d6a1-abff-fbf78f210000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/7d295c0/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fe2%2Fd9%2F1ec3749b4f83809b2fcbf585e76f%2F42ef883c01b84567b12e2332cba99bbc",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/esto-se-sabe-el-tragico-accidente-lady-di-la-princesa-diana-gales?_app=true",
-          "publicationDate": "25 abril 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Esto se sabe sobre el trágico accidente de Lady Di, la princesa Diana de Gales"
-        },
-        {
-          "author": "Publicado por: null",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-6",
-          "highlighted": false,
-          "id": "00000187-b439-de11-af87-fcbf0b8c0000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/3c77447/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0b%2F2a%2Fc05815da43cfaa896099ff3b2281%2Fhay-foto-dua-lipa-se-convierte-en-sirena-para-la-nueva-pelicula-de-barbie.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/migrantes-formulario?_app=true",
-          "publicationDate": "24 abril 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#904e50",
-              "name": "Bienestar",
-              "type": "Section"
-            }
-          ],
-          "title": "Migrantes formulario"
-        },
-        {
-          "author": "Publicado por: Chilly Willy",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-7",
-          "highlighted": false,
-          "id": "00000187-a5df-d610-a3cf-a5dfd6f80000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/f13acf5/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F97%2Fa5%2Fa364a3d745ceb8173b28f9b94d12%2Fdiseno-sin-titulo-2020-11-12t140332.351.jpg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/formulario-jotform?_app=true",
-          "publicationDate": "21 abril 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Formulario jotform"
-        },
-        {
-          "author": "Publicado por: Pruebas QA",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-8",
-          "highlighted": false,
-          "id": "00000187-9584-dfcd-a1d7-9d9f13e20000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/9031ed3/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fca%2F73%2F3724b5014ad1b05bd2be1cf0bdd2%2F418143e52af34d1e99fe1162a309e3c1",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/hombre-asfixia-perrito-zapopan-jalisco-y-vecinos-lo-graban?_app=true",
-          "publicationDate": "18 abril 2023",
+          "id": "00000188-2a94-dec1-a78d-2af693360000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d9cc80f/2147483647/strip/true/crop/1280x720+0+28/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2f%2Faa%2Fdcebd02c4b078d2dc1d8459ac7fb%2Fsaltillo-coahuila-granizada-menor-victima-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/saltillo-coahuila-granizada-lluvia-menor-muere?_app=true",
+          "publicationDate": "17 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -228,18 +69,42 @@
               "type": "Section"
             }
           ],
-          "title": "Hombre asfixia a perrito en Zapopan, Jalisco y vecinos lo graban"
+          "title": "VIDEO: Granizada en Saltillo, Coahuila cobra la vida de una menor"
         },
         {
-          "author": "Publicado por: null",
+          "author": "Publicado por: Ollinka Méndez",
           "contentType": "nota",
           "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-9",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-2",
           "highlighted": false,
-          "id": "00000187-7d44-d79e-a7f7-ff7c42ef0000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/4352f55/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F84%2Fd3%2F8154c47e47ea820fca59a83b8c5a%2Fe8fda324d91f4252804a3b9b2d13c7e1",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/el-fin-notimex-gobierno-federal-busca-desaparecer-la-agencia-ricardo?_app=true",
-          "publicationDate": "13 abril 2023",
+          "id": "00000188-2a65-d4ae-a3cd-6b7fdfac0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/75ef117/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb0%2Fb1%2F99b64f1c40fd916875311b64980c%2Fdelito-ser-gay-mexico.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-internacional-contra-homofobia-transfobia-biofobia-ser-gay-mexico-era-delito?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Día Internacional contra la Homofobia: En México ser gay era un delito y una enfermedad"
+        },
+        {
+          "author": "Publicado por: América López",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-3",
+          "highlighted": false,
+          "id": "00000188-2a95-d0f3-a7dd-6b95283e0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/aab9219/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F31%2F4a%2F59440b4340baa983a4716b02eb79%2Fportada-cms-10.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/amlo-anuncia-su-ultimo-libro-de-que-tratara?_app=true",
+          "publicationDate": "17 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -252,18 +117,18 @@
               "type": "Section"
             }
           ],
-          "title": "¿El fin de Notimex? Gobierno Federal busca desaparecer a la agencia, según Ricardo Monreal"
+          "title": "\"Me dan sentimientos\": AMLO trabaja en su último libro sobre Cuarta Transformación"
         },
         {
-          "author": "Publicado por: null",
+          "author": "Publicado por: César Contreras",
           "contentType": "nota",
           "durationTime": "",
-          "firebaseEvent": "content-simpleslider-te-interesa-pos-10",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-4",
           "highlighted": false,
-          "id": "00000187-7654-ddd8-a9af-767e5f580000",
-          "image": "https://uat.tv-azteca.psdops.com/dims4/default/3964378/2147483647/strip/true/crop/533x300+118+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F06%2F29%2Fa03316b8422aad883f4c9da2a50a%2Fdiadelnino.jpeg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/prueba-formulario-dianino?_app=true",
-          "publicationDate": "12 abril 2023",
+          "id": "00000188-2a8f-d4ae-a3cd-6b9fac690000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c4b1729/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd2%2F08%2F9dde5e4949dea32f8b68ce189dd5%2Fecuador-guillermo-lasso-que-pasa-muerte-cruzada.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/ecuador-que-significa-disolucion-asamblea-nacional?_app=true",
+          "publicationDate": "17 mayo 2023",
           "tags": [
             {
               "color": "#ffffff",
@@ -271,15 +136,161 @@
               "type": "ContentType"
             },
             {
-              "color": "#904e50",
-              "name": "Bienestar",
+              "color": "#0066a0",
+              "name": "Mundo",
               "type": "Section"
             }
           ],
-          "title": "Registra a tu hijo para que aparezca en un noticiero"
+          "title": "Disolución de la Asamblea Nacional en Ecuador; esto es lo que sabemos"
+        },
+        {
+          "author": "Publicado por: Armando Martínez y Paco Guízar ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-5",
+          "highlighted": false,
+          "id": "00000188-2a99-d246-affc-2aff92b60000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2d40afe/2147483647/strip/true/crop/1152x648+0+108/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fee%2Fa7%2F5b69a7e645b785eafa68c00f43db%2Fconbaten-incendio.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/incendio-edificio-oficinas-colonia-anzures-moviliza-bomberos-que-combaten-el-fuego?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Bomberos combaten incendio en edificio de oficinas de la colonia Anzures "
+        },
+        {
+          "author": "Publicado por: Alexis Pérez Cerino",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-6",
+          "highlighted": false,
+          "id": "00000188-2a70-d246-affc-2a764a690000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/71097a4/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F09%2Fde%2F0ec3fea2453e96a5240c47352dbe%2Freportan-en-texas-a-cinco-pacientes-con-meningitis-tras-viaje-a-mexico-uno-de-ellos-murio.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/meningitis-contagios-texas-pacientes-viajaron-mexico-matamoros-tamaulipas?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Reportan en Texas a cinco pacientes con meningitis tras viaje a México; uno de ellos murió"
+        },
+        {
+          "author": "Publicado por: Fernanda Benítez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-7",
+          "highlighted": false,
+          "id": "00000188-2a73-d246-affc-2a77520f0000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/7e31bcb/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F34%2Fef%2F5b55a16048c8955060b4ac312fc5%2Findicadores-financieros-hoy-miercoles-17-de-mayo-2023-mexico-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/indicadores-financieros-precio-del-dolar-hoy-17-mayo-2023-mexico?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "Indicadores financieros abren con aumentos tras datos económicos de EU"
+        },
+        {
+          "author": "Publicado por: Óscar Mendoza y Fernando Ramírez ",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-8",
+          "highlighted": false,
+          "id": "00000188-2a66-d246-affc-2a7668040000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8cd8080/2147483647/strip/true/crop/361x203+3+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F10%2F0b%2F05bf1979405b826812d846f24747%2Ftoma-clandestina-iztacalco.png",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/otra-toma-clandestina-hidrocarburo-se-localiza-iztacalco?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Localizan en Iztacalco otra toma clandestina de hidrocarburo "
+        },
+        {
+          "author": "Publicado por: Laura Casillas",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-9",
+          "highlighted": false,
+          "id": "00000188-2a2a-d4ae-a3cd-6b3b8fc40000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8fac65e/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbe%2F40%2F82b1d65049dfa7d5305d54851006%2Fsre-contrata-a-mujer-transexual-como-directora-de-igualdad-de-genero-e-inclusion.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/mujer-transexual-sre-contrata-gloria-davenport-directora-igualdad-genero?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "SRE contrata a mujer transexual como directora de Igualdad de Género e Inclusión"
+        },
+        {
+          "author": "Publicado por: América López",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-10",
+          "highlighted": false,
+          "id": "00000188-2a53-d246-affc-2a7783300000",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/b7f2112/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F87%2F47%2Ff80399e947f382fde06a6a6cd2d3%2Fportada-cms-8.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/secuestro-migrantes-san-luis-potosi-amlo-afirma-que-el-gobierno-esta-trabajando-el?_app=true",
+          "publicationDate": "17 mayo 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "AMLO afirma que se está trabajando en el caso de secuestro de 50 migrantes en San Luis Potosí"
         }
       ],
-      "view": "simpleSlider"
+      "view": "simpleSlider",
+      "content": "",
+      "moreTitle": ""
     }
   ],
   "title": "Detalle de la nota"
