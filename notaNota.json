@@ -15,11 +15,13 @@
       "promos": [
         {
           "author": "Publicado por: Jesica Constantino Aguilar",
-          "body": "https://form.jotform.com/231037593020042?im=//IM//",
+          "body": "https://uat.tv-azteca.psdops.com/aztecanoticias/alan-el-mundo-unico-mexicano-viajar-submarino-perdido-expedicion-titanic?appView=true&im=//IM//",
           "contentType": "nota",
           "mainMedia": {
-            "url": "https://tvazteca.brightspotcdn.com/dims4/default/d81c11a/2147483647/strip/true/crop/1280x720+0+1/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4e%2Fcb%2Fcdc88b0d489fb3a5c810090b16f7%2Fharry-meghan-persecucion-nueva-york.jpg",
-            "view": "image"
+            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+            "video": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
+            "videoAssetId": "609b243156cca108312822a6",
+            "view": "live"
           },
           "publicationDate": "17 mayo 2023",
           "tags": [
