@@ -1,7 +1,6 @@
 {
   "modules": [
     {
-      {
       "content": "https://pruebasazteca.github.io/noticiasApp/live.json",
       "detail": false,
       "firebaseEvent": "live-button",
@@ -12,6 +11,7 @@
       "title": "Hechos Aquí Entre Nos. Para que Alex pruebe este texto bien grandotote.",
       "view": "liveButton"
     },
+    {
       "promos": [
         {
           "author": "Publicado por: Raziel Cruz Salazar",
