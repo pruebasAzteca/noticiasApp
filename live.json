@@ -1,6 +1,17 @@
 {
   "modules": [
     {
+      "content": "https://pruebasazteca.github.io/noticiasApp/live.json",
+      "detail": false,
+      "firebaseEvent": "live-button",
+      "label": "EN VIVO",
+      "moreTitle": "Ver en vivo",
+      "schedule": "Lun - Vier 7:59 a 9:29AM",
+      "thumbnail": "https://uat.tv-azteca.psdops.com/dims4/default/521db2e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F76%2Fb12710d44cf5bdf2c68fe1a9e487%2Faqui-entre-nos.jpg",
+      "title": "Hechos Aquí Entre Nos. Para que Alex pruebe este texto bien grandotote.",
+      "view": "liveButton"
+    },
+    {
       "promos": [
         {
           "author": "Publicado por: null",
