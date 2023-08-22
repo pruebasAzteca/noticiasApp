@@ -5,20 +5,6 @@
       "privateCfg": "https://uat.tv-azteca.psdops.com/aztecanoticias/login_noticias"
     }
   },
-  "breakingNews": [
-    {
-      "backgroundColor": "#ffffff",
-      "fontColor": "#004f71",
-      "title": "Al momento",
-      "view": "regularTitle"
-    },
-    {
-      "promos": [],
-      "view": "simpleList",
-      "content": "",
-      "moreTitle": ""
-    }
-  ],
   "modules": [
     {
       "backgroundColor": "#ffffff",
