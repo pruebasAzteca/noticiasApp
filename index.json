@@ -5,6 +5,96 @@
       "privateCfg": "https://uat.tv-azteca.psdops.com/aztecanoticias/login_noticias"
     }
   },
+  "breakingNews": [
+    {
+      "backgroundColor": "#ffffff",
+      "fontColor": "#004f71",
+      "title": "Al momento",
+      "view": "regularTitle"
+    },
+    {
+      "promos": [
+        {
+          "author": "Publicado por: null",
+          "contentType": "video",
+          "durationTime": "1:47",
+          "firebaseEvent": "video-simplelist-destacados-pos-8",
+          "highlighted": false,
+          "id": "00000187-5325-dc20-a5af-ff7ddc300000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/585bb66/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4e%2F26%2F7b9773ff46abb39f768fbe65176a%2Fcenote-yucatan-familia-casa-patio.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/cenote-yucatan-casa-patio-familia-video?_app=true",
+          "private": "1",
+          "publicationDate": "05 abril 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Familia descubre cenote en el patio de su casa en Yucatán"
+        },
+        {
+          "author": "Publicado por: César Méndez",
+          "contentType": "video",
+          "durationTime": "1:48",
+          "firebaseEvent": "video-simplelist-destacados-pos-9",
+          "highlighted": false,
+          "id": "00000185-a279-dc70-afad-b67b08de0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/b6ac6ca/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8d%2Fcd%2F73fe5a0e4d149017dc8cdd6c7081%2Fuma-que-es-para-que-sirve.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/que-es-uma-para-que-sirve-fbs?_app=true",
+          "private": "1",
+          "publicationDate": "11 enero 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Qué es la Unidad de Medida y Actualización y para qué sirve?: UMA"
+        },
+        {
+          "author": "Publicado por: Edgar Galicia y Citlalli Sánchez",
+          "contentType": "video",
+          "durationTime": "2:08",
+          "firebaseEvent": "video-simplelist-destacados-pos-10",
+          "highlighted": false,
+          "id": "00000188-d79a-da34-adfc-f7be6d7b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/f6489a4/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F42%2Fe5%2Fab8cf97745a5bf1c7131b81ca8a3%2Fcomo-luce-el-submarino-perdido-titanic-atlantico.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/alan-el-mundo-unico-mexicano-viajar-submarino-perdido-expedicion-titanic?_app=true",
+          "private": "1",
+          "publicationDate": "20 junio 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Así fue el viaje de Alan por el mundo en el submarino perdido en expedición al Titanic"
+        }
+      ],
+      "view": "simpleList",
+      "content": "",
+      "moreTitle": ""
+    }
+  ],
   "modules": [
     {
       "backgroundColor": "#ffffff",
