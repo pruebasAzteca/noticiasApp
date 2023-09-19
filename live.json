@@ -18,9 +18,9 @@
           "body": "",
           "mainMedia": {
             "durationTime": "2:59:00",
-            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/venga-la-alegria/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-            "video": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
-            "videoAssetId": "8FUmvMX3ShuQTgE3tEqxNg",
+            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=https://www.tvazteca.com/superapp/tren-del-meme-con-valentina-rodriguez-y-hernan-hochstrasser/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+            "video": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8",
+            "videoAssetId": "XZLLJIhJRNqz33DGp6NdkA",
             "view": "video"
           },
           "publicationDate": "Publicado: 09 julio 2019 02:03",
