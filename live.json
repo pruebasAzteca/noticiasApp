@@ -18,7 +18,7 @@
           "body": "",
           "mainMedia": {
             "durationTime": "2:59:00",
-            "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/amas-tv/extranormal/programas-completos&ads?sz=640x480&ads?slotname&description_url=https://www.tvazteca.com/amastv/extranormal/programa-completo-las-brujas-del-cuartel&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D65074cc2b2129a6910db33b1&sz=640x480&vid=65074cc2b2129a6910db33b1&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
+            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/venga-la-alegria/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
             "video": "https://mdstrm.com/video/65074cc2b2129a6910db33b1.m3u8",
             "videoAssetId": "65074cc2b2129a6910db33b1",
             "view": "video"
