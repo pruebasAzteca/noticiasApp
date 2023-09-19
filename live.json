@@ -1,14 +1,15 @@
 {
   "modules": [
     {
-      "content": "https://pruebasazteca.github.io/noticiasApp/live.json",
+      "content": "https://uat.tv-azteca.psdops.com/aztecanoticias/videos/envivo?_app=true",
       "detail": false,
       "firebaseEvent": "live-button",
+      "id": "00000185-1214-d8b3-ab8f-9abd51a80000",
       "label": "EN VIVO",
-      "moreTitle": "Ver en vivo",
-      "schedule": "Lun - Vier 7:59 a 9:29AM",
-      "thumbnail": "https://uat.tv-azteca.psdops.com/dims4/default/521db2e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F76%2Fb12710d44cf5bdf2c68fe1a9e487%2Faqui-entre-nos.jpg",
-      "title": "Hechos Aquí Entre Nos. Para que Alex pruebe este texto bien grandotote.",
+      "moreTitle": "",
+      "schedule": "",
+      "thumbnail": "",
+      "title": "Envivo en Nota",
       "view": "liveButton"
     },
     {
@@ -17,13 +18,13 @@
           "author": "Publicado por: null",
           "body": "",
           "mainMedia": {
-            "durationTime": "2:59:00",
+            "durationTime": "1:00:00",
             "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/venga-la-alegria/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
             "video": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
-            "videoAssetId": "65074cc2b2129a6910db33b1",
+            "videoAssetId": "8FUmvMX3ShuQTgE3tEqxNg",
             "view": "video"
           },
-          "publicationDate": "Publicado: 09 julio 2019 02:03",
+          "publicationDate": "Publicado: 09 julio 2019 01:03",
           "tags": [
             {
               "color": "#ffffff",
@@ -31,37 +32,115 @@
             },
             {
               "color": "#00a499",
-              "name": "Hechos",
+              "name": "Noticiero Hechos",
               "type": "Section"
             }
           ],
-          "title": "Hechos En Vivo"
+          "title": "Noticiero en vivo"
         }
       ],
       "view": "enVivoContent"
     },
-     {
+    {
       "backgroundColor": "#ffffff",
       "fontColor": "#004f71",
-      "title": "NUESTROS PROGRAMAS",
+      "title": "Te interesa",
       "view": "regularTitle"
     },
     {
+      "content": "",
+      "moreTitle": "",
       "promos": [
         {
-          "author": "Publicado por: Fernando Roldán",
+          "author": "Publicado por: Pruebas QA",
           "contentType": "video",
-          "durationTime": "2:07",
-          "firebaseEvent": "video-simplelist-ultimos-pos-1",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-1",
           "highlighted": false,
-          "id": "00000185-30da-df4a-a5ad-3cfeb1740000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/9da6906/2147483647/strip/true/crop/866x487+0+8/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fcb%2Fd8%2Fb9f312b34b91a86f6a5a33327e5a%2Festan-desesperados-buscando-a-angel-en-jalisco.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/angel-desaparecido-jalisco-vcp?_app=true",
-          "publicationDate": "20 diciembre 2022",
+          "id": "0000018a-aa75-dfe3-a98f-bafd2abe0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/8854b6b/2147483647/strip/true/crop/464x261+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F9b%2F3e%2F310207bb4f629733b98545efaf2c%2F09e9f30941774e2582105c17c33615c2",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/teresa-alonso-nadadora-mexicana-denuncio-acoso-parte-su-entrenadora?_app=true",
+          "private": "1",
+          "publicationDate": "18 septiembre 2023",
           "tags": [
             {
               "color": "#ffffff",
               "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#327f84",
+              "name": "Deportes",
+              "type": "Section"
+            }
+          ],
+          "title": "Teresa Alonso, nadadora mexicana, denunció acoso de parte de su entrenadora"
+        },
+        {
+          "author": "Publicado por: César Contreras",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-2",
+          "highlighted": false,
+          "id": "0000018a-955e-d479-ab8a-bf7e04d00000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/b71f841/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F10%2Fe2%2F83d11ca146f59e3b8566cb76d0fd%2Freportera-acosada-espana-en-vivo.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/reportera-tv-en-espana-es-acosada-en-pleno-enlace-en-vivo-video?_app=true",
+          "private": "1",
+          "publicationDate": "14 septiembre 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "VIDEO “Estoy trabajando”: Reportera de TV es acosada en pleno enlace en vivo"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-3",
+          "highlighted": false,
+          "id": "0000018a-86c3-d6a0-afcb-87f384740001",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/36de564/2147483647/strip/true/crop/928x522+0+34/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F27%2Fa8%2F8100e8f74582810ffacd4447f7c7%2Fed42f7736ce943f295023a03679c2495",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/se-vio-la-superluna-azul-en-varias-partes-del-mundo-titulo-seo?_app=true",
+          "private": "1",
+          "publicationDate": "11 septiembre 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Así se vió la superluna azul en varias partes del mundo Título H1"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-4",
+          "highlighted": false,
+          "id": "0000018a-61db-dc29-addf-ebfffc7b0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/eb4afde/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F0e%2F3f%2F423e04b54890a5776913cc92605f%2F08eaa75dfde647daacebe1a4bb077dd1",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/helicoptero-se-desplomo-en-tuxpan-jalisco-reportan-tres-muertos?_app=true",
+          "private": "0",
+          "publicationDate": "04 septiembre 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
               "type": "ContentType"
             },
             {
@@ -70,46 +149,23 @@
               "type": "Section"
             }
           ],
-          "title": "Están desesperados buscando a Ángel Escobedo en Jalisco"
+          "title": "Helicóptero se desplomó en Tuxpan, Jalisco; reportan tres muertos"
         },
         {
-          "author": "Publicado por: Edgar Galicia",
-          "contentType": "video",
-          "durationTime": "7:53",
-          "firebaseEvent": "video-simplelist-ultimos-pos-2",
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-5",
           "highlighted": false,
-          "id": "00000185-2dfe-df4a-a5ad-3dfe44750000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d36e2c9/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F2f%2F7c%2Fc5193f2c49b9bfd8d0ee25bb3ea0%2Faurelia-garcia-padres-libertad.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/padres-aurelia-garcia-libertad-csz?_app=true",
-          "publicationDate": "20 diciembre 2022",
+          "id": "0000018a-61d8-dc29-addf-ebfc91ef0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/87b0193/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F9b%2Fc4%2F3cac99664090abd137675d04e66d%2F72e00818c62b42fcbd375c5ba3d079c2",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/javier-may-deja-su-cargo-al-frente-la-fonatur-va-por-gubernatura-tabasco?_app=true",
+          "private": "0",
+          "publicationDate": "04 septiembre 2023",
           "tags": [
             {
               "color": "#ffffff",
-              "name": "Videos",
-              "type": "ContentType"
-            },
-            {
-              "color": "#cf0c10",
-              "name": "Bienestar",
-              "type": "Section"
-            }
-          ],
-          "title": "“Quiero abrazarla”: Padres de Aurelia García piden su libertad"
-        },
-        {
-          "author": "Publicado por: Reynaldo Lara",
-          "contentType": "video",
-          "durationTime": "2:32",
-          "firebaseEvent": "video-simplelist-ultimos-pos-3",
-          "highlighted": false,
-          "id": "00000185-2c54-df4a-a5ad-3cf68a6e0000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/5ad4261/2147483647/strip/true/crop/838x471+0+1/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F04%2Fbf%2Fc7a77b3b429b9f00eaf532bc758e%2Fmiles-de-migrantes-saturan-el-paso-declaran-emergencia.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/emergencia-migrantes-texas-vcp?_app=true",
-          "publicationDate": "19 diciembre 2022",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Videos",
+              "name": "Notas",
               "type": "ContentType"
             },
             {
@@ -118,22 +174,23 @@
               "type": "Section"
             }
           ],
-          "title": "Miles de migrantes saturan El Paso, declaran emergencia"
+          "title": "Javier May deja su cargo al frente de la Fonatur, va por gubernatura de Tabasco"
         },
         {
-          "author": "Publicado por: Gustavo Cárdenas",
-          "contentType": "video",
-          "durationTime": "2:00",
-          "firebaseEvent": "video-simplelist-ultimos-pos-4",
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-6",
           "highlighted": false,
-          "id": "00000185-2c0f-df4a-a5ad-3cbfdd850000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/400b26b/2147483647/strip/true/crop/832x468+0+3/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F83%2F6e%2Ffd3a16da4255a2d1db7687f38d4c%2Fincendio-en-el-centinela-causa-alerta-consume-7-hectareas.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/incendio-centinela-jalisco-vcp?_app=true",
-          "publicationDate": "19 diciembre 2022",
+          "id": "0000018a-4c65-da1e-a38f-6e67be810000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/09ec3c5/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F1d%2F1b%2F46a4c51b4ee386a251c321a0f4c4%2Fb698126f764345f19651e8190a65f6fb",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/incendio-en-edificio-sudafrica-deja-al-menos-73-fallecidos-y-52-heridos?_app=true",
+          "private": "1",
+          "publicationDate": "31 agosto 2023",
           "tags": [
             {
               "color": "#ffffff",
-              "name": "Videos",
+              "name": "Notas",
               "type": "ContentType"
             },
             {
@@ -142,37 +199,111 @@
               "type": "Section"
             }
           ],
-          "title": "Incendio en El Centinela causa alerta, consume 7 hectáreas"
+          "title": "Incendio en edificio de Sudáfrica deja al menos 73 fallecidos y 52 heridos"
         },
         {
-          "author": "Publicado por: Roberto Ruiz",
-          "contentType": "video",
-          "durationTime": "5:27",
-          "firebaseEvent": "video-simplelist-ultimos-pos-5",
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-7",
           "highlighted": false,
-          "id": "00000185-2c02-df4a-a5ad-3cb6233c0000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/37693ea/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F3e%2F01%2Faaa04634455a9b9e8071f5dda169%2Faurelia-garcia-indigenas-detenidos-traductor.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/indigenas-aurelia-garcia-traductor-csz?_app=true",
-          "publicationDate": "19 diciembre 2022",
+          "id": "00000189-fa58-db94-adc9-fbde6f240000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/2bafa00/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F29%2Fb0%2F5176f59643f88d687ed0f7e976b3%2Fa89b9fb6a7a74c1b9a9dd0bfb579d3f1",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/nuevo-rival-para-musk-nasa-firma-rocket-lab-para-estudiar-cambio-climatico?_app=true",
+          "private": "0",
+          "publicationDate": "15 agosto 2023",
           "tags": [
             {
               "color": "#ffffff",
-              "name": "Videos",
+              "name": "Notas",
               "type": "ContentType"
             },
             {
-              "color": "#cf0c10",
-              "name": "Bienestar",
+              "color": "#0066a0",
+              "name": "Mundo",
               "type": "Section"
             }
           ],
-          "title": "Indígenas como Aurelia García son detenidos por falta de un traductor"
+          "title": "¿Nuevo rival para Musk? NASA firma con Rocket Lab para estudiar cambio climático"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-8",
+          "highlighted": false,
+          "id": "00000189-e091-d575-a9d9-f5d5a32e0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/46eaf0a/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fff%2Fe0%2Fc3dd09bd4a71be1c49cdb17d5c52%2F65c0eb9075d0420a897db6692b9f10be",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/se-queda-sin-elevador-hospital-general-los-mochis-pacientes-afectados?_app=true",
+          "private": "1",
+          "publicationDate": "10 agosto 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Se queda sin elevador Hospital General de Los Mochis; pacientes afectados"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-9",
+          "highlighted": false,
+          "id": "00000189-d5e8-dafe-ab9d-dfe84e980000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/d44ecd6/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fd0%2F25%2F84f48792467095606bb3a1cd4c89%2F078b8045bca349d9b5d2d562f35cfdd9",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/conceden-a-uriel-carmona-suspension-para-no-ser-extraditado-a-eu?_app=true",
+          "private": "1",
+          "publicationDate": "08 agosto 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Conceden a Uriel Carmona suspensión para no ser extraditado a EU Nota Modificada"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "reciente-simpleslider-te-interesa-pos-10",
+          "highlighted": false,
+          "id": "00000189-d29d-dafe-ab9d-dfdd68c80000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/07d10a9/2147483647/strip/true/crop/336x189+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F32%2Fd5%2F02d6dd704a288e36282a62eb598f%2F878d2bf340224aa8a7ff2776e5a344de",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/muere-estudiante-19-anos-dentro-campus-en-el-tec-monterrey?_app=true",
+          "private": "0",
+          "publicationDate": "07 agosto 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Muere estudiante de 19 años dentro de campus en el Tec de Monterrey"
         }
       ],
-      "view": "simpleList",
-      "content": "",
-      "moreTitle": ""
+      "view": "simpleSlider"
     }
   ],
-  "title": "Hechos En Vivo"
+  "title": "Noticiero en vivo"
 }
