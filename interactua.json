@@ -1,0 +1,18 @@
+{
+  "modules": [
+    {
+      "screens": [
+        {
+          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/denuncia-ciudadana-json",
+          "title": "Denuncia Ciudadana"
+        },
+        {
+          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/interactua",
+          "title": "Encuesta ciudadana"
+        }
+      ],
+      "view": "interactua"
+    }
+  ],
+  "title": "Interactua"
+}
