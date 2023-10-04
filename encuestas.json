@@ -1,0 +1,19 @@
+{
+  "modules": [
+    {
+      "image": "https://uat.tv-azteca.psdops.com/dims4/default/2af684d/2147483647/strip/true/crop/587x330+22+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc5%2Ff5%2Fa681fa454e87f174d27d3c556593%2Fdia-del-nino-1970310.jpg",
+      "private": "1",
+      "title": "Día del niño",
+      "url": "https://form.jotform.com/231694815891872?im=//IM//",
+      "view": "botones"
+    },
+    {
+      "image": "https://uat.tv-azteca.psdops.com/dims4/default/dc7663b/2147483647/strip/true/crop/196x110+0+6/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F35%2F40%2Fbc26f2841ae4cd0aa5deb81696d9%2Fjun-nota-147-902261.jpg",
+      "private": "0",
+      "title": "Vota en vivo",
+      "url": "https://form.jotform.com/231694815891872?im=//IM//",
+      "view": "botones"
+    }
+  ],
+  "title": "Encuesta Ciudadana"
+}
