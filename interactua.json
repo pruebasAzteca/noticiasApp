@@ -7,7 +7,7 @@
           "title": "Denuncia Ciudadana"
         },
         {
-          "source": "https://uat.tv-azteca.psdops.com/aztecanoticias/app/screen/interactua",
+          "source": "https://pruebasazteca.github.io/noticiasApp/encuestas.json",
           "title": "Encuesta ciudadana"
         }
       ],
