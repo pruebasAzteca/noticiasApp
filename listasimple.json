@@ -1,6 +1,6 @@
 {
   "modules": [
-        {
+    {
       "backgroundColor": "#ffffff",
       "fontColor": "#004f71",
       "title": "Aquí el título de las cositas",
@@ -33,7 +33,7 @@
               "type": "Section"
             }
           ],
-          "title": "¿A qué se asemejaron los vientos del huracán "Otis" cuando llegó a Acapulco?"
+          "title": "¿A qué se asemejaron los vientos del huracán Otis cuando llegó a Acapulco?"
         },
         {
           "author": "Publicado por: César  Contreras",
@@ -133,7 +133,7 @@
               "type": "Section"
             }
           ],
-          "title": "10 fotos que muestran la devastación que dejó el huracán "Otis" en Acapulco "
+          "title": "10 fotos que muestran la devastación que dejó el huracán Otis en Acapulco "
         },
         {
           "author": "Publicado por: Roberto Domínguez",
@@ -233,7 +233,7 @@
               "type": "Section"
             }
           ],
-          "title": "Museo Casa del Risco expone "La Nochebuena de México en Ikebana""
+          "title": "Museo Casa del Risco expone LaNochebuenadeMéxicoenIkebana"
         },
         {
           "author": "Publicado por: Fuerza Informativa Azteca",
