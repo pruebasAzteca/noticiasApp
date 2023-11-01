@@ -1,0 +1,268 @@
+{
+  "modules": [
+        {
+      "backgroundColor": "#ffffff",
+      "fontColor": "#004f71",
+      "title": "Aquí el título de las cositas",
+      "view": "regularTitle"
+    },
+    {
+      "content": "",
+      "moreTitle": "",
+      "promos": [
+        {
+          "author": "Publicado por: Jennifer García",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-1",
+          "highlighted": true,
+          "id": "0000018b-878f-d00f-a39b-8fcf7e940001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/43626ed/2147483647/strip/true/crop/1200x675+0+263/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F73%2Ffd%2F5bb901e440dd980a7bd91cefc421%2Fa-que-se-asemejan-los-vientos-del-huracan-otis-1.jpeg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/huracan-otis-velocidad-sus-vientos-cuando-llego-a-acapulco-guerrero?_app=true",
+          "private": "0",
+          "publicationDate": "31 octubre 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "¿A qué se asemejaron los vientos del huracán "Otis" cuando llegó a Acapulco?"
+        },
+        {
+          "author": "Publicado por: César  Contreras",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-2",
+          "highlighted": true,
+          "id": "0000018b-8607-dd9f-a7db-d68756da0001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/801f9bf/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F75%2F54%2Fac1b066e4b06ac3e6894cba7d44a%2Fleonor-de-borbon-espana.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/leonor-de-borbon-jura-constitucion-heredera-trono-espana-video-y-fotos?_app=true",
+          "private": "0",
+          "publicationDate": "31 octubre 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Leonor de Borbón jura la constitución de España y se convierte en heredera al trono"
+        },
+        {
+          "author": "Publicado por: Mitzi Pulido - Fernanda Benítez",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-3",
+          "highlighted": true,
+          "id": "0000018b-43bc-dc6b-afbb-73fea7800001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/daeca49/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3f%2Fa0%2F1ff799414dc08c5c919c71548bec%2Fdia-de-muertos-2023-mexico-calaveritas-de-azucar-venta-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-de-muertos-2023-comienza-venta-de-calaveritas-de-azucar?_app=true",
+          "private": "0",
+          "publicationDate": "18 octubre 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Arma tu ofrenda! Comienza la venta de calaveritas de azúcar por Día de Muertos"
+        },
+        {
+          "author": "Publicado por: Reynaldo Lara / Azteca Ciudad Juárez",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-4",
+          "highlighted": true,
+          "id": "0000017c-bfb6-d2ff-a5ff-ffbe7c0b0001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/1d345d0/2147483647/strip/true/crop/1920x1080+0+97/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2f%2F44%2F2ae60f844e2aaed52490910a79e9%2Fhalloween-el-paso-tx-2.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/halloween-el-paso-texas-casas-mej?_app=true",
+          "private": "0",
+          "publicationDate": "30 octubre 2021",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "Halloween en El Paso, Texas: Casas aguardan con escalofriantes seres"
+        },
+        {
+          "author": "Publicado por: América López",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-5",
+          "highlighted": true,
+          "id": "0000018b-677d-d34a-a5bb-e7fdf3e60001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/5048e2b/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff1%2Fe6%2Fdf3520104270a9f1effdcf610473%2Fportada-cms-2023-10-25t111325-694.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/huracan-otis-las-devastadoras-imagenes-de-su-trayectoria-en-acapulco-guerrero?_app=true",
+          "private": "0",
+          "publicationDate": "25 octubre 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#008557",
+              "name": "Estados",
+              "type": "Section"
+            }
+          ],
+          "title": "10 fotos que muestran la devastación que dejó el huracán "Otis" en Acapulco "
+        },
+        {
+          "author": "Publicado por: Roberto Domínguez",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-6",
+          "highlighted": true,
+          "id": "0000018b-43a2-de92-a9ef-c3f250950001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8e07d31/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F28%2F80%2F674df41a4566b1214ac5c644ccc6%2Fdia-de-muertos-2023-catrinas-de-papel-mercados-de-mexico-1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-de-muertos-catrinas-de-papel-inundan-los-mercados-de-mexico?_app=true",
+          "private": "0",
+          "publicationDate": "18 octubre 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": "¡Se acerca el Día de Muertos! Catrinas de papel inundan los mercados de México"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-7",
+          "highlighted": true,
+          "id": "00000180-0ab0-dddd-affb-0efcadc30001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/68c9b39/2147483647/strip/true/crop/1100x619+0+61/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2F4d%2F80d80283477491a6f850dae91d59%2Fpitao-cocijo.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/pitao-cocijo-dios-paseo-de-la-reforma-csz?_app=true",
+          "private": "0",
+          "publicationDate": "08 abril 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Pitao Cocijo, el monumental Dios zapoteco en Paseo de la Reforma"
+        },
+        {
+          "author": "Publicado por: Jesica Constantino Aguilar",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-8",
+          "highlighted": true,
+          "id": "00000189-0354-d01c-a9bb-1bd718c40001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8b1e9e4/2147483647/strip/true/crop/1186x667+47+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F87%2F77%2Fe8c73a5e464a962cb81b0a34ae07%2Frestos-sumergible-titan-canada.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/fotos-los-restos-del-titan-llegaron-canada-quedo-el-sumergible-la-implosion?_app=true",
+          "private": "0",
+          "publicationDate": "28 junio 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "FOTOS: Así quedó el sumergible Titán tras la implosión; los restos llegaron a Canadá"
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-9",
+          "highlighted": true,
+          "id": "00000184-cf84-d41c-a3ce-cf952c5c0001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/a237501/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb5%2F9b%2F513d2c5a4951b26a37603ce4b24e%2F1.jpg",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/museo-casa-del-risco-la-nochebuena-de-mexico-en-ikebana-cra-icherlysiouf?_app=true",
+          "private": "0",
+          "publicationDate": "01 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Museo Casa del Risco expone "La Nochebuena de México en Ikebana""
+        },
+        {
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "contentType": "galeria",
+          "durationTime": "",
+          "firebaseEvent": "galeria-simplelist-destacados-pos-10",
+          "highlighted": true,
+          "id": "00000186-7c92-d027-a7b6-fdd340270001",
+          "image": "https://tvazteca.brightspotcdn.com/dims4/default/cf86063/2147483647/strip/true/crop/1200x675+0+263/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8a%2Ff2%2F3081c1a8485d88c11aa329a2076f%2Fconjuncion-jupiter-y-venus.jfif",
+          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/conjuncion-jupiter-venus-vivo-hoy-pde?_app=true",
+          "private": "0",
+          "publicationDate": "22 febrero 2023",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Galerías",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "VIDEO: Así se ve en vivo la conjunción de Luna, Venus y Júpiter "
+        }
+      ],
+      "view": "simpleList"
+    }
+  ],
+  "title": "Detalle de la nota"
+}
