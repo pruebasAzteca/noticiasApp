@@ -20,8 +20,8 @@
           "mainMedia": {
             "durationTime": "1:00:00",
             "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/venga-la-alegria/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-            "video": "https://mdstrm.com/live-stream-playlist/5ff462cc0c34b9420400e834.m3u8",
-            "videoAssetId": "5ff462cc0c34b9420400e834",
+            "video": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8",
+            "videoAssetId": "609b243156cca108312822a6",
             "view": "video"
           },
           "publicationDate": "Publicado: 09 julio 2019 01:03",
