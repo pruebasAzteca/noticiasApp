@@ -72,7 +72,31 @@
           "highlighted": false,
           "id": "00000188-d79a-da34-adfc-f7be6d7b0000",
           "image": "https://uat.tv-azteca.psdops.com/dims4/default/f6489a4/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F42%2Fe5%2Fab8cf97745a5bf1c7131b81ca8a3%2Fcomo-luce-el-submarino-perdido-titanic-atlantico.jpeg",
-          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/alan-el-mundo-unico-mexicano-viajar-submarino-perdido-expedicion-titanic?_app=true",
+          "mainMedia": {
+            "view": "Gallery",
+            "items":[
+              {
+                "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043.png",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+              },
+              {
+                "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-1.png",
+                "description": "Lo que se ve en la descripción de la imagen. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+              },
+              {
+                "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-2.png",
+                "description": "Lo que se ve en la descripción de la imagen. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+              },
+              {
+                "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-3.png",
+                "description": "Lo que se ve en la descripción de la imagen. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+              },
+              {
+                "image": "https://pruebasazteca.github.io/noticiasApp/imagenes/SliderSimple/Frame%2043-4.png",
+                "description": "Lo que se ve en la descripción de la imagen. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+              }
+            ]
+          },
           "private": "1",
           "publicationDate": "20 junio 2023",
           "tags": [
