@@ -1,0 +1,49 @@
+{
+  "backgroundcolor": "#000000aa",
+  "daystoask": "1",
+  "disclosure": "Al ingresar reconoces estar de acuerdo con: Aviso legal de privacidad",
+  "disclosurecolor": "#ffffffff",
+  "disclosureurl": "https://www.tvazteca.com/politicas.html",
+  "firebase": {
+    "testnumber": "inicio",
+    "otrocampo": "inicio-noticias"
+  },
+  "indicatorselcolor": "#ffffffff",
+  "indicatorunselcolor": "#aaaaaaff",
+  "loginproviders": [
+    "facebook",
+    "correo",
+    "googleAndroid"
+  ],
+  "slides": [
+    {
+      "subtitulosombracolor": "#000000ff",
+      "subtitulocolor": "#ffffffff",
+      "titulo": "¡Bienvenido!",
+      "subtitulo": "Únete a las coberturas de Fuerza Informativa Azteca",
+      "titulocolor": "#ffffffff",
+      "titulosombracolor": "#000000ff"
+    },
+    {
+      "subtitulosombracolor": "#000000ff",
+      "subtitulocolor": "#ffffffff",
+      "titulo": "Regístrate y recibe información oportuna y confiable.",
+      "subtitulo": "",
+      "titulocolor": "#ffffffff",
+      "titulosombracolor": "#000000ff"
+    },
+    {
+      "subtitulosombracolor": "#000000ff",
+      "subtitulocolor": "#ffffffff",
+      "titulo": "Fuerza Informativa Azteca",
+      "subtitulo": "Mantente al día.",
+      "titulocolor": "#ffffffff",
+      "titulosombracolor": "#000000ff"
+    }
+  ],
+  "tituloskip": "Iniciar sesión más tarde",
+  "tituloskipcolor": "#ffffffff",
+  "tituloskipsize": "20",
+  "tituloskipsombracolor": "#000000ff",
+  "video": "https://mdstrm.com/video/6425d433759ea52b191d9353.m3u8"
+}
