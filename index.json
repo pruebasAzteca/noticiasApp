@@ -2,7 +2,7 @@
   "config": {
     "login": {
       "private": "2",
-      "privateCfg": "https://uat.tv-azteca.psdops.com/aztecanoticias/login_noticias"
+      "privateCfg": "https://pruebasazteca.github.io/noticiasApp/login.json"
     }
   },
   "breakingNews": [
