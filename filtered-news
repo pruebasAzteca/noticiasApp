@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "icon": "https://d1w89odus37bm0.cloudfront.net/logos/futbol/31.gif",
+      "name": "Politica",
+      "news": [
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "appsearchresults-simplelist-appsearchresults-pos-0",
+          "highlighted": false,
+          "id": "0000018d-6c04-d1c7-a7bf-7e977fdd0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5f0e67b/2147483647/strip/true/crop/600x338+0+31/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fad%2F06%2F23542eb4411d86c971ffef575be6%2Fcorte-de-caja.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/corte-caja-migracion-sera-el-tema-central-para-las-elecciones-2024-en?_app=true",
+          "private": "1",
+          "publicationDate": "02 febrero 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#002a3a",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Corte de caja: Migración será el tema central para las elecciones de 2024 en Estados Unidos"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "appsearchresults-simplelist-appsearchresults-pos-0",
+          "highlighted": false,
+          "id": "0000018d-5732-d209-abad-57fe5e990000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/89cf557/2147483647/strip/true/crop/180x101+0+9/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F4b%2F51%2Fbde5047042b29fe2cbe18ca3282d%2Fa8cc71d828a14f929cf2f1a9873684a7",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/campaneando-elecciones-2024-mananera-la-verdad-amlo-palomea-conferencia?_app=true",
+          "private": "1",
+          "publicationDate": "29 enero 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#002a3a",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Campañeando elecciones 2024: ¿’Mañanera’ de la verdad? AMLO palomea conferencia de Xóchitl Gálvez"
+        }
+      ],
+      "tag_id": "00000182-faa0-d50f-a197-fff3cc7f0000"
+    },
+    {
+      "icon": "https://d1w89odus37bm0.cloudfront.net/logos/futbol/31.gif",
+      "name": "Finanzas",
+      "news": [
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "appsearchresults-simplelist-appsearchresults-pos-0",
+          "highlighted": false,
+          "id": "0000018d-6c04-d1c7-a7bf-7e977fdd0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5f0e67b/2147483647/strip/true/crop/600x338+0+31/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fad%2F06%2F23542eb4411d86c971ffef575be6%2Fcorte-de-caja.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/corte-caja-migracion-sera-el-tema-central-para-las-elecciones-2024-en?_app=true",
+          "private": "1",
+          "publicationDate": "02 febrero 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#002a3a",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Corte de caja: Migración será el tema central para las elecciones de 2024 en Estados Unidos"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "appsearchresults-simplelist-appsearchresults-pos-0",
+          "highlighted": false,
+          "id": "0000018d-6c04-d1c7-a7bf-7e977fdd0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5f0e67b/2147483647/strip/true/crop/600x338+0+31/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fad%2F06%2F23542eb4411d86c971ffef575be6%2Fcorte-de-caja.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/corte-caja-migracion-sera-el-tema-central-para-las-elecciones-2024-en?_app=true",
+          "private": "1",
+          "publicationDate": "02 febrero 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#002a3a",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Corte de caja: Migración será el tema central para las elecciones de 2024 en Estados Unidos"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "appsearchresults-simplelist-appsearchresults-pos-0",
+          "highlighted": false,
+          "id": "0000018d-5732-d209-abad-57fe5e990000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/89cf557/2147483647/strip/true/crop/180x101+0+9/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F4b%2F51%2Fbde5047042b29fe2cbe18ca3282d%2Fa8cc71d828a14f929cf2f1a9873684a7",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/campaneando-elecciones-2024-mananera-la-verdad-amlo-palomea-conferencia?_app=true",
+          "private": "1",
+          "publicationDate": "29 enero 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#002a3a",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Campañeando elecciones 2024: ¿’Mañanera’ de la verdad? AMLO palomea conferencia de Xóchitl Gálvez"
+        }
+      ],
+      "tag_id": "00000182-faa0-d50f-a197-fff3cc7f0000"
+    },
+    {
+      "icon": "https://d1w89odus37bm0.cloudfront.net/logos/futbol/31.gif",
+      "name": "Bienestar",
+      "news": [
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "appsearchresults-simplelist-appsearchresults-pos-0",
+          "highlighted": false,
+          "id": "0000018d-6c04-d1c7-a7bf-7e977fdd0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5f0e67b/2147483647/strip/true/crop/600x338+0+31/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fad%2F06%2F23542eb4411d86c971ffef575be6%2Fcorte-de-caja.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/corte-caja-migracion-sera-el-tema-central-para-las-elecciones-2024-en?_app=true",
+          "private": "1",
+          "publicationDate": "02 febrero 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#002a3a",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Corte de caja: Migración será el tema central para las elecciones de 2024 en Estados Unidos"
+        },
+        {
+          "author": "Publicado por: Pruebas QA",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "appsearchresults-simplelist-appsearchresults-pos-0",
+          "highlighted": false,
+          "id": "0000018d-5732-d209-abad-57fe5e990000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/89cf557/2147483647/strip/true/crop/180x101+0+9/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F4b%2F51%2Fbde5047042b29fe2cbe18ca3282d%2Fa8cc71d828a14f929cf2f1a9873684a7",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/campaneando-elecciones-2024-mananera-la-verdad-amlo-palomea-conferencia?_app=true",
+          "private": "1",
+          "publicationDate": "29 enero 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#002a3a",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Campañeando elecciones 2024: ¿’Mañanera’ de la verdad? AMLO palomea conferencia de Xóchitl Gálvez"
+        }
+      ],
+      "tag_id": "00000182-faa0-d50f-a197-fff3cc7f0000"
+    }
+  ]
+}
