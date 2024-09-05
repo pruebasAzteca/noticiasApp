@@ -1,106 +1,307 @@
 {
-    "modules": [
+  "modules": [
+    {
+      "content": "https://uat.tv-azteca.psdops.com/aztecanoticias/videos/envivo?_app=true",
+      "detail": false,
+      "firebaseEvent": "live-button",
+      "id": "0000018e-a12b-db9e-a59e-fb6b11de0000",
+      "label": "EN VIVO",
+      "moreTitle": "",
+      "schedule": "",
+      "thumbnail": "",
+      "title": "Hechos Meridiano ",
+      "view": "liveButton"
+    },
+    {
+      "promos": [
         {
-            "content": "http://local.tvazteca.com/aztecanoticias/videos/envivo?_app=true",
-            "detail": false,
-            "firebaseEvent": "live-button",
-            "id": "00000184-67e9-d18c-a7f6-77ff15780000",
-            "label": "EN VIVO",
-            "moreTitle": "",
-            "schedule": "",
-            "thumbnail": "",
-            "title": "Primer Línea",
-            "view": "liveButton"
-        },
-        {
-            "promos": [
-                {
-                    "author": "Publicado por: Ivan Chavez",
-                    "body": "http://local.tvazteca.com/aztecanoticias/seguridad/notas/morbi-mattis-odio-sed-dictum-cursus-diam-nunc-varius?appView=true&im=//IM//",                    "collaborators": "Con información de: Carlos Arteaga, Indeporte, Coberturas Especiales FIA, Vaitiare Mateos",
-                    "contentType": "nota",
-                    "mainMedia": {
-                        "url": "http://local.tvazteca.com/aztecanoticias/dims4/default/32448b2/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/jpg/quality/90/?url=http%3A%2F%2Fapache%2Fstorage%2F84%2Fbc%2F1547854245638a495f11feae2b14%2Fteinteresa4.jpeg",
-                        "vast": "",
-                        "video": "",
-                        "videoAssetId": "",
-                        "view": "image"
-                    },
-                    "publicationDate": "24 febrero 2024",
-                    "tags": [
-                        {
-                            "color": "#ffffff",
-                            "name": "Notas",
-                            "type": "ContentType"
-                        },
-                        {
-                            "color": "#595478",
-                            "name": "Seguridad",
-                            "type": "Section"
-                        }
-                    ],
-                    "title": "Morbi mattis, odio sed dictum cursus, diam nunc varius enim, eu commodo libero leo at magna"
-                }
-            ],
-            "view": "article"
-        },
-        {
-            "content": "",
-            "headline": "Te interesa",
-            "moreTitle": "",
-            "promos": [
-                {
-                    "author": "Publicado por: Ivan Chavez",
-                    "contentType": "nota",
-                    "durationTime": "",
-                    "firebaseEvent": "content-simpleslider-te-interesa-pos-1",
-                    "highlighted": false,
-                    "id": "0000018d-dc3d-d13d-a3cd-df3f93730000",
-                    "image": "http://local.tvazteca.com/aztecanoticias/dims4/default/dac702a/2147483647/strip/true/crop/464x261+0+0/resize/608x342!/format/jpg/quality/90/?url=http%3A%2F%2Fapache%2Fstorage%2Fd5%2Fca%2F28815428450aa1c51cb9f8409182%2Fteinteresa2.jpeg",
-                    "linkPermanente": "http://local.tvazteca.com/aztecanoticias/bienestar/notas/vestibulum-mollis-in-nisl-nec-commodo-nulla-pharetra?_app=true",
-                    "private": "0",
-                    "publicationDate": "24 febrero 2024",
-                    "tags": [
-                        {
-                            "color": "#ffffff",
-                            "name": "Notas",
-                            "type": "ContentType"
-                        },
-                        {
-                            "color": "",
-                            "name": "Bienestar",
-                            "type": "Section"
-                        }
-                    ],
-                    "title": "Vestibulum mollis in nisl nec commodo. Nulla pharetra neque eget dui sodales condimentum"
-                },
-                {
-                    "author": "Publicado por: Sandy Ramírez",
-                    "contentType": "nota",
-                    "durationTime": "",
-                    "firebaseEvent": "content-simpleslider-te-interesa-pos-2",
-                    "highlighted": false,
-                    "id": "0000018d-dc3c-d13d-a3cd-df3e03900001",
-                    "image": "http://local.tvazteca.com/aztecanoticias/dims4/default/b188f1e/2147483647/strip/true/crop/464x261+0+0/resize/608x342!/format/jpg/quality/90/?url=http%3A%2F%2Fapache%2Fstorage%2Fae%2F46%2F4cd7bf3b484081f56399613daf08%2Fteinteresa1.jpeg",
-                    "linkPermanente": "http://local.tvazteca.com/aztecanoticias/politica/notas/fusce-fermentum-ipsum-sed-egestas-tempor-odio-tristique?_app=true",
-                    "private": "0",
-                    "publicationDate": "24 febrero 2024",
-                    "tags": [
-                        {
-                            "color": "#ffffff",
-                            "name": "Notas",
-                            "type": "ContentType"
-                        },
-                        {
-                            "color": "#595478",
-                            "name": "Seguridad",
-                            "type": "Section"
-                        }
-                    ],
-                    "title": "Fusce fermentum, ipsum sed egestas tempor, ante odio tristique felis, vel gravida"
-                }
-            ],
-            "view": "simpleSlider"
+          "author": "Publicado por: Fuerza Informativa Azteca",
+          "body": "https://uat.tv-azteca.psdops.com/aztecanoticias/dina-boluarte-presidenta-peru-jca?appView=true&im=//IM//",
+          "contentType": "nota",
+            "collaborators": "la puta madre de los collaborators, el puto padre de los collaborators, el puto hermano de los collaborators y la perra de los collaborators.",
+          "mainMedia": {
+            "url": "https://uat.tv-azteca.psdops.com/dims4/default/5f79d8e/2147483647/strip/true/crop/1200x675+0+34/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe3%2Ff6%2F869ca165452baec9e7c86a81380b%2Fdina-boluarte-presidenta-de-peru-1.jpg",
+            "vast": "",
+            "video": "",
+            "videoAssetId": "",
+            "view": "image"
+          },
+          "publicationDate": "07 diciembre 2022",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Dina Boluarte se convierte en la primera mujer presidenta de Perú"
         }
-    ],
-    "title": "Detalle de la nota"
+      ],
+      "view": "article"
+    },
+    {
+      "promos": [
+        {
+          "author": "Publicado por: Guadalupe Mota Reyes",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-1",
+          "highlighted": false,
+          "id": "00000191-37f4-de4c-a9dd-b7fd26280000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/c00c614/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F6c%2Fa1%2F96aba5344181b6a0011ac782b287%2Fhuerto-urbano-2-c.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/bienestar/prueba-1?_app=true",
+          "private": "0",
+          "publicationDate": "09 agosto 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Prueba 2"
+        },
+        {
+          "author": "Publicado por: Estela Juárez Aguilar",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-2",
+          "highlighted": false,
+          "id": "00000191-0eb2-d44d-a391-1fbb38220000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/defc8dd/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F91%2Fa9%2F4c88264642bb8b9dc74cca203603%2Fpico-de-orizaba-puebla-candidato-de-moreana-alejandro-armenta.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/salud-educacion/ejemplo-url-una-seccion-bienestar?_app=true",
+          "private": "0",
+          "publicationDate": "01 agosto 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Ejemplo de URL con una seccion bienestar"
+        },
+        {
+          "author": "Publicado por: Sandy Ramírez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-3",
+          "highlighted": false,
+          "id": "00000191-0eac-d44d-a391-1fadf5ca0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/2b8dee1/2147483647/strip/true/crop/336x189+0+1/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd3%2F32%2Ffa0f2171c69150e033e35be3b826%2Fxochitl-galvez-1151968.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/politica/quien-es-xochitl-galvez-candidata-pan-pri-y-prd-a-la-presidencia?_app=true",
+          "private": "0",
+          "publicationDate": "01 agosto 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "¿Quién es Xóchitl Gálvez, candidata de PAN, PRI y PRD a la Presidencia en las elecciones en 2024 México?"
+        },
+        {
+          "author": "Publicado por: Jesús Herrada",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-4",
+          "highlighted": false,
+          "id": "00000190-ff24-d261-a3fc-ffbcb5970000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5085221/2147483647/strip/true/crop/1260x709+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F39%2F1c%2Fa8137f7b40ea881e5a4271722280%2Fwhatsapp-image-2024-02-29-at-18-18-47.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/politica/elecciones-2024-quien-es-xochitl-galvez-candidata-pan-pri-y-prd-a?_app=true",
+          "private": "0",
+          "publicationDate": "29 julio 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#00364f",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Xóchitl Gálvez"
+        },
+        {
+          "author": "Publicado por: Salvador Maceda, Carlos Alberto Pérez",
+          "contentType": "video",
+          "durationTime": "3:25",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-5",
+          "highlighted": false,
+          "id": "00000190-c305-d499-a7bf-db77e12f0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/f00f909/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fb6%2F5b%2F351dda9e4fb66ab184ae705d2695%2Fthumb-65f9b8b5b7d4cb36ce1440c9-1710872317245.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/que-paso-pamela-gallardo-el-caso-la-joven-que-fue-a-un-festival-y?_app=true",
+          "private": "1",
+          "publicationDate": "17 julio 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#7e3caa",
+              "name": "Seguridad",
+              "type": "Section"
+            }
+          ],
+          "title": "Fue a un festival y no volvió: El caso de Pamela Gallardo, la joven que desapareció en el Ajusco"
+        },
+        {
+          "author": "Publicado por:  América López, Jaime Guerrero, Irving Pineda, Gerardo Segura, Maxi Peláez, Felipe Vera, Carmen Sánchez, Agustín Rodríguez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-6",
+          "highlighted": false,
+          "id": "0000018f-e3fe-d6d6-a7ef-f7ffc9730000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/6052a6d/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F30%2F75%2F952824bb367e7fa0d1b3133e375e%2Fgenes-1816959.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/checking-t?_app=true",
+          "private": "0",
+          "publicationDate": "04 junio 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+        },
+        {
+          "author": "Publicado por: pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-7",
+          "highlighted": false,
+          "id": "0000018f-7832-daaf-a3bf-faff82fe0000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/539fcbb/2147483647/strip/true/crop/500x281+0+109/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Ff6%2F61%2F0e5f777f40959621fbf415d73ae3%2Ficonos-500x500-0008-finanzas.png",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/pruebas-qa-imagen-en-la-nota?_app=true",
+          "private": "0",
+          "publicationDate": "14 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#b04a00",
+              "name": "Finanzas",
+              "type": "Section"
+            }
+          ],
+          "title": " pruebas QA Imagen en la nota"
+        },
+        {
+          "author": "Publicado por: pruebas QA",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-8",
+          "highlighted": false,
+          "id": "0000018f-782f-daaf-a3bf-faefd1f60000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/5ce728f/2147483647/strip/true/crop/400x225+0+12/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F6b%2F10%2Fa6f9aab5b551f20ec24e01c551bb%2Fcdmx-2329433.jpeg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/se-mantiene-la-fase-i-contingencia-ambiental-en-la-cdmx-y-el-edomex-hoy-14?_app=true",
+          "private": "0",
+          "publicationDate": "14 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#cf0c10",
+              "name": "Bienestar",
+              "type": "Section"
+            }
+          ],
+          "title": "Se mantiene la Fase I de contingencia ambiental en la CDMX y el Edomex HOY 14 de mayo"
+        },
+        {
+          "author": "Publicado por: Iván Ramírez",
+          "contentType": "video",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-9",
+          "highlighted": false,
+          "id": "0000018f-7785-d862-afff-7fdf5f660000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/1475849/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F28%2Fe0%2Ff3242f6445c280f63ea48ba1b66b%2Fmadonna-8.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/campaneando-jorge-alvarez-maynez-dice-que-no-declinara-porque-esta-arriba?_app=true",
+          "private": "1",
+          "publicationDate": "14 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Videos",
+              "type": "ContentType"
+            },
+            {
+              "color": "#002a3a",
+              "name": "Política",
+              "type": "Section"
+            }
+          ],
+          "title": "Campañeando: Máynez da la vuelta a dichos de Colosio; dice que Xóchitl es la que debe declinar por él"
+        },
+        {
+          "author": "Publicado por:  América López, Jaime Guerrero, Irving Pineda, Gerardo Segura, Maxi Peláez, Felipe Vera, Carmen Sánchez, Agustín Rodríguez",
+          "contentType": "nota",
+          "durationTime": "",
+          "firebaseEvent": "secciones-simpleslider-te-interesa-pos-10",
+          "highlighted": false,
+          "id": "0000018f-5109-d00c-a1cf-fbf9bef40000",
+          "image": "https://uat.tv-azteca.psdops.com/dims4/default/6052a6d/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F30%2F75%2F952824bb367e7fa0d1b3133e375e%2Fgenes-1816959.jpg",
+          "linkPermanente": "https://uat.tv-azteca.psdops.com/aztecanoticias/revelan-que-casos-alzheimer-se-heredan-mas-frecuencia-cuales-son-las-causas?_app=true",
+          "private": "0",
+          "publicationDate": "06 mayo 2024",
+          "tags": [
+            {
+              "color": "#ffffff",
+              "name": "Notas",
+              "type": "ContentType"
+            },
+            {
+              "color": "#0066a0",
+              "name": "Mundo",
+              "type": "Section"
+            }
+          ],
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+        }
+      ],
+      "view": "simpleSlider",
+      "content": "",
+      "headline": "Te interesa",
+      "moreTitle": ""
+    }
+  ],
+  "title": "Detalle de la nota"
 }
