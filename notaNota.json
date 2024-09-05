@@ -1,300 +1,106 @@
 {
-  "modules": [
-    {
-      "content": "https://pruebasazteca.github.io/noticiasApp/live.json",
-      "detail": false,
-      "firebaseEvent": "live-button",
-      "label": "EN VIVO",
-      "moreTitle": "Ver en vivo",
-      "schedule": "Lun - Vier 7:59 a 9:29AM",
-      "thumbnail": "https://uat.tv-azteca.psdops.com/dims4/default/521db2e/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/jpg/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2F76%2Fb12710d44cf5bdf2c68fe1a9e487%2Faqui-entre-nos.jpg",
-      "title": "Hechos Aquí Entre Nos. Para que Alex pruebe este texto bien grandotote.",
-      "view": "liveButton"
-    },
-    {
-      "promos": [
+    "modules": [
         {
-          "author": "Publicado por: Jesica Constantino Aguilar",
-          "body": "https://uat.tv-azteca.psdops.com/aztecanoticias/alan-el-mundo-unico-mexicano-viajar-submarino-perdido-expedicion-titanic?appView=true&im=//IM//",
-          "contentType": "nota",
-          "collaborators": "la puta madre de los collaborators, el puto padre de los collaborators, el puto hermano de los collaborators y la perra de los collaborators.",
-          "mainMedia": {
-            "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-            "video": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
-            "videoAssetId": "609b243156cca108312822a6",
-            "view": "live"
-          },
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "VIDEO: Harry y Meghan casi chocan en persecución de paparazzis en Nueva York"
+            "content": "http://local.tvazteca.com/aztecanoticias/videos/envivo?_app=true",
+            "detail": false,
+            "firebaseEvent": "live-button",
+            "id": "00000184-67e9-d18c-a7f6-77ff15780000",
+            "label": "EN VIVO",
+            "moreTitle": "",
+            "schedule": "",
+            "thumbnail": "",
+            "title": "Primer Línea",
+            "view": "liveButton"
+        },
+        {
+            "promos": [
+                {
+                    "author": "Publicado por: Ivan Chavez",
+                    "body": "http://local.tvazteca.com/aztecanoticias/seguridad/notas/morbi-mattis-odio-sed-dictum-cursus-diam-nunc-varius?appView=true&im=//IM//",                    "collaborators": "Con información de: Carlos Arteaga, Indeporte, Coberturas Especiales FIA, Vaitiare Mateos",
+                    "contentType": "nota",
+                    "mainMedia": {
+                        "url": "http://local.tvazteca.com/aztecanoticias/dims4/default/32448b2/2147483647/strip/true/crop/928x522+0+0/resize/608x342!/format/jpg/quality/90/?url=http%3A%2F%2Fapache%2Fstorage%2F84%2Fbc%2F1547854245638a495f11feae2b14%2Fteinteresa4.jpeg",
+                        "vast": "",
+                        "video": "",
+                        "videoAssetId": "",
+                        "view": "image"
+                    },
+                    "publicationDate": "24 febrero 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "#595478",
+                            "name": "Seguridad",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Morbi mattis, odio sed dictum cursus, diam nunc varius enim, eu commodo libero leo at magna"
+                }
+            ],
+            "view": "article"
+        },
+        {
+            "content": "",
+            "headline": "Te interesa",
+            "moreTitle": "",
+            "promos": [
+                {
+                    "author": "Publicado por: Ivan Chavez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "content-simpleslider-te-interesa-pos-1",
+                    "highlighted": false,
+                    "id": "0000018d-dc3d-d13d-a3cd-df3f93730000",
+                    "image": "http://local.tvazteca.com/aztecanoticias/dims4/default/dac702a/2147483647/strip/true/crop/464x261+0+0/resize/608x342!/format/jpg/quality/90/?url=http%3A%2F%2Fapache%2Fstorage%2Fd5%2Fca%2F28815428450aa1c51cb9f8409182%2Fteinteresa2.jpeg",
+                    "linkPermanente": "http://local.tvazteca.com/aztecanoticias/bienestar/notas/vestibulum-mollis-in-nisl-nec-commodo-nulla-pharetra?_app=true",
+                    "private": "0",
+                    "publicationDate": "24 febrero 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Bienestar",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Vestibulum mollis in nisl nec commodo. Nulla pharetra neque eget dui sodales condimentum"
+                },
+                {
+                    "author": "Publicado por: Sandy Ramírez",
+                    "contentType": "nota",
+                    "durationTime": "",
+                    "firebaseEvent": "content-simpleslider-te-interesa-pos-2",
+                    "highlighted": false,
+                    "id": "0000018d-dc3c-d13d-a3cd-df3e03900001",
+                    "image": "http://local.tvazteca.com/aztecanoticias/dims4/default/b188f1e/2147483647/strip/true/crop/464x261+0+0/resize/608x342!/format/jpg/quality/90/?url=http%3A%2F%2Fapache%2Fstorage%2Fae%2F46%2F4cd7bf3b484081f56399613daf08%2Fteinteresa1.jpeg",
+                    "linkPermanente": "http://local.tvazteca.com/aztecanoticias/politica/notas/fusce-fermentum-ipsum-sed-egestas-tempor-odio-tristique?_app=true",
+                    "private": "0",
+                    "publicationDate": "24 febrero 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Notas",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "#595478",
+                            "name": "Seguridad",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Fusce fermentum, ipsum sed egestas tempor, ante odio tristique felis, vel gravida"
+                }
+            ],
+            "view": "simpleSlider"
         }
-      ],
-      "view": "article"
-    },
-    {
-      "backgroundColor": "#ffffff",
-      "fontColor": "#004f71",
-      "title": "Te interesa",
-      "view": "regularTitle"
-    },
-    {
-      "promos": [
-        {
-          "author": "Publicado por: Antonio Herrera",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-1",
-          "highlighted": false,
-          "id": "00000188-2a94-dec1-a78d-2af693360000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/d9cc80f/2147483647/strip/true/crop/1280x720+0+28/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2f%2Faa%2Fdcebd02c4b078d2dc1d8459ac7fb%2Fsaltillo-coahuila-granizada-menor-victima-1.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/saltillo-coahuila-granizada-lluvia-menor-muere?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#008557",
-              "name": "Estados",
-              "type": "Section"
-            }
-          ],
-          "title": "VIDEO: Granizada en Saltillo, Coahuila cobra la vida de una menor"
-        },
-        {
-          "author": "Publicado por: Ollinka Méndez",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-2",
-          "highlighted": false,
-          "id": "00000188-2a65-d4ae-a3cd-6b7fdfac0000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/75ef117/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb0%2Fb1%2F99b64f1c40fd916875311b64980c%2Fdelito-ser-gay-mexico.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/dia-internacional-contra-homofobia-transfobia-biofobia-ser-gay-mexico-era-delito?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#cf0c10",
-              "name": "Bienestar",
-              "type": "Section"
-            }
-          ],
-          "title": "Día Internacional contra la Homofobia: En México ser gay era un delito y una enfermedad"
-        },
-        {
-          "author": "Publicado por: América López",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-3",
-          "highlighted": false,
-          "id": "00000188-2a95-d0f3-a7dd-6b95283e0000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/aab9219/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F31%2F4a%2F59440b4340baa983a4716b02eb79%2Fportada-cms-10.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/amlo-anuncia-su-ultimo-libro-de-que-tratara?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#00364f",
-              "name": "Política",
-              "type": "Section"
-            }
-          ],
-          "title": "\"Me dan sentimientos\": AMLO trabaja en su último libro sobre Cuarta Transformación"
-        },
-        {
-          "author": "Publicado por: César Contreras",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-4",
-          "highlighted": false,
-          "id": "00000188-2a8f-d4ae-a3cd-6b9fac690000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/c4b1729/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd2%2F08%2F9dde5e4949dea32f8b68ce189dd5%2Fecuador-guillermo-lasso-que-pasa-muerte-cruzada.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/ecuador-que-significa-disolucion-asamblea-nacional?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Disolución de la Asamblea Nacional en Ecuador; esto es lo que sabemos"
-        },
-        {
-          "author": "Publicado por: Armando Martínez y Paco Guízar ",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-5",
-          "highlighted": false,
-          "id": "00000188-2a99-d246-affc-2aff92b60000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/2d40afe/2147483647/strip/true/crop/1152x648+0+108/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fee%2Fa7%2F5b69a7e645b785eafa68c00f43db%2Fconbaten-incendio.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/incendio-edificio-oficinas-colonia-anzures-moviliza-bomberos-que-combaten-el-fuego?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#7e3caa",
-              "name": "Seguridad",
-              "type": "Section"
-            }
-          ],
-          "title": "Bomberos combaten incendio en edificio de oficinas de la colonia Anzures "
-        },
-        {
-          "author": "Publicado por: Alexis Pérez Cerino",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-6",
-          "highlighted": false,
-          "id": "00000188-2a70-d246-affc-2a764a690000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/71097a4/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F09%2Fde%2F0ec3fea2453e96a5240c47352dbe%2Freportan-en-texas-a-cinco-pacientes-con-meningitis-tras-viaje-a-mexico-uno-de-ellos-murio.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/meningitis-contagios-texas-pacientes-viajaron-mexico-matamoros-tamaulipas?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#0066a0",
-              "name": "Mundo",
-              "type": "Section"
-            }
-          ],
-          "title": "Reportan en Texas a cinco pacientes con meningitis tras viaje a México; uno de ellos murió"
-        },
-        {
-          "author": "Publicado por: Fernanda Benítez",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-7",
-          "highlighted": false,
-          "id": "00000188-2a73-d246-affc-2a77520f0000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/7e31bcb/2147483647/strip/true/crop/1200x675+0+33/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F34%2Fef%2F5b55a16048c8955060b4ac312fc5%2Findicadores-financieros-hoy-miercoles-17-de-mayo-2023-mexico-1.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/indicadores-financieros-precio-del-dolar-hoy-17-mayo-2023-mexico?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#b04a00",
-              "name": "Finanzas",
-              "type": "Section"
-            }
-          ],
-          "title": "Indicadores financieros abren con aumentos tras datos económicos de EU"
-        },
-        {
-          "author": "Publicado por: Óscar Mendoza y Fernando Ramírez ",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-8",
-          "highlighted": false,
-          "id": "00000188-2a66-d246-affc-2a7668040000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8cd8080/2147483647/strip/true/crop/361x203+3+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F10%2F0b%2F05bf1979405b826812d846f24747%2Ftoma-clandestina-iztacalco.png",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/otra-toma-clandestina-hidrocarburo-se-localiza-iztacalco?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#7e3caa",
-              "name": "Seguridad",
-              "type": "Section"
-            }
-          ],
-          "title": "Localizan en Iztacalco otra toma clandestina de hidrocarburo "
-        },
-        {
-          "author": "Publicado por: Laura Casillas",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-9",
-          "highlighted": false,
-          "id": "00000188-2a2a-d4ae-a3cd-6b3b8fc40000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/8fac65e/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbe%2F40%2F82b1d65049dfa7d5305d54851006%2Fsre-contrata-a-mujer-transexual-como-directora-de-igualdad-de-genero-e-inclusion.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/mujer-transexual-sre-contrata-gloria-davenport-directora-igualdad-genero?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#00364f",
-              "name": "Política",
-              "type": "Section"
-            }
-          ],
-          "title": "SRE contrata a mujer transexual como directora de Igualdad de Género e Inclusión"
-        },
-        {
-          "author": "Publicado por: América López",
-          "contentType": "nota",
-          "durationTime": "",
-          "firebaseEvent": "homepage-simpleslider-te-interesa-pos-10",
-          "highlighted": false,
-          "id": "00000188-2a53-d246-affc-2a7783300000",
-          "image": "https://tvazteca.brightspotcdn.com/dims4/default/b7f2112/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F87%2F47%2Ff80399e947f382fde06a6a6cd2d3%2Fportada-cms-8.jpg",
-          "linkPermanente": "https://www.tvazteca.com/aztecanoticias/secuestro-migrantes-san-luis-potosi-amlo-afirma-que-el-gobierno-esta-trabajando-el?_app=true",
-          "publicationDate": "17 mayo 2023",
-          "tags": [
-            {
-              "color": "#ffffff",
-              "name": "Notas",
-              "type": "ContentType"
-            },
-            {
-              "color": "#00364f",
-              "name": "Política",
-              "type": "Section"
-            }
-          ],
-          "title": "AMLO afirma que se está trabajando en el caso de secuestro de 50 migrantes en San Luis Potosí"
-        }
-      ],
-      "view": "simpleSlider",
-      "content": "",
-      "moreTitle": ""
-    }
-  ],
-  "title": "Detalle de la nota"
+    ],
+    "title": "Detalle de la nota"
 }
