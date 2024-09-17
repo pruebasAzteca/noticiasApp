@@ -11,6 +11,7 @@
   "indicatorselcolor": "#ffffffff",
   "indicatorunselcolor": "#aaaaaaff",
   "loginproviders": [
+    "facebook",
     "googleAndroid"
   ],
   "slides": [
